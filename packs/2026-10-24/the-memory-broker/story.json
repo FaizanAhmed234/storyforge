@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Memory Broker",
+  "logline": "A woman who deletes traumatic memories for a living accidentally removes the memory of falling in love, only to realize her client is the man she promised to never forget.",
+  "theme": "The cost of erasing pain",
+  "twist": "The client whose painful memory she just deleted is her own husband, whom she chose to forget yesterday.",
+  "ending": "If love leaves no scar, was it ever real?",
+  "scenes": [
+   {
+    "narration": "I erase bad memories for a living, but today\u2019s client broke my absolute rule.",
+    "visual_prompt": "Close-up of Elena, a 30-year-old woman with messy dark hair and a silver lab coat, sitting in a sleek neon-lit clinic, looking intensely at a glowing glass vial.",
+    "camera": "Extreme close up, rack focus",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "He slid a heavy gold coin across my desk and whispered, 'Take away the worst day of my life.'",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, in the sleek neon-lit clinic, looking across a metal desk at a shadowy figure.",
+    "camera": "Over the shoulder shot",
+    "transition": "Smooth pan",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "I plugged the silver extraction needle into his temple. The glowing blue memory thread flooded my screen.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, in the sleek neon-lit clinic, operating a glowing holographic machine connected to a chair.",
+    "camera": "Medium shot, tracking",
+    "transition": "Match cut",
+    "mood": "Clinical"
+   },
+   {
+    "narration": "Bright sunlight, crashing ocean waves, and laughter. Wait, this isn't trauma. This is pure joy.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, staring wide-eyed at a floating holographic screen showing a sunny beach.",
+    "camera": "Close up on face",
+    "transition": "Quick zoom",
+    "mood": "Shocked"
+   },
+   {
+    "narration": "Before I could pull the needle out, the memory surged forward and flooded my own neural implant.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, clutching her head as blue light reflects in her eyes in the clinic.",
+    "camera": "Handheld jittery shot",
+    "transition": "Flash cut",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "I saw myself laughing on that beach, wearing a wedding ring, promising this exact stranger forever.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, seeing a holographic projection of herself smiling on a beach.",
+    "camera": "Wide shot, low angle",
+    "transition": "Dissolve",
+    "mood": "Heartbroken"
+   },
+   {
+    "narration": "The machine beeped. The extraction was complete. He opened his eyes and looked at me like a total stranger.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, watching a man wake up blank-faced in the clinic chair.",
+    "camera": "Medium two-shot",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "'Who are you?' he asked politely, standing up and leaving the heavy gold coin on my desk.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, sitting alone at her metal desk in the quiet clinic.",
+    "camera": "Static wide shot",
+    "transition": "Slow fade",
+    "mood": "Desolate"
+   },
+   {
+    "narration": "I reached for my own journal to figure out why I did this, but the pages were completely blank.",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, flipping through empty paper pages under a desk lamp.",
+    "camera": "Top-down insert shot",
+    "transition": "Quick cut",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "I erased the pain of losing him, but in doing so, I lost him twice. If love leaves no scar, was it ever real?",
+    "visual_prompt": "Elena, 30-year-old woman with messy dark hair and a silver lab coat, staring blankly into a dark mirror in the empty clinic.",
+    "camera": "Close up, slow push in",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "She deleted his memory. Then she wept.",
+  "title": "The Memory Broker",
+  "caption": "She thought erasing the pain was a mercy, scrubbing away the scars of a shattered heart. But as the anesthesia fades, she looks into her client's eyes and realizes the terrible truth: she just erased the only man she swore to love.\n\nWould you give up your greatest love to escape your deepest pain?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "romance",
+   "emotional",
+   "plottwist",
+   "dystopian",
+   "mindbending",
+   "creativewriting",
+   "storytelling",
+   "booktok",
+   "fiction"
+  ]
+ }
+}

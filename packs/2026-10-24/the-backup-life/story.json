@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Backup Life",
+  "logline": "A man discovers he is only a clone kept in reserve, and the original is about to wake up.",
+  "theme": "Identity and mortality",
+  "twist": "The person entering the room isn't the owner reclaiming his body, but the next backup in line.",
+  "ending": "Which one of us is afraid to die right now?",
+  "scenes": [
+   {
+    "narration": "My heart stopped beating exactly three minutes ago. Yet here I am, wide awake and terrified.",
+    "visual_prompt": "A 25-year-old man with messy dark hair, wearing a grey cotton t-shirt, sitting upright inside a glowing vertical glass pod in a dark, sterile laboratory.",
+    "camera": "Extreme close-up on his wide eyes, slowly pulling back.",
+    "transition": "Hard cut",
+    "mood": "Panic"
+   },
+   {
+    "narration": "The digital clock on the wall flashes zero. My memories of yesterday are just heavily downloaded files.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, staring blankly at a glowing red digital clock reading 00:00 inside the dark laboratory.",
+    "camera": "Medium shot, tracking forward as he touches the glass.",
+    "transition": "Smash cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "They built this body as a spare tire. When the original driver crashes, I take the wheel.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, stepping out of the glass pod onto cold concrete flooring.",
+    "camera": "Low angle tracking shot following his bare feet.",
+    "transition": "Quick pan",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Except the original driver didn't crash. He walked away completely fine, leaving me completely redundant.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, watching a live wall monitor showing a bustling city street.",
+    "camera": "Over-the-shoulder shot framing the large monitor.",
+    "transition": "Dissolve",
+    "mood": "Isolation"
+   },
+   {
+    "narration": "Protocol says redundant units must be purged before sunrise. That gives me roughly four minutes to escape.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, frantically searching a dark metal control desk for an exit key.",
+    "camera": "Handheld fast push-in on his sweating face.",
+    "transition": "Fast cut",
+    "mood": "Desperation"
+   },
+   {
+    "narration": "I grab a heavy wrench from the metal console. If I am going to vanish, I am taking the glass with me.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, gripping a heavy steel wrench with both hands.",
+    "camera": "Tight shot on his knuckles turning white.",
+    "transition": "Match cut",
+    "mood": "Aggressive"
+   },
+   {
+    "narration": "A heavy alarm cuts through the silence. The steel security door at the end of the corridor begins to slide open.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, spinning around as blinding white light floods the dark hallway.",
+    "camera": "Wide shot facing the blinding doorway.",
+    "transition": "Flash cut",
+    "mood": "Shock"
+   },
+   {
+    "narration": "A man walks in wearing my exact face, looking just as confused and terrified as I am right now.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, facing an identical man in the doorway wearing a grey t-shirt.",
+    "camera": "Two-shot focusing on their matching frightened expressions.",
+    "transition": "Slow zoom",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "He drops his bag and whispers that his activation pod just opened. Which means I am not the backup.",
+    "visual_prompt": "The same 25-year-old man with messy dark hair and grey t-shirt, staring intensely at the newcomer.",
+    "camera": "Rapid push-in between the two identical faces.",
+    "transition": "Hard cut",
+    "mood": "Revelation"
+   },
+   {
+    "narration": "If he is the spare, and I am the spare, then exactly who walked out of this lab yesterday?",
+    "visual_prompt": "The two identical men standing under flickering overhead lights in the empty laboratory, shadows stretching long behind them.",
+    "camera": "High-angle wide shot looking straight down.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I was only built to die.",
+  "title": "The Backup Life",
+  "caption": "For five years, I thought these memories were mine. But the door is opening, and the man walking in isn't my creator... he's the next version in line. How much of your soul survives when you're just replaceable?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "clone",
+   "existential",
+   "cinematic",
+   "dystopian",
+   "identity",
+   "mindbend",
+   "storytelling",
+   "twist"
+  ]
+ }
+}

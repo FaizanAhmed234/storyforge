@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Hourglass Echo",
+  "logline": "A young timekeeper discovers her own dying heartbeat is the ticking sound powering her isolated desert village.",
+  "theme": "Sacrifice and the illusion of time",
+  "twist": "She is not measuring the town's time; her failing heart is actively generating it.",
+  "ending": "Would you keep your heart beating if every tick erased someone you loved?",
+  "scenes": [
+   {
+    "narration": "My grandfather lied when he said time is an endless river. It is a finite, leaking tank.",
+    "visual_prompt": "Maya, 20-year-old woman with messy dark hair and a grease-stained canvas jumpsuit, standing inside a dusty stone clocktower in a barren desert.",
+    "camera": "Extreme close-up on Maya's tense eyes, shaky handheld",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Every morning at dawn, I climb these wooden steps to wind the massive brass gears of our village clock.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, climbing creaky wooden stairs inside the dusty stone clocktower.",
+    "camera": "Low angle tracking shot moving upward",
+    "transition": "Smooth pan",
+    "mood": "Relentless"
+   },
+   {
+    "narration": "The town below depends on these hands moving. Without them, people freeze mid-step in the endless desert heat.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, looking out a narrow arched window at a motionless village below.",
+    "camera": "Over-the-shoulder medium shot",
+    "transition": "Quick zoom",
+    "mood": "Oppressive"
+   },
+   {
+    "narration": "Today, the main gear jammed. I forced my bare hands into the teeth, praying the metal wouldn't bite.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, shoving her hands deep into giant grinding brass gears.",
+    "camera": "Macro shot on hands and metal",
+    "transition": "Fast cut",
+    "mood": "Panic"
+   },
+   {
+    "narration": "Blood smeared across the brass. But instead of stopping, the clock suddenly sped up with a sickening thud.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, staring at bright red blood mixing with black oil on golden cogs.",
+    "camera": "Close-up tracking",
+    "transition": "Smash cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "Then, I felt it. The rhythmic ticking inside the machine matched the exact frantic pace of my chest.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, pressing her bloody hand against her own racing heart.",
+    "camera": "Push in on chest",
+    "transition": "Slow dissolve",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I opened the master cylinder where the ancient pendulum should swing. There was no swinging weight inside.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, unlocking a heavy glass vault revealing an empty chamber.",
+    "camera": "POV shot looking inside the dark glass",
+    "transition": "Quick pan",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "Instead, glowing cables snaked out of the wall, wrapping tightly around my wrists and feeding straight into my veins.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, screaming as glowing golden wires burrow into her flesh.",
+    "camera": "Wide shot pulling back rapidly",
+    "transition": "Flash cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "The townspeople down below finally moved again. They cheered, completely unaware whose life was fueling their morning.",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, weeping as she watches cheering villagers through the dust.",
+    "camera": "High angle wide shot",
+    "transition": "Slow fade",
+    "mood": "Heartbreaking"
+   },
+   {
+    "narration": "Would you keep your heart beating if every tick erased someone you loved from existence?",
+    "visual_prompt": "Maya with messy dark hair and a grease-stained canvas jumpsuit, staring directly into the camera as her chest glows faintly.",
+    "camera": "Static extreme close-up",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Her heartbeat powers the entire town.",
+  "title": "The Hourglass Echo",
+  "caption": "Every tick of the great desert clock isn't counting down time\u2014it's bleeding from her chest. When the rhythm starts to slow, she faces an impossible truth about the world she keeps alive. What would you sacrifice to save the people who don't know they're living on borrowed beats?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "darkfantasy",
+   "timeloop",
+   "scifistories",
+   "creativewriting",
+   "dystopian",
+   "emotional",
+   "storytelling",
+   "booktok"
+  ]
+ }
+}
