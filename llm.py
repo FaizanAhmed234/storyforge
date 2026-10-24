@@ -5,6 +5,8 @@ BASE = "https://generativelanguage.googleapis.com/v1beta"
 PREFER = ["gemini-3.5-flash-lite", "gemini-3.6-flash",
           "gemini-3.1-flash-lite", "gemini-3.5-flash",
           "gemini-flash-lite-latest"]
+SKIP = ("image", "tts", "transcribe", "omni", "robotics",
+        "compute", "customtools", "pro", "2.5")
 _cands = None
 
 def _candidates():
@@ -20,10 +22,8 @@ def _candidates():
     ok = [m["name"].split("/")[-1] for m in r.json().get("models", [])
           if "generateContent" in m.get("supportedGenerationMethods", [])]
     _cands = [m for m in PREFER if m in ok]
-        skip = ("image", "tts", "transcribe", "omni", "robotics",
-            "compute", "customtools", "pro", "2.5")
     _cands += [m for m in ok if "flash" in m and m not in _cands
-               and not any(x in m for x in skip)]
+               and not any(x in m for x in SKIP)]
     print("Models to try:", _cands[:8])
     return _cands
 
@@ -53,3 +53,4 @@ def ask_json(system, user, max_tokens=8000):
                 print(f"{model} failed: {e}")
                 break
     raise RuntimeError(f"All models failed: {last}")
+
