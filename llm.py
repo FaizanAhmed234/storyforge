@@ -2,8 +2,8 @@ import json, os, time, requests
 from config import CFG
 
 BASE = "https://generativelanguage.googleapis.com/v1beta"
-PREFER = ["gemini-3.1-flash-lite", "gemini-2.5-flash-lite",
-          "gemini-2.5-flash", "gemini-3-flash-preview",
+PREFER = ["gemini-3.5-flash-lite", "gemini-3.6-flash",
+          "gemini-3.1-flash-lite", "gemini-3.5-flash",
           "gemini-flash-lite-latest"]
 _cands = None
 
@@ -20,8 +20,8 @@ def _candidates():
     ok = [m["name"].split("/")[-1] for m in r.json().get("models", [])
           if "generateContent" in m.get("supportedGenerationMethods", [])]
     _cands = [m for m in PREFER if m in ok]
-    skip = ("image", "tts", "transcribe", "omni", "robotics",
-            "compute", "customtools", "pro")
+        skip = ("image", "tts", "transcribe", "omni", "robotics",
+            "compute", "customtools", "pro", "2.5")
     _cands += [m for m in ok if "flash" in m and m not in _cands
                and not any(x in m for x in skip)]
     print("Models to try:", _cands[:8])
