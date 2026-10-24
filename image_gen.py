@@ -1,8 +1,8 @@
-import base64, os, subprocess, threading, urllib.parse, requests
+import base64, os, shutil, subprocess, threading, time, urllib.parse, requests
 from config import CFG
 
 _lock = threading.Lock()
-_dead = {"poll": False, "gem": False}
+_s = {"gem_dead": False, "poll_fails": 0, "last": None}
 GEM_IMAGE = ["gemini-3.1-flash-image", "gemini-3.1-flash-lite-image",
              "gemini-3.1-flash-image-preview"]
 
@@ -12,6 +12,22 @@ def _normalize(path):
         "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920",
         "-q:v", "2", tmp], check=True, capture_output=True)
     os.replace(tmp, path)
+
+def _poll(prompt, out, seed):
+    url = "https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt[:600])
+    for i in range(4):
+        try:
+            r = requests.get(url, timeout=120, params={
+                "width": 864, "height": 1536, "nologo": "true",
+                "seed": seed + i, "model": "flux"})
+            if r.ok and r.headers.get("content-type", "").startswith("image"):
+                open(out, "wb").write(r.content)
+                return True
+            print(f"Pollinations try {i+1}: {r.status_code} {r.text[:120]!r}")
+        except requests.RequestException as e:
+            print(f"Pollinations try {i+1} error: {e}")
+        time.sleep(12 * (i + 1))
+    return False
 
 def _gemini(prompt, out):
     for m in GEM_IMAGE:
@@ -31,39 +47,30 @@ def _gemini(prompt, out):
                     return True
         except Exception as e:
             print("Gemini image error:", m, e)
-    _dead["gem"] = True
+    _s["gem_dead"] = True
     return False
-
-def _pollinations(prompt, out, seed):
-    url = "https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt[:700])
-    try:
-        r = requests.get(url, timeout=90, params={
-            "width": 720, "height": 1280, "nologo": "true", "seed": seed})
-        if r.ok and r.headers.get("content-type", "").startswith("image"):
-            open(out, "wb").write(r.content)
-            return True
-        print("Pollinations failed:", r.status_code, r.text[:200])
-    except requests.RequestException as e:
-        print("Pollinations error:", e)
-    _dead["poll"] = True
-    return False
-
-def _fallback(out, seed):
-    colors = ["0d1b2a", "1b263b", "2b1d3a", "1f2a1f", "3a1d1d"]
-    subprocess.run(["ffmpeg", "-y", "-f", "lavfi", "-i",
-        f"color=c=0x{colors[seed % len(colors)]}:s=1080x1920",
-        "-frames:v", "1", out], check=True, capture_output=True)
-    print("WARNING: used plain fallback background")
 
 def generate_image(prompt: str, out_path: str, seed: int) -> str:
     with _lock:
         ok = False
-        if not _dead["gem"]:
+        if _s["poll_fails"] < 2:
+            ok = _poll(prompt, out_path, seed)
+            if ok:
+                _s["poll_fails"] = 0
+            else:
+                _s["poll_fails"] += 1
+        if not ok and not _s["gem_dead"]:
             ok = _gemini(prompt, out_path)
-        if not ok and not _dead["poll"]:
-            ok = _pollinations(prompt, out_path, seed)
         if ok:
             _normalize(out_path)
+            _s["last"] = out_path
+            time.sleep(4)
+        elif _s["last"]:
+            print("WARNING: reusing previous image")
+            shutil.copy(_s["last"], out_path)
         else:
-            _fallback(out_path, seed)
+            print("WARNING: plain background")
+            subprocess.run(["ffmpeg", "-y", "-f", "lavfi", "-i",
+                "color=c=0x1b263b:s=1080x1920", "-frames:v", "1", out_path],
+                check=True, capture_output=True)
     return out_path
