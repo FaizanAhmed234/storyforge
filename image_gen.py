@@ -2,7 +2,8 @@ import base64, os, shutil, subprocess, threading, time, urllib.parse, requests
 from config import CFG
 
 _lock = threading.Lock()
-_s = {"gem_dead": False, "poll_fails": 0, "last": None}
+_s = {"gem_dead": False, "last": None, "t": 0.0}
+GAP = 47  # free tier: 1 image per 45s
 GEM_IMAGE = ["gemini-3.1-flash-image", "gemini-3.1-flash-lite-image",
              "gemini-3.1-flash-image-preview"]
 
@@ -15,18 +16,21 @@ def _normalize(path):
 
 def _poll(prompt, out, seed):
     url = "https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt[:600])
-    for i in range(4):
+    for i in range(5):
+        wait = GAP - (time.time() - _s["t"])
+        if wait > 0:
+            time.sleep(wait)
+        _s["t"] = time.time()
         try:
             r = requests.get(url, timeout=120, params={
                 "width": 864, "height": 1536, "nologo": "true",
-                "seed": seed + i, "model": "flux"})
+                "seed": seed, "model": "flux"})
             if r.ok and r.headers.get("content-type", "").startswith("image"):
                 open(out, "wb").write(r.content)
                 return True
-            print(f"Pollinations try {i+1}: {r.status_code} {r.text[:120]!r}")
+            print(f"Pollinations try {i+1}: {r.status_code} {r.text[:100]!r}")
         except requests.RequestException as e:
             print(f"Pollinations try {i+1} error: {e}")
-        time.sleep(12 * (i + 1))
     return False
 
 def _gemini(prompt, out):
@@ -38,7 +42,7 @@ def _gemini(prompt, out):
             r = requests.post(url, params={"key": CFG.gemini_key},
                               json=body, timeout=120)
             if not r.ok:
-                print("Gemini image", m, r.status_code, r.text[:150])
+                print("Gemini image", m, r.status_code, r.text[:120])
                 continue
             for part in r.json()["candidates"][0]["content"]["parts"]:
                 d = part.get("inlineData") or part.get("inline_data")
@@ -52,19 +56,12 @@ def _gemini(prompt, out):
 
 def generate_image(prompt: str, out_path: str, seed: int) -> str:
     with _lock:
-        ok = False
-        if _s["poll_fails"] < 2:
-            ok = _poll(prompt, out_path, seed)
-            if ok:
-                _s["poll_fails"] = 0
-            else:
-                _s["poll_fails"] += 1
+        ok = _poll(prompt, out_path, seed)
         if not ok and not _s["gem_dead"]:
             ok = _gemini(prompt, out_path)
         if ok:
             _normalize(out_path)
             _s["last"] = out_path
-            time.sleep(4)
         elif _s["last"]:
             print("WARNING: reusing previous image")
             shutil.copy(_s["last"], out_path)
