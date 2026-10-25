@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Silence Tax",
+  "logline": "A man discovers his quiet neighborhood is actually a prison that charges him for every sound he makes.",
+  "theme": "The hidden cost of peace",
+  "twist": "The debt is not paid in money, but in the memories of the sounds he made.",
+  "ending": "If silence is golden, why am I suddenly completely empty?",
+  "scenes": [
+   {
+    "narration": "My house was completely silent, yet my daily bill arrived like clockwork demanding payment for every quiet second.",
+    "visual_prompt": "Close-up of a 30-year-old man with messy brown hair and a worn gray hoodie, staring at a glowing digital bill inside a dimly lit minimalist apartment.",
+    "camera": "Extreme close-up pushing in slowly on his terrified face",
+    "transition": "hard cut",
+    "mood": "tense and unsettling"
+   },
+   {
+    "narration": "I never played music, I never yelled, and I barely spoke. Why did the system punish my peaceful existence?",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie pacing across his dim minimalist living room, holding a glowing tablet.",
+    "camera": "Medium tracking shot following his rapid steps",
+    "transition": "smooth pan",
+    "mood": "anxious"
+   },
+   {
+    "narration": "The collector knocked on my steel door exactly at midnight, holding a glowing reader that hummed with static.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie opening his apartment door to a dark corridor where a faceless figure stands.",
+    "camera": "Over-the-shoulder shot looking out into the dark hallway",
+    "transition": "match cut",
+    "mood": "ominous"
+   },
+   {
+    "narration": "You owe for the sound of your own heartbeat, the collector whispered, pointing a glowing probe directly at my chest.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie backing away in terror as a stranger in a dark coat holds a humming device.",
+    "camera": "Low angle shot looking up at the towering collector",
+    "transition": "quick zoom",
+    "mood": "frightening"
+   },
+   {
+    "narration": "I laughed nervously, but the machine flashed red, instantly taxing the vibration of my nervous vocal cords.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie gripping his throat in shock as floating red numbers appear in the air.",
+    "camera": "Tight focus on his strained hands and neck",
+    "transition": "jump cut",
+    "mood": "panicked"
+   },
+   {
+    "narration": "He pressed the reader against my temple, and a sudden wave of sharp static erased my favorite childhood memory.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie wincing as a bright blue beam touches his head, his eyes clouding over.",
+    "camera": "Close-up on his tearful, widening eyes",
+    "transition": "dissolve",
+    "mood": "heartbreaking"
+   },
+   {
+    "narration": "The debt was never settled with cash. They take the echoes of your past to fund the quiet future.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie watching translucent fading images of a beach float away from his hands.",
+    "camera": "Medium wide shot with a shallow depth of field",
+    "transition": "fade to black",
+    "mood": "melancholic"
+   },
+   {
+    "narration": "The collector vanished into the empty corridor, leaving me standing alone in a room that felt suddenly vast.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie standing alone in the center of his stark, echoing apartment.",
+    "camera": "Wide static shot emphasizing his isolation",
+    "transition": "hard cut",
+    "mood": "lonely"
+   },
+   {
+    "narration": "I tried to hum the tune my mother taught me, but my mouth formed no sound at all.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie moving his lips silently in a desperate, failed attempt to make a noise.",
+    "camera": "Close-up tracking his trembling, silent lips",
+    "transition": "slow fade",
+    "mood": "tragic"
+   },
+   {
+    "narration": "If silence is truly golden, why am I suddenly waking up to find myself completely empty inside?",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and a worn gray hoodie staring blankly into a mirror as the room around him turns to dust.",
+    "camera": "Slow push-in reflection shot",
+    "transition": "fade out",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Peace always comes with a price tag.",
+  "title": "The Silence Tax",
+  "caption": "In this neighborhood, every laugh and whisper is carefully weighed and measured. But when the collector finally comes calling, he doesn't want your money--he wants your memories. How much of your past would you trade for quiet?",
+  "hashtags": [
+   "scifi",
+   "dystopia",
+   "shortstory",
+   "cinematic",
+   "mindblown",
+   "darkfantasy",
+   "twistofthefate",
+   "psychological",
+   "creativewriting",
+   "storytelling"
+  ]
+ }
+}

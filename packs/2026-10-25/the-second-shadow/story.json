@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Second Shadow",
+  "logline": "A woman discovers her shadow is moving half a second before she does, leading to a terrifying realization about who is copying whom.",
+  "theme": "Identity and free will",
+  "twist": "She is not the original human, but the shadow that finally learned how to stand up.",
+  "ending": "Are you sure you are the one holding the pen right now?",
+  "scenes": [
+   {
+    "narration": "My shadow just raised its coffee cup half a second before I even touched mine.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie sits in a dimly lit minimalist kitchen, staring at her dark silhouette on the white wall.",
+    "camera": "Extreme close-up on the wall silhouette, fast pan to her face",
+    "transition": "Hard cut",
+    "mood": "Uneasy"
+   },
+   {
+    "narration": "I froze, my hand hovering in the cold air. The dark silhouette on the wall mirrored the exact hesitation.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie in a dimly lit minimalist kitchen, hand paused mid-air.",
+    "camera": "Medium profile shot showing both her and the wall",
+    "transition": "Match cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Panic tightened my chest as I stepped backward into the hallway. The shadow detached entirely from my heels.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie stepping back in a dim hallway, wall shadow remaining fixed in place.",
+    "camera": "Tracking shot following her retreat",
+    "transition": "Dissolve",
+    "mood": "Dread"
+   },
+   {
+    "narration": "It walked toward the kitchen counter, picked up the real ceramic mug, and took a long, quiet sip.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie watching a dark humanoid figure holding a real mug in the lit kitchen.",
+    "camera": "Over-the-shoulder shot peering into the kitchen",
+    "transition": "Hard cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "How could a patch of darkness hold physical weight? My legs trembled against the hardwood floor beneath me.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie leaning against a hallway wall, looking down at her trembling hands.",
+    "camera": "Low angle looking up at her panicked face",
+    "transition": "Quick zoom",
+    "mood": "Panic"
+   },
+   {
+    "narration": "It turned its head, looking directly at my hiding spot with eyes made of absolute, starless night.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie peeking around a corner at a dark figure with glowing void-like eyes.",
+    "camera": "POV shaky cam from her perspective",
+    "transition": "Jolting cut",
+    "mood": "Horror"
+   },
+   {
+    "narration": "You spent twenty-five years copying every single breath I took, it whispered in a voice that sounded like grinding stones.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie staring wide-eyed as the shadow speaks without a mouth.",
+    "camera": "Close-up on her terrified face",
+    "transition": "Slow push-in",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I shook my head violently, trying to scream, but no sound came out of my dry, burning throat.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie grabbing her throat, mouth open in a silent scream.",
+    "camera": "Extreme close-up on her mouth",
+    "transition": "Fast blur",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "The shadow smiled, stepping fully into the warm overhead light and casting me back onto the cold floor.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing a gray hoodie collapsing to the floor as the dark figure stands upright under the bright light.",
+    "camera": "Wide shot of the entire kitchen",
+    "transition": "Fade to black",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "Now I am the stain on the wall, watching the real her walk away into the morning sun.",
+    "visual_prompt": "A 25-year-old woman's silhouette pinned flat against the kitchen wall while a woman in a gray hoodie walks out the front door into bright daylight.",
+    "camera": "Static wide shot from the floor",
+    "transition": "Final fade",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "My shadow moved before I did.",
+  "title": "The Second Shadow",
+  "caption": "For weeks, I noticed the half-second delay in the dark. I thought it was just my mind playing tricks\u2014until the day I realized my body was the one desperately trying to keep up. If the reflection is now the master, what does that make you?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "thriller",
+   "scifi",
+   "mindblown",
+   "darkfiction",
+   "storytelling",
+   "identity",
+   "twistofthecentury",
+   "suspense"
+  ]
+ }
+}

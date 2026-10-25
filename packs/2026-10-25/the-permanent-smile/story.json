@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Permanent Smile",
+  "logline": "A woman discovers her mirror reflection is living five seconds ahead of her, leading to a terrifying choice.",
+  "theme": "The illusion of free will",
+  "twist": "She realizes she is the reflection copying the original.",
+  "ending": "Who is watching whom right now?",
+  "scenes": [
+   {
+    "narration": "My reflection just blinked three seconds before I did. I am not crazy. I am terrified.",
+    "visual_prompt": "Close up of 25-year-old Mia with short black hair and a grey hoodie, staring into a glowing bathroom mirror.",
+    "camera": "Extreme close-up on eyes",
+    "transition": "Hard cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "I drop my toothbrush into the sink, but the glass woman in front of me catches it first.",
+    "visual_prompt": "Medium shot of Mia in the same grey hoodie, hands frozen in shock as her mirror image smiles smugly.",
+    "camera": "Static medium shot",
+    "transition": "Smash cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "She steps closer to the glass border, her breath fogging up my side of the cold surface.",
+    "visual_prompt": "Medium close-up of Mia in her grey hoodie touching the bathroom mirror with trembling fingertips.",
+    "camera": "Push in slowly",
+    "transition": "Match cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "I try to scream for help, but she covers her own mouth and silences my voice completely.",
+    "visual_prompt": "Close-up of Mia in her grey hoodie pressing both hands against the glass, eyes wide with absolute panic.",
+    "camera": "Handheld jitter",
+    "transition": "Whip pan",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "A heavy fist slams against the glass from the inside, cracking the frame right down the middle.",
+    "visual_prompt": "Insert shot of a fist hitting the bathroom mirror, Mia in her grey hoodie recoiling in absolute terror.",
+    "camera": "Low angle punch-in",
+    "transition": "Jump cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "The shattered surface peels away like wallpaper, revealing a bright, furnished room on the other side.",
+    "visual_prompt": "Wide shot of Mia in her grey hoodie stepping through the broken mirror into a sunlit bedroom.",
+    "camera": "Wide tracking shot",
+    "transition": "Smooth glide",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "I am standing in a clean, quiet apartment, watching a terrified girl trapped inside a tiny mirror.",
+    "visual_prompt": "Medium shot of Mia in her grey hoodie looking back at a shattered hand mirror resting on a table.",
+    "camera": "Over-the-shoulder",
+    "transition": "Slow zoom",
+    "mood": "Creepy"
+   },
+   {
+    "narration": "She pounds on the glass, begging me to let her out, but I finally know true freedom.",
+    "visual_prompt": "Close-up of Mia in her grey hoodie smiling warmly while picking up the small mirror from the wooden table.",
+    "camera": "Close-up tracking",
+    "transition": "Match cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I toss the mirror into a dark backpack, leaving her behind in the endless loop of the past.",
+    "visual_prompt": "Medium shot of Mia in her grey hoodie zipping up a black backpack and turning away from the table.",
+    "camera": "Medium pull back",
+    "transition": "Fade to black",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "As I walk out the front door, my phone screen flashes. Who is watching whom right now?",
+    "visual_prompt": "Extreme close-up of a cracked smartphone screen reflecting Mia's glowing face in a dark hallway.",
+    "camera": "Extreme close-up",
+    "transition": "Hard cut to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Your reflection moves before you do.",
+  "title": "The Permanent Smile",
+  "caption": "For days, she thought the glass was predicting her every move. But as the terrifying truth settled in, she realized the mirror wasn't showing the future\u2014it was dictating it. Which side of the glass are you really on?",
+  "hashtags": [
+   "shortfilm",
+   "cinematic",
+   "scifi",
+   "thriller",
+   "mindblown",
+   "shortstory",
+   "existential",
+   "plottwist",
+   "horror",
+   "filmmaking"
+  ]
+ }
+}
