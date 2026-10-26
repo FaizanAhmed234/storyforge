@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Honest Mirror",
+  "logline": "A woman discovers her smart mirror doesn't show her reflection, but the thoughts of the person she loves most.",
+  "theme": "The terrifying weight of absolute honesty in relationships.",
+  "twist": "The thoughts aren't coming from her husband, but from the stranger living in their guest house.",
+  "ending": "If he isn't thinking about me, then whose life am I actually living?",
+  "scenes": [
+   {
+    "narration": "My smart mirror just lied to my face, or maybe it finally told me the brutal truth.",
+    "visual_prompt": "Close-up of Elena, 28, messy dark hair, wearing a grey oversized sweater, standing in a brightly lit modern bathroom facing a sleek glass mirror.",
+    "camera": "Extreme close-up pushing into the glass surface.",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Every morning, Elena, 28, messy dark hair, grey oversized sweater, sees her reflection here. Today, the glass shows text instead.",
+    "visual_prompt": "Medium shot of Elena, 28, messy dark hair, wearing a grey oversized sweater, staring at glowing red words scrolling across the bathroom mirror glass.",
+    "camera": "Static medium shot",
+    "transition": "Quick pan",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "It displays raw thoughts. Not mine. My husband Mark's. The screen claims he regrets every single year we spent together.",
+    "visual_prompt": "Over-the-shoulder shot of Elena, 28, messy dark hair, grey oversized sweater, reading harsh sentences reflected in the bathroom mirror.",
+    "camera": "Over-the-shoulder tracking",
+    "transition": "Match cut",
+    "mood": "Heartbroken"
+   },
+   {
+    "narration": "Panic tightens my chest. I run downstairs, finding Mark in the kitchen drinking coffee, smiling his usual warm, gentle morning smile.",
+    "visual_prompt": "Interior kitchen, Elena, 28, messy dark hair, grey oversized sweater, confronting Mark who sits at a wooden island holding a white mug.",
+    "camera": "Handheld tracking shot",
+    "transition": "Jump cut",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "He kisses my forehead, asking if I slept well. His eyes hold pure affection. But the mirror upstairs said he hates me.",
+    "visual_prompt": "Close-up of Mark kissing Elena, 28, messy dark hair, grey oversized sweater, while she looks past him with a haunted expression.",
+    "camera": "Tight focus on faces",
+    "transition": "Slow fade",
+    "mood": "Conflicted"
+   },
+   {
+    "narration": "Confused and desperate for answers, I rush back upstairs to watch the glass. Maybe it's glitching. Maybe it's all a cruel joke.",
+    "visual_prompt": "Elena, 28, messy dark hair, grey oversized sweater, sprinting back up modern wooden stairs into the bright bathroom.",
+    "camera": "Fast tracking forward",
+    "transition": "Fast zoom",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "The text updates instantly. New words scroll past: 'She's finally gone downstairs. Time to breathe.' But Mark is still down there.",
+    "visual_prompt": "Close-up of Elena, 28, messy dark hair, grey oversized sweater, eyes wide in terror staring at the glowing text on the mirror.",
+    "camera": "Push in on terrified eyes",
+    "transition": "Hard cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "A cold dread washes over me. The thoughts aren't coming from Mark at all. They are broadcasting from someone much closer.",
+    "visual_prompt": "Elena, 28, messy dark hair, grey oversized sweater, slowly turning her head away from the mirror toward the open bathroom door.",
+    "camera": "Slow pan left",
+    "transition": "Slow dissolve",
+    "mood": "Dread"
+   },
+   {
+    "narration": "Heavy footsteps echo down the upstairs hallway. A shadow falls across the doorframe. The guest living in our spare room.",
+    "visual_prompt": "Elena, 28, messy dark hair, grey oversized sweater, staring in horror as a tall silhouette appears in the bright hallway mirror reflection.",
+    "camera": "Low angle looking at the doorway",
+    "transition": "Quick cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "If he isn't thinking about my husband, then whose life am I actually living right now?",
+    "visual_prompt": "Extreme close-up of Elena, 28, messy dark hair, grey oversized sweater, tears welling up as the mirror goes completely pitch black.",
+    "camera": "Static extreme close-up",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "It didn't show her reflection. It showed him.",
+  "title": "The Honest Mirror",
+  "caption": "She thought the glass was reflecting her husband's deep, unspoken love. But the footsteps pacing overhead at midnight belonged to someone else entirely. How well do you really know the people under your roof?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "twistending",
+   "psychological",
+   "suspense",
+   "darksecrets",
+   "fiction",
+   "storytime",
+   "mindbending"
+  ]
+ }
+}

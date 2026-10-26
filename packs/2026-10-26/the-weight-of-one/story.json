@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Weight of One",
+  "logline": "A lonely archivist discovers that deleting digital photos erases real people from the physical world.",
+  "theme": "Consequences of our digital habits",
+  "twist": "Deleting a cloud folder erased her only living relative, the last person who remembered her.",
+  "ending": "Who will delete you when you finally fade away?",
+  "scenes": [
+   {
+    "narration": "Your phone storage is killing people. I found out the hard way when my ex vanished completely.",
+    "visual_prompt": "Maya, 25, short dark messy hair, wearing a grey oversized hoodie, sits in a messy neon-lit bedroom staring at a glowing phone screen.",
+    "camera": "Extreme close-up on terrified eyes, vertical 9:16",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "It started small. I cleared out old vacation screenshots, and the beaches in my physical photo albums turned to blank white paper.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, holding a physical photo album with blank white pages in her bedroom.",
+    "camera": "Medium shot, tracking forward",
+    "transition": "match cut",
+    "mood": "unsettling"
+   },
+   {
+    "narration": "Then I deleted my high school group chat. Three childhood friends stopped texting, and their desks at work were empty.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, standing in an empty brightly lit modern office with abandoned desks.",
+    "camera": "Wide panning shot",
+    "transition": "fast whip pan",
+    "mood": "creepy"
+   },
+   {
+    "narration": "The cloud does not just store data. It anchors physical existence to our pocket devices.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, staring at floating holographic data streams in her dark room.",
+    "camera": "Low angle push in",
+    "transition": "smooth dissolve",
+    "mood": "mysterious"
+   },
+   {
+    "narration": "Panic set in. My thumb hovered over the trash icon containing my entire childhood video archive.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, trembling thumb hovering over a glowing trash icon on her phone.",
+    "camera": "Macro lens on the phone screen",
+    "transition": "hard cut",
+    "mood": "frantic"
+   },
+   {
+    "narration": "If I delete the files, do the memories evaporate, or do the people holding them simply cease to breathe?",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, looking horrified at her reflection in the dark window.",
+    "camera": "Over-the-shoulder reflection shot",
+    "transition": "slow zoom",
+    "mood": "dread"
+   },
+   {
+    "narration": "I had to test the terrifying theory. I tapped empty on the folder labeled family vacation two thousand ten.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, tapping the screen aggressively under flashing red notification lights.",
+    "camera": "Quick zoom on the tapping finger",
+    "transition": "jump cut",
+    "mood": "shocking"
+   },
+   {
+    "narration": "My mother's portrait on the wall dissolved into grey dust before my eyes as the storage meter dropped.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, watching a framed picture disintegrate into ash on her bedroom wall.",
+    "camera": "Tracking shot following the falling dust",
+    "transition": "match cut",
+    "mood": "heartbreaking"
+   },
+   {
+    "narration": "Now my phone battery is at one percent, and my hands are already turning completely transparent.",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, holding her glowing phone while her fingers turn see-through.",
+    "camera": "Close-up on fading transparent hands",
+    "transition": "rapid fade",
+    "mood": "terrifying"
+   },
+   {
+    "narration": "The screen goes black. Who will delete you when you finally fade away into nothingness?",
+    "visual_prompt": "Maya, 25, short dark messy hair, grey hoodie, completely vanishing as the phone screen goes totally dark.",
+    "camera": "Static wide shot turning pitch black",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every delete button has a body count.",
+  "title": "The Weight of One",
+  "caption": "She thought she was just clearing cloud storage to save space. Instead, she wiped out the last person who remembered her name. How much of your life lives only in the cloud?",
+  "hashtags": [
+   "shortstory",
+   "scifi",
+   "cinematic",
+   "existential",
+   "darkfiction",
+   "digitalart",
+   "cloudstorage",
+   "twistoftheday",
+   "creativestory",
+   "mindblown"
+  ]
+ }
+}
