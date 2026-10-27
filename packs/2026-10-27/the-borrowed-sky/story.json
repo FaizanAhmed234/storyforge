@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Borrowed Sky",
+  "logline": "A woman discovers her hometown's perpetual sunset is actually a giant high-definition screen hiding an invading world.",
+  "theme": "perception versus reality",
+  "twist": "The sunset isn't a natural phenomenon; it's a massive digital projection shielding them from a dead earth.",
+  "ending": "Are you brave enough to step through the static?",
+  "scenes": [
+   {
+    "narration": "Look up right now. That burning golden sunset? It is a giant flat lie.",
+    "visual_prompt": "Vertical framing, 25-year-old Maya with messy dark curls wearing a faded denim jacket, staring up at a glowing orange sky in a concrete alley.",
+    "camera": "Extreme low angle tilt up",
+    "transition": "Hard cut",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "Every single evening at exactly six, the horizon glitches just enough to reveal the cold metal frame.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, watching a digital tear flicker across the orange sky.",
+    "camera": "Close up on face, rack focus to sky",
+    "transition": "Smash cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "My grandfather spent his whole life building this crude metal ladder to reach the upper ridge.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, climbing a rusty iron ladder bolted to a crumbling brick wall.",
+    "camera": "Tracking shot from below",
+    "transition": "Match cut",
+    "mood": "Determined"
+   },
+   {
+    "narration": "The air gets thinner the higher you climb, smelling faintly of hot copper and burnt plastic.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, gasping for breath while clinging to the high ladder.",
+    "camera": "POV shaky cam",
+    "transition": "Fast pan",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "I reach the top edge, press my bare palm against the warm glowing orange atmosphere, and push.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, pressing her hand against a pixelated glowing wall.",
+    "camera": "Over the shoulder shot",
+    "transition": "Slow push in",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "The painted sky peels back like cheap wallpaper, exposing a pitch-black void filled with crawling silver ships.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, staring wide-eyed at a dark space filled with alien vessels through the torn screen.",
+    "camera": "Wide shot revealing the massive scale",
+    "transition": "Quick zoom",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "Down below, my entire town cheerfully eats dinner under the comforting glow of a fake dying sun.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, looking down at lit streets through the tear in the projection.",
+    "camera": "High angle wide shot",
+    "transition": "Hard cut",
+    "mood": "Dystopian"
+   },
+   {
+    "narration": "A robotic voice whispers directly into my mind: unauthorized breach detected, resetting visual feed in three seconds.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, clutching her head as digital static overlays her vision.",
+    "camera": "Extreme close up on eyes reflecting code",
+    "transition": "Glitch effect",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "The rip in the sky heals instantly, plunging me back into the safe, beautiful, deadly golden hour.",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, standing alone under the restored fake sunset.",
+    "camera": "Wide static shot",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   },
+   {
+    "narration": "Would you rather live inside a comforting lie, or choke on the terrifying truth of the void?",
+    "visual_prompt": "Vertical framing, Maya with messy dark curls and faded denim jacket, looking directly into the camera lens with glowing amber eyes.",
+    "camera": "Direct to camera close up",
+    "transition": "Hard cut to black",
+    "mood": "Philosophical"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The sunset isn't real. Nothing is.",
+  "title": "The Borrowed Sky",
+  "caption": "For generations, we basked in the eternal golden hour, believing it was nature's grace. But when the light flickered, we saw the jagged edges of the screen\u2014and the dying wasteland waiting just beyond it. What would you do if your entire world was rendered in pixels?\n\nRead the full cinematic short story now.",
+  "hashtags": [
+   "scifi",
+   "dystopia",
+   "shortstory",
+   "cyberpunk",
+   "cinematic",
+   "twistedending",
+   "readingcommunity",
+   "speculativefiction",
+   "darkscifi",
+   "creativewriting",
+   "booktok"
+  ]
+ }
+}
