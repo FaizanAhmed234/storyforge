@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Portrait's Price",
+  "logline": "An aging artist discovers that her hyper-realistic paintings literally age the subjects in real life, forcing her to paint her own masterpiece.",
+  "theme": "The true cost of capturing perfection.",
+  "twist": "The subject she is currently painting is not a model, but her own reflection in a giant mirror.",
+  "ending": "If beauty demands a sacrifice, whose face will be left blank on the canvas?",
+  "scenes": [
+   {
+    "narration": "My paintings never just capture a face. They capture time, stealing the youth right off the canvas.",
+    "visual_prompt": "Close up of 25-year-old female artist Clara, messy dark hair, paint-stained oversized gray hoodie, in a dim cluttered studio.",
+    "camera": "Extreme close up on eyes, slow push in.",
+    "transition": "Hard cut",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "Yesterday I painted old Mr. Vance with deep wrinkles. Today, he woke up looking exactly like the portrait.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, holding a glowing oil painting of an old man in her dark studio.",
+    "camera": "Medium shot, tracking left to right.",
+    "transition": "Match cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Everyone called it a miraculous curse. I called it a terrifying power I could finally use.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, staring wide-eyed at her canvas with a wicked, ambitious grin.",
+    "camera": "Low angle, steady shot.",
+    "transition": "Quick fade",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I mixed vibrant crimsons and smooth golds, desperate to paint myself the flawless youth I always wanted.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, frantically mixing bright paints on a wooden palette under a spotlight.",
+    "camera": "Overhead shot, rapid zoom.",
+    "transition": "Whip pan",
+    "mood": "Frenzied"
+   },
+   {
+    "narration": "Every brushstroke felt lighter. Every painted curve smoothed away the harsh realities of my tiring life.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, sweeping a fine brush across a glowing canvas with intense focus.",
+    "camera": "Close up on hands and brush.",
+    "transition": "Smooth dissolve",
+    "mood": "Hypnotic"
+   },
+   {
+    "narration": "I added the final shining highlight to the cheekbones, stepping back to admire my absolute masterpiece.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, stepping back slowly, wiping sweat from her forehead in the studio.",
+    "camera": "Wide shot, pulling back slowly.",
+    "transition": "Hard cut",
+    "mood": "Triumphant"
+   },
+   {
+    "narration": "The canvas glowed with radiant life. But a strange, sudden chill swept through the quiet studio room.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, shivering as dust motes freeze in the air around the glowing canvas.",
+    "camera": "Medium shot, slight hand-held shake.",
+    "transition": "Match cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I turned around to look in the heavy floor-length mirror, expecting to see my gorgeous new face.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, turning abruptly toward a tall, ornate mirror covered in dust.",
+    "camera": "Point of view pan.",
+    "transition": "Fast zoom",
+    "mood": "Dread"
+   },
+   {
+    "narration": "The mirror showed only an empty, blank canvas staring back at me with terrifying, hollow eyes.",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, staring in absolute horror at a mirror reflecting a blank white canvas.",
+    "camera": "Reflection shot, static and deadpan.",
+    "transition": "Slow fade",
+    "mood": "Horrified"
+   },
+   {
+    "narration": "If beauty demands a sacrifice, whose face will be left completely blank on the canvas?",
+    "visual_prompt": "Clara, 25, dark hair, paint-stained gray hoodie, fading into transparency while standing beside the glowing finished portrait.",
+    "camera": "Extreme wide shot, fading to black.",
+    "transition": "Final fade out",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every brushstroke steals a year of life.",
+  "title": "The Portrait's Price",
+  "caption": "She thought her hyper-realistic art was pure genius, until the wrinkles in the paint appeared on her living models. Now, facing the canvas with a mirror in hand, she realizes her final masterpiece has only one subject left.",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfantasy",
+   "thriller",
+   "writing",
+   "artistic",
+   "twistending",
+   "microfiction",
+   "storytelling",
+   "creativewriting"
+  ]
+ }
+}
