@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Memory Tenant",
+  "logline": "A young archivist discovers the stranger living in her memories is paying rent with her happiest days.",
+  "theme": "The cost of emotional real estate",
+  "twist": "She is not the landlord of her mind; she is the eviction notice.",
+  "ending": "Who is currently living in your best moments?",
+  "scenes": [
+   {
+    "narration": "My first memory vanished at midnight. Just a blank void where my eighth birthday cake used to burn brightly.",
+    "visual_prompt": "A 22-year-old woman with messy brown hair and a green sweater stands in a dimly lit archive room, looking shocked.",
+    "camera": "Extreme close-up on her wide eyes, rapid push in",
+    "transition": "Hard cut",
+    "mood": "Tense and unsettling"
+   },
+   {
+    "narration": "I found a tiny digital receipt stamped inside my own cerebral cortex. Someone had paid to store their grief here.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater staring at a glowing holographic receipt floating in front of her face.",
+    "camera": "Medium shot, tracking her panicked hand movement",
+    "transition": "Smooth match cut",
+    "mood": "Cold and clinical"
+   },
+   {
+    "narration": "A strange man's childhood now occupies the sunny corner of my mind where my mother's laughter used to echo.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater holding her head, background shifting slightly with a ghostly blue hue.",
+    "camera": "Dutch angle, slow orbit around her",
+    "transition": "Dissolve",
+    "mood": "Melancholic and invasive"
+   },
+   {
+    "narration": "I tried to evict him. I screamed into my own thoughts, demanding my stolen joy back from the intruder.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater shouting silently, tears welling, in the dimly lit archive room.",
+    "camera": "Close-up, shaky cam",
+    "transition": "Quick snap cut",
+    "mood": "Desperate and furious"
+   },
+   {
+    "narration": "His voice whispered back from the dark, explaining that my brain was the only empty space left on the market.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater looking terrified as a shadow falls across her face in the archive room.",
+    "camera": "Low angle looking up at her",
+    "transition": "Whip pan",
+    "mood": "Ominous and chilling"
+   },
+   {
+    "narration": "He pays a fortune in borrowed bliss, trading his heavy sorrow for my sunlit afternoon fields of wheat.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater blinking slowly as golden wheat fields flash briefly in her eyes.",
+    "camera": "Split screen effect, blending her face with a sunny field",
+    "transition": "Fade to black",
+    "mood": "Surreal and hypnotic"
+   },
+   {
+    "narration": "Then I checked the property deed registered deep inside my brainstem. My name wasn't listed anywhere on it.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater staring in horror at a glowing document hovering in the archive room.",
+    "camera": "Push in, tight on her trembling lips",
+    "transition": "Hard cut",
+    "mood": "Dread-filled"
+   },
+   {
+    "narration": "I am not the owner of this skull. I am just the live-in caretaker keeping the lights on for someone else.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater touching her temples, skin glowing faintly with digital code.",
+    "camera": "High angle shot looking down",
+    "transition": "Slow zoom",
+    "mood": "Tragic and helpless"
+   },
+   {
+    "narration": "Another payment cleared today. My first kiss was deleted, replaced by a stranger's quiet walk in the rain.",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater standing still as digital rain falls softly over her face indoors.",
+    "camera": "Medium profile shot",
+    "transition": "Dissolve",
+    "mood": "Heartbroken"
+   },
+   {
+    "narration": "The rent is due tomorrow. Who is currently living in your best moments?",
+    "visual_prompt": "22-year-old woman with messy brown hair and a green sweater staring directly into the camera lens with empty, hollow eyes.",
+    "camera": "Static extreme close-up",
+    "transition": "Fade to black",
+    "mood": "Haunting and provocative"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Who is living in your happiest memories?",
+  "title": "The Memory Tenant",
+  "caption": "She thought she rented out her mind for extra space. But every time he pays, another golden afternoon vanishes.\n\nTurns out, she wasn't the landlord. She was the eviction notice.",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "psychologicalthriller",
+   "mindgames",
+   "darkfantasy",
+   "writing",
+   "creativestory",
+   "plottwist",
+   "storyteller",
+   "existential"
+  ]
+ }
+}

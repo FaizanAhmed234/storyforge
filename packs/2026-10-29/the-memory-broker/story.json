@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Memory Broker",
+  "logline": "A woman sells her worst childhood trauma to a high-end broker, only to realize the buyer is her older self.",
+  "theme": "We cannot outrun what made us who we are.",
+  "twist": "The wealthy client buying her painful memory is actually her future self, trying to heal.",
+  "ending": "If I erase the pain, do I erase the person who survived it?",
+  "scenes": [
+   {
+    "narration": "I am twenty-two, wearing a black hoodie with blonde hair, standing in a sterile white brokerage office.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, inside a sterile white high-rise brokerage office.",
+    "camera": "Extreme close-up on her frantic eyes",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I drop a glass vial of glowing blue light onto the cold steel desk, my hands trembling violently.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, placing a glowing blue memory vial on a steel desk.",
+    "camera": "Medium tracking shot",
+    "transition": "Match cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "Buy this winter night from me. The cold, the hunger, the night I almost froze alone.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, leaning over the steel desk in the bright office.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Quick dissolve",
+    "mood": "Cold"
+   },
+   {
+    "narration": "The broker across the glass doesn't blink. She slides a stack of crisp cash forward without hesitation.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, watching hands slide money across the bright office desk.",
+    "camera": "Low angle shot",
+    "transition": "Whip pan",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "Take the trauma. Let me walk out of this tower light, free, and completely unburdened forever.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, grabbing the cash bundle in the modern office.",
+    "camera": "Close-up on hands",
+    "transition": "J-cut audio",
+    "mood": "Relieved"
+   },
+   {
+    "narration": "She picks up the blue vial, uncaps it, and drinks my pain down in one single swallow.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, watching the broker drink the glowing blue liquid.",
+    "camera": "Medium shot",
+    "transition": "Slow zoom",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Instantly, a heavy warmth floods her chest. She gasps, looking up at me with tear-filled, familiar eyes.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, staring at the crying broker in the bright room.",
+    "camera": "Push in on faces",
+    "transition": "Match cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "The broker takes off her professional glasses. I stare into the exact same face looking right back at me.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, looking at her older self in the bright office.",
+    "camera": "Split screen effect",
+    "transition": "Dissolve",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "I am buying my own past back. Because without the scars, the future me completely ceases to exist.",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, watching her older self begin to fade into light.",
+    "camera": "Wide establishing shot",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   },
+   {
+    "narration": "If I erase the pain, do I erase the person who survived it?",
+    "visual_prompt": "A 22-year-old woman with blonde hair wearing a black hoodie, standing alone in an empty dark room.",
+    "camera": "Extreme slow zoom out",
+    "transition": "Final fade",
+    "mood": "Philosophical"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "She sold her worst memory to herself.",
+  "title": "The Memory Broker",
+  "caption": "Selling your past to a stranger seems like the ultimate escape until you realize who is waiting on the other side. Some scars refuse to be left behind.\n\nCan we ever truly outgrow the moments that broke us?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "timetravel",
+   "psychological",
+   "thriller",
+   "storytelling",
+   "mindbend",
+   "existential",
+   "fiction",
+   "plottwist"
+  ]
+ }
+}
