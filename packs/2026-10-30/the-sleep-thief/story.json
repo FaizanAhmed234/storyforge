@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Sleep Thief",
+  "logline": "A exhausted night-shift worker discovers that the hours she loses to insomnia are actually being stolen and sold to the highest bidder.",
+  "theme": "The commodification of human rest",
+  "twist": "She is not losing her sleep to a medical condition; her brain was legally repossessed to power corporate servers.",
+  "ending": "Who is sleeping in your bed right now while you work?",
+  "scenes": [
+   {
+    "narration": "My doctor swore I had severe insomnia, but my alarm clock proves I have been dead for six hours.",
+    "visual_prompt": "Maya, a 24-year-old woman with messy dark hair and dark circles under her eyes, wearing a gray oversized hoodie, standing in a dimly lit, sterile apartment bedroom staring at a digital clock.",
+    "camera": "Extreme close-up on the flashing red numbers, then pull back to Maya's terrified face.",
+    "transition": "hard cut",
+    "mood": "dread"
+   },
+   {
+    "narration": "Every single night at midnight, my body freezes solid while my mind screams inside a cage of total darkness.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, sitting rigidly upright on her bed, eyes wide open and unblinking, moonlight cutting across her tense face.",
+    "camera": "Medium static shot, slight low angle to emphasize helplessness.",
+    "transition": "match cut",
+    "mood": "paralyzing"
+   },
+   {
+    "narration": "Last night, I fought the paralysis. I managed to drag my frozen hand across the cold wooden floorboards.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, on her bedroom floor, fingers clawing desperately at the polished wood.",
+    "camera": "Low tracking shot moving slowly along the floor with her hand.",
+    "transition": "smooth pan",
+    "mood": "tense"
+   },
+   {
+    "narration": "My fingers touched a glowing fiber-optic cable snaking out from beneath my heavy bedroom radiator.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, touching a glowing blue braided cable plugged into a wall vent in her bedroom.",
+    "camera": "Macro shot focusing on the glowing cable and her trembling fingertips.",
+    "transition": "quick zoom",
+    "mood": "discovery"
+   },
+   {
+    "narration": "I yanked it hard. A digital meter on the wall instantly lit up with numbers ticking upward like a casino jackpot.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, yanking a cable, her face illuminated by a harsh blue digital display on the wall showing rising numbers.",
+    "camera": "Handheld medium shot, shaky and urgent.",
+    "transition": "jump cut",
+    "mood": "panic"
+   },
+   {
+    "narration": "A cold robotic voice whispered from the darkness, warning me that my unauthorized disconnection would trigger immediate termination.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, spinning around in the dark bedroom, shadows shifting unnaturally behind her.",
+    "camera": "Over-the-shoulder shot looking into the dark corner of the room.",
+    "transition": "slow push-in",
+    "mood": "sinister"
+   },
+   {
+    "narration": "Termination of what? My lease? My job? Or the contract I apparently signed the day I was born?",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, holding a glowing digital tablet displaying a dense legal document with her own signature.",
+    "camera": "Extreme close-up on the glowing signature, reflecting in her terrified eyes.",
+    "transition": "match cut",
+    "mood": "betrayal"
+   },
+   {
+    "narration": "The screen showed my resting brainwaves powering high-frequency stock trading algorithms while my physical body rotted in bed.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, staring at financial graphs flashing rapidly on the tablet screen in her dark room.",
+    "camera": "Medium shot, glowing blue light washing over her face.",
+    "transition": "fast cut",
+    "mood": "revelation"
+   },
+   {
+    "narration": "I am not an employee. I am a living battery pack leased out to Wall Street by my own hospital.",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, walking toward her apartment door, pulling the glowing cable out of the wall once and for all.",
+    "camera": "Wide tracking shot from behind as she moves toward the exit.",
+    "transition": "fade to black",
+    "mood": "defiant"
+   },
+   {
+    "narration": "My eyes are finally wide open. But tell me, who is sleeping in your bed right now?",
+    "visual_prompt": "Maya, 24, dark hair, gray hoodie, looking directly into the camera lens with a fierce, chilling expression in the pitch black hallway.",
+    "camera": "Extreme close-up, slow push-in until her eyes fill the frame.",
+    "transition": "fade out",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Where does your missing sleep go?",
+  "title": "The Sleep Thief",
+  "caption": "You think insomnia is just a cruel medical curse, but what if your lost hours were legally auctioned off? Every exhausted night fuels someone else's empire. Would you want your rest back if you found out the price?",
+  "hashtags": [
+   "shortstory",
+   "scifi",
+   "cyberpunk",
+   "dystopia",
+   "insomnia",
+   "thriller",
+   "darkfiction",
+   "reading",
+   "storytelling",
+   "mindblown"
+  ]
+ }
+}

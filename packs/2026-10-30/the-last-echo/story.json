@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Last Echo",
+  "logline": "A man discovers his smart home assistant has been recording the future instead of the past.",
+  "theme": "The terrifying inevitability of pre-recorded reality.",
+  "twist": "The assistant was not predicting tomorrow, but playing back the exact moment of his death.",
+  "ending": "A final haunting question about whether we can ever change a fate that has already been spoken.",
+  "scenes": [
+   {
+    "narration": "My smart speaker just told me to cancel tonight's flight, using a voice I have never heard before.",
+    "visual_prompt": "Close-up of Leo, a 28-year-old man with messy brown hair and a gray hoodie, staring at a glowing smart speaker in a dark minimalist apartment.",
+    "camera": "Extreme close-up pushing in rapidly on the blinking blue light.",
+    "transition": "Hard cut",
+    "mood": "Eerie and arresting"
+   },
+   {
+    "narration": "Leo, twenty-eight, in the same gray hoodie, touches the speaker, demanding to know who spoke inside his locked apartment.",
+    "visual_prompt": "Medium shot of Leo, 28-year-old man with messy brown hair in a gray hoodie, reaching out nervously toward the glowing speaker in his dark apartment.",
+    "camera": "Eye-level tracking shot following his hand.",
+    "transition": "Match cut",
+    "mood": "Tense and uncertain"
+   },
+   {
+    "narration": "The device does not answer with silence. It plays back the sound of my own panic from tomorrow morning.",
+    "visual_prompt": "Medium close-up of Leo, 28-year-old man with messy brown hair and a gray hoodie, listening intently with wide, terrified eyes in his dark apartment.",
+    "camera": "Static low-angle shot focusing on his trembling jaw.",
+    "transition": "SMASH cut",
+    "mood": "Chilling and surreal"
+   },
+   {
+    "narration": "Leo, wearing his gray hoodie, paces across the wooden floorboards, realizing the timestamp on the file reads four hours ahead.",
+    "visual_prompt": "Wide shot of Leo, 28-year-old man with messy brown hair in a gray hoodie, pacing frantically across the dimly lit wooden floor of his apartment.",
+    "camera": "Whip pan following his desperate movement.",
+    "transition": "Quick fade",
+    "mood": "Frenzied and claustrophobic"
+   },
+   {
+    "narration": "I try to unplug the machine, but the cord vanishes into my own hand like smoke in the wind.",
+    "visual_prompt": "Close-up of Leo, 28-year-old man with messy brown hair in a gray hoodie, grabbing at a disappearing black cord inside his dark apartment.",
+    "camera": "Handheld macro shot focusing on his fingers passing through solid plastic.",
+    "transition": "Glitch cut",
+    "mood": "Nightmarish and baffling"
+   },
+   {
+    "narration": "Leo, still trapped in the gray hoodie, hears the front door handle jiggle violently as someone tries to break in.",
+    "visual_prompt": "Medium shot of Leo, 28-year-old man with messy brown hair in a gray hoodie, spinning around to face the front door of his dark apartment.",
+    "camera": "Over-the-shoulder shot framing the shaking doorknob.",
+    "transition": "Jump cut",
+    "mood": "Alarming and dangerous"
+   },
+   {
+    "narration": "The speaker whispers my exact final words, begging for mercy against an intruder who looks just like me.",
+    "visual_prompt": "Medium close-up of Leo, 28-year-old man with messy brown hair in a gray hoodie, mouthing words in sync with the glowing speaker in his dark apartment.",
+    "camera": "Push-in shot locking onto his terrified lips.",
+    "transition": "Dissolve",
+    "mood": "Tragic and mind-bending"
+   },
+   {
+    "narration": "Leo, holding his breath in the gray hoodie, sees the lock snap open and the darkness flood inside the room.",
+    "visual_prompt": "Wide shot of Leo, 28-year-old man with messy brown hair in a gray hoodie, backing away as shadows pour through the front door of his apartment.",
+    "camera": "Slow pull-back revealing the shrinking space around him.",
+    "transition": "Fast zoom",
+    "mood": "Desperate and inescapable"
+   },
+   {
+    "narration": "The terrifying truth hits me: the past can be changed, but the future has already buried us.",
+    "visual_prompt": "Close-up of Leo, 28-year-old man with messy brown hair in a gray hoodie, shedding a single tear illuminated by the speaker in his dark apartment.",
+    "camera": "Slow motion close-up tracking the tear.",
+    "transition": "Fade to black",
+    "mood": "Melancholic and haunting"
+   },
+   {
+    "narration": "If your final words were already recorded right now, would you still bother saying anything at all?",
+    "visual_prompt": "Extreme close-up of the dead, dark speaker sitting alone on the wooden table inside the empty apartment of Leo, 28-year-old man.",
+    "camera": "Static locked-off shot holding in total darkness.",
+    "transition": "Final cut",
+    "mood": "Philosophical and chilling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "It wasn't recording his past.",
+  "title": "The Last Echo",
+  "caption": "Alex thought his smart speaker was glitching when it replayed tomorrow's noises. But tonight, it played the sound of his own front door kicking in.\n\nCan you ever really outrun a destiny that's already been filed away?",
+  "hashtags": [
+   "scifi",
+   "thriller",
+   "shortstory",
+   "smarthome",
+   "creepy",
+   "twistending",
+   "darkscifi",
+   "psychologicalthriller",
+   "cinematic",
+   "writingcommunity",
+   "existential"
+  ]
+ }
+}

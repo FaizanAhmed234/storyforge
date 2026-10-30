@@ -1,0 +1,100 @@
+{
+ "story": {
+  "title": "The Ghost Frequency",
+  "logline": "A lonely audio archivist discovers her dead brother's voice hidden in white noise, only to realize the broadcast is coming from inside her own throat.",
+  "theme": "Grief alters our perception of reality until we become the ghosts we chase.",
+  "twist": "The audio signals are not coming from the vintage radio, but are actually vibrations originating from her own vocal cords.",
+  "ending": "If I am the one speaking the past into the dark, then who is listening to me right now?",
+  "scenes": [
+   {
+    "narration": "My dead brother just spoke to me through a broken radio.",
+    "visual_prompt": "Close up of Maya, 25, short black hair, wearing an oversized grey hoodie, sitting in a dimly lit, cluttered attic full of old analog tape machines and glowing vacuum tubes.",
+    "camera": "Extreme close up on Maya's eyes widening, rapid push-in.",
+    "transition": "Hard cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "Leo died three years ago in a car crash. Yet his exact voice crackles from this dusty speaker right now.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, staring intensely at a glowing vintage Zenith radio on a wooden desk covered in magnetic tape.",
+    "camera": "Medium tracking shot orbiting Maya.",
+    "transition": "Smash cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I press record. I need to capture the proof. The static shrieks back, burying his whispered warning underneath rising electronic noise.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, trembling hands slamming down the red record button on a heavy reel-to-reel deck.",
+    "camera": "Low angle looking up at Maya's frantic expression.",
+    "transition": "Match cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "He says my name. He tells me to stop listening to the ghosts before the feedback loop consumes my entire mind.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, pressing both hands against her ears while neon waveforms spike wildly on a computer monitor.",
+    "camera": "Handheld jittery camera shaking with the audio distortion.",
+    "transition": "Fast whip pan",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "I unplug the radio. Total silence fills the attic. But the voice doesn't stop. It echoes louder inside my skull.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, backing away from the dead radio into the shadowy corner of the dusty attic.",
+    "camera": "Wide shot pulling backward away from Maya.",
+    "transition": "Slow fade",
+    "mood": "Dread"
+   },
+   {
+    "narration": "I touch my throat. It vibrates like a guitar string, humming with the exact radio frequency that Leo used.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, trembling fingers pressing directly against her own larynx in the dark room.",
+    "camera": "Tight macro shot on her fingers touching her throat.",
+    "transition": "Jump cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "The waveform on my screen proves the truth. The audio isn't broadcasting into the room. It is coming straight from me.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, staring in absolute horror at a laptop screen showing audio waves matching her throat movements.",
+    "camera": "Over the shoulder shot framing the glowing screen.",
+    "transition": "Quick zoom",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "I am the transmitter. Every tear, every desperate midnight wish I whispered to his memory built this impossible machine.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, sitting frozen as ghostly blue light emanates from her skin in the dark attic.",
+    "camera": "Static medium shot centering her symmetrical face.",
+    "transition": "Dissolve",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "Leo never spoke to me. I simply learned how to mimic his ghost so I wouldn't have to face the quiet.",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, closing her eyes as her mouth moves without any external sound escaping her lips.",
+    "camera": "Slow push-in on her closed lips.",
+    "transition": "Slow fade to black",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "If I am the one speaking the past into the dark, then who is listening to me right now?",
+    "visual_prompt": "Maya, 25, short black hair, oversized grey hoodie, staring directly into the camera lens as the screen glitches into heavy white noise.",
+    "camera": "Extreme close up locking eyes directly with the viewer.",
+    "transition": "Hard cut to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I found my dead brother in the static.",
+  "title": "The Ghost Frequency",
+  "caption": "Hours spent isolating lost audio finally brought him back, but the vintage radio wasn't receiving a signal. The vibrations were coming from inside me.\n\nAre we ever truly alone, or are we just haunting ourselves?",
+  "hashtags": [
+   "horrorstories",
+   "audiofiction",
+   "grief",
+   "creepy",
+   "cinematic",
+   "shortstory",
+   "psychological",
+   "sounddesign",
+   "ghosts",
+   "spooky",
+   "thriller",
+   "darkfiction"
+  ]
+ }
+}
