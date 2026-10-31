@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Exit Door",
+  "logline": "A man discovers a glowing green exit door in his living room, only to realize the room itself is what needs escaping.",
+  "theme": "Perception and reality",
+  "twist": "The exit does not lead outside; opening it reveals he is inside a giant simulation displayed on someone else's living room wall.",
+  "ending": "If this is their entertainment, what is playing on the walls of the room they are sitting in right now?",
+  "scenes": [
+   {
+    "narration": "My living room wall just grew a glowing green exit door, and my dog refuses to look at it.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a gray t-shirt stares in horror at a glowing neon green exit door on his apartment wall, while a golden retriever looks away. Vertical 9:16.",
+    "camera": "Close-up on man's terrified face, rapid push-in",
+    "transition": "Hard cut",
+    "mood": "Shocking and surreal"
+   },
+   {
+    "narration": "I told myself it was a glitch, a faulty projection from the street lamps outside my downtown window.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt in his apartment, pointing a trembling finger at the glowing green exit door.",
+    "camera": "Medium shot, slight hand-held shake",
+    "transition": "Smash cut",
+    "mood": "Anxious denial"
+   },
+   {
+    "narration": "Except I live on the fortieth floor, and there is no balcony out there for a door to lead to.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt stepping closer to the glowing green exit door, sweat on his forehead.",
+    "camera": "Low angle tracking shot",
+    "transition": "Quick zoom",
+    "mood": "Rising dread"
+   },
+   {
+    "narration": "My hands shook as I reached out, my fingers wrapping around the cold brass handle that shouldn't exist.",
+    "visual_prompt": "Close-up of the 30-year-old man's hand with messy brown hair visible at the edge, grabbing a brass handle on the glowing green exit door.",
+    "camera": "Macro shot on hand and handle",
+    "transition": "Slow push",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "I pulled it open, expecting brick or empty air, but found a blinding white light instead.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt shielding his eyes as blinding white light spills from the cracked-open glowing green exit door.",
+    "camera": "Over-the-shoulder wide shot",
+    "transition": "Flash frame",
+    "mood": "Overwhelming"
+   },
+   {
+    "narration": "Stepping through, the city noise vanished, replaced by the soft hum of heavy machinery and cooling fans.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt stepping through the glowing green exit door into a sterile, metallic laboratory space.",
+    "camera": "Tracking shot following his back",
+    "transition": "Smooth match cut",
+    "mood": "Eerie calm"
+   },
+   {
+    "narration": "Then I looked back at the door I just walked through and saw my entire living room framed inside it.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt turning around in the lab, looking back at a miniature glowing green exit door showing his apartment like a TV screen.",
+    "camera": "Wide angle, pull back slowly",
+    "transition": "Hard cut",
+    "mood": "Mind-bending realization"
+   },
+   {
+    "narration": "My dog was still sitting there, staring right at the back of the frame, wagging his tail at the watchers.",
+    "visual_prompt": "Close-up of the glowing green exit door frame from the lab side, showing the interior apartment where the dog looks directly out of the screen at the viewer.",
+    "camera": "Push in on the dog's eyes",
+    "transition": "Slow pan",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "Giant hands reached down from the ceiling above the lab, holding a remote control and laughing at my confusion.",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt looking up in terror as massive human hands hold a large futuristic remote control in a giant room.",
+    "camera": "Extreme low angle tilt up",
+    "transition": "Whip pan",
+    "mood": "Trapped and helpless"
+   },
+   {
+    "narration": "If this is their entertainment, what is playing on the walls of the room they are sitting in right now?",
+    "visual_prompt": "The same 30-year-old man with messy brown hair and gray t-shirt looking directly into the camera lens with wide, hopeless eyes. Vertical 9:16.",
+    "camera": "Extreme close-up, static",
+    "transition": "Fade to black",
+    "mood": "Haunting and existential"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The door wasn't leading outside.",
+  "title": "The Exit Door",
+  "caption": "He thought the glowing green sign meant freedom from his four walls. But when he stepped through, he realized his entire reality was just someone else's entertainment. What happens when your whole life fits on a screen?",
+  "hashtags": [
+   "scifi",
+   "simulation",
+   "shortstory",
+   "mindblown",
+   "existential",
+   "cinematic",
+   "mystery",
+   "reality",
+   "twistoftheday",
+   "darkscifi"
+  ]
+ }
+}

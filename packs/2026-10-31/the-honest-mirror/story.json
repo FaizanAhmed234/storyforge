@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Honest Mirror",
+  "logline": "A woman buys an antique mirror that only reflects her future mistakes, until she discovers the reflection is trying to warn her about something far worse.",
+  "theme": "The cost of absolute foresight",
+  "twist": "The mirror is not showing her future mistakes, but rather the past mistakes of the person who is currently looking into her eyes from behind the glass.",
+  "ending": "If the reflection is the one trapped inside, who is standing right behind me in the dark?",
+  "scenes": [
+   {
+    "narration": "My new mirror refuses to show my face. Instead, it displays every bad decision I am about to make today.",
+    "visual_prompt": "Close-up of Clara, 25, messy dark hair, wearing a gray hoodie, staring at an ornate vintage mirror in a dimly lit apartment bedroom.",
+    "camera": "Extreme close-up on the glass",
+    "transition": "Hard cut",
+    "mood": "Eerie and gripping"
+   },
+   {
+    "narration": "At noon, the glass clouds over. It shows me dropping my coffee on a stranger's pristine white designer shoes.",
+    "visual_prompt": "Medium shot of Clara, 25, messy dark hair, wearing a gray hoodie, standing in a bright cafe holding a ceramic mug with a terrified expression.",
+    "camera": "Tracking shot following her hands",
+    "transition": "Fast pan",
+    "mood": "Tense anticipation"
+   },
+   {
+    "narration": "I hold my breath and refuse to move. I don't drop the cup. I actually beat the mirror's prediction.",
+    "visual_prompt": "Close-up of Clara, 25, messy dark hair, wearing a gray hoodie, gripping a coffee cup tightly with a triumphant smile in a busy cafe.",
+    "camera": "Handheld static framing",
+    "transition": "Jump cut",
+    "mood": "Relieved defiance"
+   },
+   {
+    "narration": "Proud of myself, I rush back home and stand before the glass again. I expect praise, but the mirror darkens.",
+    "visual_prompt": "Medium shot of Clara, 25, messy dark hair, wearing a gray hoodie, rushing back into her dim bedroom to face the antique mirror.",
+    "camera": "Rapid push-in",
+    "transition": "Quick zoom",
+    "mood": "Growing dread"
+   },
+   {
+    "narration": "The surface ripples like water. A hand presses outward from the glass, leaving a cold fingerprint on the surface.",
+    "visual_prompt": "Close-up of the antique mirror in Clara's bedroom, where a pale hand presses against the inside of the glass from nowhere.",
+    "camera": "Macro shot on the glass surface",
+    "transition": "Dissolve",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "My reflection stops copying my movements entirely. It smiles a sad, knowing smile and taps frantically on the glass.",
+    "visual_prompt": "Medium shot of Clara, 25, messy dark hair, wearing a gray hoodie, watching in horror as her mirror image moves independently.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Match cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "Words scratch onto the lower corner from the inside. Letters of dust spelling out a warning I never wanted.",
+    "visual_prompt": "Close-up of dusty letters forming on the bottom of the vintage mirror while Clara watches with wide, panicked eyes.",
+    "camera": "Extreme close-up on the writing",
+    "transition": "Fast cut",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "It wasn't showing my future at all. It was showing the exact moment I stopped paying attention yesterday.",
+    "visual_prompt": "Medium shot of Clara, 25, messy dark hair, wearing a gray hoodie, backing away from the mirror with trembling hands.",
+    "camera": "Wide angle pulling back",
+    "transition": "Slow zoom",
+    "mood": "Mind-bending realization"
+   },
+   {
+    "narration": "I realize the truth too late. The mirror wasn't broken. It was holding a prisoner who tried to warn me.",
+    "visual_prompt": "Close-up of Clara's frightened face illuminated by the dim bedroom light, tears welling in her eyes as she stares at the glass.",
+    "camera": "Tight facial focus",
+    "transition": "Smash cut",
+    "mood": "Despair"
+   },
+   {
+    "narration": "Now the glass is entirely empty. If the reflection escaped into my room, who is standing right behind me?",
+    "visual_prompt": "Wide shot of Clara, 25, messy dark hair, wearing a gray hoodie, staring at a completely reflective empty mirror in the dark room.",
+    "camera": "Static wide shot",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "It didn't show the future. It showed them.",
+  "title": "The Honest Mirror",
+  "caption": "She thought the antique glass was warning her about tomorrow's mistakes. But the eyes looking back weren't hers\u2014and they were trying to escape.\n\nWould you want to know who is really watching?",
+  "hashtags": [
+   "horror",
+   "cinematic",
+   "thriller",
+   "shortstory",
+   "plottwist",
+   "creepy",
+   "storytime",
+   "darkfantasy",
+   "suspense",
+   "fiction"
+  ]
+ }
+}
