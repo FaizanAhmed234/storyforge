@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Compliance Scent",
+  "logline": "A woman buys a perfume guaranteed to make anyone agree with her, only to discover the terrifying cost of total obedience.",
+  "theme": "The terrifying emptiness of never being challenged.",
+  "twist": "The perfume didn't alter their minds; it erased her ability to hear disagreement.",
+  "ending": "She stands in a world of nodding zombies, screaming silently into a void of her own making.",
+  "scenes": [
+   {
+    "narration": "My husband agreed to sell our house in two seconds flat. That bottle of perfume changed everything.",
+    "visual_prompt": "Close-up of Clara, 28, messy brown hair, wearing a worn green sweater, holding a sleek black perfume bottle in a dim living room.",
+    "camera": "Extreme close-up on the bottle, sudden push-in.",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "For five years, Mark fought me on every single choice. Now, he just smiles and nods.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, standing in the dim living room while Mark smiles blankly.",
+    "camera": "Medium static shot",
+    "transition": "Smooth cross dissolve",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "The salesclerk called it absolute alignment. One spray behind the ear, and resistance simply vanished.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, spraying the dark perfume behind her ear in front of a mirror.",
+    "camera": "Over-the-shoulder tracking shot",
+    "transition": "Fast cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "At work, my boss usually rips my ideas to shreds. Today, he gave me a standing ovation.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, in a bright corporate office as her boss applauds robotically.",
+    "camera": "Wide angle, slow pan",
+    "transition": "Match cut",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "Even the barista who hates me poured my coffee with a worshipful bow. It felt incredible.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, taking a coffee cup from a barista bowing deeply.",
+    "camera": "Close-up tracking shot",
+    "transition": "Quick zoom",
+    "mood": "Intoxicating"
+   },
+   {
+    "narration": "Power is a warm drug. But tonight, I noticed something strange about the radio announcer.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, sitting in her car staring at the dashboard radio.",
+    "camera": "Low angle dashboard shot",
+    "transition": "Fade to black",
+    "mood": "Dread"
+   },
+   {
+    "narration": "He was speaking live, debating politics. But his lips moved, and the studio speakers repeated my exact thoughts.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, looking terrified inside the dark car interior.",
+    "camera": "Tight push-in on her eyes",
+    "transition": "Hard cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "I grabbed Mark's shoulders and begged him to yell at me. Just scream, please! Anything!",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, shaking Mark violently in the bedroom.",
+    "camera": "Handheld chaotic movement",
+    "transition": "Rapid cuts",
+    "mood": "Panic"
+   },
+   {
+    "narration": "He just smiled wider, whispering that I was always right. The perfume didn't change them at all.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, backing away from Mark's relentless, unblinking smile.",
+    "camera": "Worm's eye view, spinning slowly",
+    "transition": "Slow fade",
+    "mood": "Nightmarish"
+   },
+   {
+    "narration": "It didn't make them agree. It just deafened me to every voice that dared to differ.",
+    "visual_prompt": "Clara, 28, messy brown hair, wearing a worn green sweater, standing completely alone in a crowded, silent street.",
+    "camera": "Drone shot pulling straight up into the sky",
+    "transition": "Final fade out",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Everyone agreed. That was the nightmare.",
+  "title": "The Compliance Scent",
+  "caption": "She wanted a fragrance that commanded absolute obedience from everyone in the room. But when every single person started smiling and nodding to her every word, she realized the terrifying truth: the scent hadn't changed their minds. It had just silenced their dissent. What is a victory worth if nobody pushes back?",
+  "hashtags": [
+   "scifi",
+   "dystopian",
+   "shortstory",
+   "psychologicalthriller",
+   "darkfiction",
+   "cinematic",
+   "creativewriting",
+   "mindgames",
+   "twistending",
+   "speculativefiction"
+  ]
+ }
+}

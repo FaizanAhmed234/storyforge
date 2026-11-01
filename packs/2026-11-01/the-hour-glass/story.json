@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Hour Glass",
+  "logline": "A woman discovers her ticking clock necklace is actually counting down everyone else's remaining moments.",
+  "theme": "The burden of knowing human expiration.",
+  "twist": "The necklace doesn't count down time; it stops whenever she tells a lie.",
+  "ending": "How many lives did your last truth just buy?",
+  "scenes": [
+   {
+    "narration": "My mother swore this brass pendant would measure my lifespan. But she lied to me.",
+    "visual_prompt": "Close-up of Elena, 25, dark messy hair, wearing a worn denim jacket, staring at a ticking glass pendant in a dim kitchen.",
+    "camera": "Extreme close-up, rack focus",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Today the numbers froze at zero. Not mine. The old man across the street stopped moving entirely.",
+    "visual_prompt": "Medium shot of Elena, 25, dark messy hair, denim jacket, looking out a dusty window at a frozen street.",
+    "camera": "Slow push in",
+    "transition": "Match cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I ran outside and screamed his name. The moment I confessed my terror, the numbers jumped back up.",
+    "visual_prompt": "Medium shot of Elena, 25, dark messy hair, denim jacket, shaking on a gray pavement holding the glowing pendant.",
+    "camera": "Handheld panic",
+    "transition": "Quick pan",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "That is when the terrible truth clawed its way into my throat. This glass does not track time.",
+    "visual_prompt": "Close-up of Elena, 25, dark messy hair, denim jacket, eyes wide with horror as numbers reflect in her pupils.",
+    "camera": "Tight profile",
+    "transition": "Jump cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "It measures how much borrowed breath remains in the world before my next dishonesty steals it.",
+    "visual_prompt": "Wide shot of Elena, 25, dark messy hair, denim jacket, standing alone in an empty city plaza.",
+    "camera": "Drone pull back",
+    "transition": "Fade through black",
+    "mood": "Cold"
+   },
+   {
+    "narration": "Every small white lie I tell buys a stranger another hour. Total honesty brings instant death.",
+    "visual_prompt": "Medium close-up of Elena, 25, dark messy hair, denim jacket, whispering nervously to a blank wall.",
+    "camera": "Static frame",
+    "transition": "Hard cut",
+    "mood": "Sinister"
+   },
+   {
+    "narration": "I told my best friend she looked amazing yesterday. Instantly, a dying child in the hospital woke up.",
+    "visual_prompt": "Medium shot of Elena, 25, dark messy hair, denim jacket, gripping her phone inside a brightly lit cafe.",
+    "camera": "Pan right",
+    "transition": "Whip pan",
+    "mood": "Conflicted"
+   },
+   {
+    "narration": "So I started lying constantly. To everyone. About everything. Just to keep the fragile world breathing.",
+    "visual_prompt": "Close-up of Elena, 25, dark messy hair, denim jacket, smiling falsely while tears stream down her cheeks.",
+    "camera": "Push in slowly",
+    "transition": "Dissolve",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "My entire existence is now a manufactured fiction keeping strangers alive. I am a machine of deceit.",
+    "visual_prompt": "Medium shot of Elena, 25, dark messy hair, denim jacket, surrounded by floating digital numbers in a dark room.",
+    "camera": "Low angle orbit",
+    "transition": "Hard cut",
+    "mood": "Heavy"
+   },
+   {
+    "narration": "The pendant glows bright gold in my trembling hand. How many lives did your last truth just buy?",
+    "visual_prompt": "Extreme close-up of Elena, 25, dark messy hair, denim jacket, looking directly into the camera lens with a haunting gaze.",
+    "camera": "Locked off close-up",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every tick stole someone else's tomorrow.",
+  "title": "The Hour Glass",
+  "caption": "She thought her necklace measured life, but every second belonged to a stranger's fading breath. Until she finally told a lie, and the ticking stopped.",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfantasy",
+   "twistofthedate",
+   "storytelling",
+   "fiction",
+   "mindblown",
+   "suspense",
+   "writing",
+   "thriller"
+  ]
+ }
+}
