@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Obituary Club",
+  "logline": "A man reads his own obituary in the morning paper, only to realize the person writing it is standing right behind him.",
+  "theme": "Mortality and unseen observers",
+  "twist": "The obituary was not predicting his death, but recounting the exact moment his soul left his body hours prior.",
+  "ending": "If I died this morning, who is breathing in my chest right now?",
+  "scenes": [
+   {
+    "narration": "I read my own obituary over lukewarm coffee, choking on words that declared me legally dead since dawn.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket sitting in a bright diner, holding a newspaper.",
+    "camera": "Extreme close-up on the newspaper print, then quick rack focus to his terrified eyes.",
+    "transition": "Hard cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "The date printed at the top was today. My age, my address, even my childhood dog were all right there.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket staring down at the newspaper column.",
+    "camera": "Over-the-shoulder shot looking at the bold text.",
+    "transition": "Quick zoom",
+    "mood": "Dread"
+   },
+   {
+    "narration": "Panic tightened my chest as I looked around the crowded diner, searching for the sick prankster responsible for this.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket scanning the blurred faces of diner patrons.",
+    "camera": "Rapid 360-degree pan",
+    "transition": "Smash cut",
+    "mood": "Paranoid"
+   },
+   {
+    "narration": "Nobody was laughing. In fact, every single customer sat completely still, staring straight ahead in total, unbroken silence.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket looking at motionless people in the diner.",
+    "camera": "Wide static shot",
+    "transition": "Slow push-in",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "A shadow fell across the laminate table. The smell of old paper and winter rain drifted into my space.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket as a dark silhouette looms over him.",
+    "camera": "Low angle tracking shot",
+    "transition": "Fade in",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "An elderly woman with kind, tired eyes pulled out the chair opposite me and sat down without asking.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket sitting opposite an old woman in a diner.",
+    "camera": "Two-shot framing both faces",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "She tapped the obituary with a wrinkled finger. You always hated surprises, David, she whispered with a gentle smile.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket watching the old woman point at the paper.",
+    "camera": "Close-up on the woman's moving lips",
+    "transition": "Quick cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "How do you know my name? I stammered, feeling the air grow suddenly heavy and cold around my lungs.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket breathing heavily, vapor forming in the warm diner.",
+    "camera": "Tight profile shot",
+    "transition": "Jump cut",
+    "mood": "Frightening"
+   },
+   {
+    "narration": "She turned the newspaper around. The ink on the page was still wet, shifting to spell out new sentences.",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket watching words rewrite themselves on newsprint.",
+    "camera": "Macro shot of ink bleeding and reforming",
+    "transition": "Seamless match cut",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "If I died this morning in that car crash, who is breathing in my chest right now?",
+    "visual_prompt": "A 30-year-old man with messy brown hair and a worn denim jacket staring directly into the camera lens with hollow eyes.",
+    "camera": "Extreme close-up, slow push-in",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "He read his own obituary with breakfast.",
+  "title": "The Obituary Club",
+  "caption": "Coffee gets cold fast when you realize you aren't drinking it. Some watchers don't wait for the end.\n\nWho do you think was standing behind him?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "mortality",
+   "ghoststory",
+   "mindsponge",
+   "darkfiction",
+   "twistoftheday",
+   "creepy",
+   "writingcommunity"
+  ]
+ }
+}

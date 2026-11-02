@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Birthday Loop",
+  "logline": "A teenager realizes he has lived the exact same day for ten thousand times, but today someone else woke up.",
+  "theme": "Existential stagnation versus the terror of change",
+  "twist": "The person who woke up different is not him, but the stranger who has been playing his mother.",
+  "ending": "If today is truly new, who was living yesterday?",
+  "scenes": [
+   {
+    "narration": "My mother is going to drop the coffee mug at exactly seven-fourteen.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, sits at a kitchen table in a warm, sunlit suburban kitchen.",
+    "camera": "Extreme close-up on a ceramic mug",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "She has done it ten thousand times. Today is no different. The ceramic shatters on the tile.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, watches a red mug shatter on a white tiled kitchen floor.",
+    "camera": "Medium shot panning up to Leo's exhausted face",
+    "transition": "smash cut",
+    "mood": "anxious"
+   },
+   {
+    "narration": "I catch the falling pieces before they hit the floor. She freezes, her mouth open in a silent scream.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, catches shards mid-air while his mother freezes completely.",
+    "camera": "Tracking shot orbiting Leo",
+    "transition": "match cut",
+    "mood": "surreal"
+   },
+   {
+    "narration": "Time is broken. The clock on the wall stopped at seven-fourteen. Again. I am trapped in today.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, stares at a kitchen wall clock stuck at 7:14.",
+    "camera": "Low angle looking up at the frozen clock",
+    "transition": "slow push in",
+    "mood": "claustrophobic"
+   },
+   {
+    "narration": "Then, the front door unlocks. Someone walks in who has never, in ten thousand days, been here.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, turns sharply as the front door handle jiggles.",
+    "camera": "Over-the-shoulder shot toward the hallway",
+    "transition": "fast pan",
+    "mood": "shocking"
+   },
+   {
+    "narration": "An old man walks through the door, holding the exact same red coffee mug, completely whole.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, watches an elderly man enter holding a red mug.",
+    "camera": "Wide shot framing both characters",
+    "transition": "hard cut",
+    "mood": "mysterious"
+   },
+   {
+    "narration": "He looks at me, tears in his eyes. He says, You finally noticed the pattern, son.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, listens to the old man with tears pooling in his eyes.",
+    "camera": "Close-up on the old man's weathered face",
+    "transition": "push in",
+    "mood": "emotional"
+   },
+   {
+    "narration": "I look back at my mother, who is still frozen like a statue. But her eyes are blinking.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, looks back at his mother whose eyes blink rapidly.",
+    "camera": "Extreme close-up on the mother's eyes",
+    "transition": "slow zoom",
+    "mood": "terrifying"
+   },
+   {
+    "narration": "She isn't part of the loop. She's the warden. And today, she finally let the old man out.",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, steps back as the mother's expression turns sinister.",
+    "camera": "Medium shot shifting angle",
+    "transition": "quick cut",
+    "mood": "sinister"
+   },
+   {
+    "narration": "If today is the first new day in years... who was living all the days before?",
+    "visual_prompt": "Leo, nineteen with messy brown hair and a worn gray hoodie, stares directly into the camera lens with dread.",
+    "camera": "Extreme close-up on Leo's widening eyes",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "10,000 days of the exact same lie.",
+  "title": "The Birthday Loop",
+  "caption": "Ten thousand repetitions. Every sunrise, every word, every breakfast cooked by the woman who raised him. Until today, when she looked at him and didn't know his name. \n\nHow do you break a loop when the script is suddenly rewritten?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "scifitrust",
+   "existentialism",
+   "timeloop",
+   "storytelling",
+   "mindbend",
+   "fiction",
+   "darksecrets",
+   "readingcommunity"
+  ]
+ }
+}

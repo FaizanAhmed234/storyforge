@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Memory Broker",
+  "logline": "A man sells his most painful memory to a vending machine, only to realize the machine is selling it back to him.",
+  "theme": "Identity and trauma",
+  "twist": "The machine isn't a vault; it's a mirror reflecting his own inescapable guilt.",
+  "ending": "If the past can be bought, why does it still own you?",
+  "scenes": [
+   {
+    "narration": "My dead wife's laugh cost forty dollars. I paid in cash, right into the slot.",
+    "visual_prompt": "Close up of Leo, 30, tired eyes, dark messy hair, wearing a worn gray hoodie, standing in a dimly lit concrete alley facing a glowing red vending machine.",
+    "camera": "Extreme close-up on the coin slot, panning up to Leo's face",
+    "transition": "Hard cut",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "The machine hummed like a dying heart, spitting out a tiny glass vial of liquid silver.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, holding a glowing silver vial in the dark alley.",
+    "camera": "Medium shot, tracking the vial as he catches it",
+    "transition": "Match cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I swallowed it raw. The taste was copper and rain, flooding my empty chest with warmth.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, closing his eyes as a blue light reflects on his face in the dark alley.",
+    "camera": "Close-up on his face, slow push in",
+    "transition": "Dissolve",
+    "mood": "Intense"
+   },
+   {
+    "narration": "For three seconds, she was right beside me. Then the warmth vanished, leaving me colder than before.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, opening his eyes to an empty, dark alley.",
+    "camera": "Wide shot, pulling back rapidly",
+    "transition": "Quick cut",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "I needed more. I reached into my pocket and pulled out my very last memory of our wedding.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, looking down at his trembling hand holding a glowing gold bead.",
+    "camera": "Over-the-shoulder shot focusing on the bead",
+    "transition": "Hard cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "I fed our vows into the slot. The machine chewed it up, digesting the best day of my life.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, dropping the gold bead into the glowing red vending machine slot.",
+    "camera": "Close-up on the machine screen flashing 'PROCESSING'",
+    "transition": "Fast zoom",
+    "mood": "Tense"
+   },
+   {
+    "narration": "It didn't give me money. It printed a receipt with a single barcode and a chilling message.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, staring at a small white ticket sliding out of the machine.",
+    "camera": "Insert shot of the ticket reading: 'NOW PLAYING AT TABLE FOUR'",
+    "transition": "Hard cut",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "I spun around. The dark alley was gone. I was sitting at a sticky diner table.",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, sitting in a bright, flickering neon diner.",
+    "camera": "360-degree pan revealing the diner interior",
+    "transition": "Whip pan",
+    "mood": "Disorienting"
+   },
+   {
+    "narration": "Across from me, a younger version of myself smiled, dropping a coin into the exact same slot.",
+    "visual_prompt": "Younger Leo, 30, dark messy hair, wearing a clean jacket, smiling across a diner booth.",
+    "camera": "Medium two-shot, focusing on the transaction",
+    "transition": "Slow zoom",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "I am the machine. And I am buying my grief forever. If the past can be bought, why does it still own you?",
+    "visual_prompt": "Leo, 30, dark messy hair, worn gray hoodie, staring directly into the camera inside the neon diner as lights flicker out.",
+    "camera": "Extreme close-up on his tear-filled eyes",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "He sold his worst memory to a machine.",
+  "title": "The Memory Broker",
+  "caption": "Some traumas are too heavy to carry, but trading them away doesn't mean they're gone.\n\nWhen the past comes back as someone else's poison, you realize you can never truly outrun yourself.\n\nWould you erase your deepest regret if you had the chance?",
+  "hashtags": [
+   "cinematic",
+   "shortfilm",
+   "psychologicalthriller",
+   "identity",
+   "trauma",
+   "darkmind",
+   "storytelling",
+   "mindbend",
+   "shortstory",
+   "existential"
+  ]
+ }
+}
