@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Ghost Painter",
+  "logline": "A blind street artist discovers his hands paint the future disasters of passersby, until he paints his own.",
+  "theme": "Fate versus free will",
+  "twist": "He was never painting the future; he was painting the people who had already died in his presence.",
+  "ending": "Why are you standing so still in my canvas?",
+  "scenes": [
+   {
+    "narration": "My blindness is a lie because I see tomorrow bleeding through my fingertips on this cold concrete.",
+    "visual_prompt": "Leo, a 20-year-old blind artist with messy dark hair wearing a worn denim jacket, painting frantically on a sidewalk.",
+    "camera": "Extreme close-up on charcoal moving",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "A laughing woman drops her coffee, but my charcoal already shows her broken umbrella beneath a falling sign.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, on the sidewalk, listening intently while touching his drawing.",
+    "camera": "Medium tracking shot",
+    "transition": "quick dissolve",
+    "mood": "uneasy"
+   },
+   {
+    "narration": "I grab her sleeve and scream for her to step back, but she laughs it off as crazy art.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, grabbing a woman's arm in a crowded urban street.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "fast pan",
+    "mood": "frantic"
+   },
+   {
+    "narration": "The heavy iron sign crashes exactly where she stood a second ago, shattering the ceramic cup.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, covering his ears amidst debris on a gray sidewalk.",
+    "camera": "Low angle wide shot",
+    "transition": "match cut",
+    "mood": "shocking"
+   },
+   {
+    "narration": "Every stroke I make steals a life from the dark and hands it back to cruel reality.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, wiping sweat from his forehead on the sidewalk.",
+    "camera": "Close-up on face",
+    "transition": "slow zoom",
+    "mood": "burdened"
+   },
+   {
+    "narration": "Tonight, alone in my studio, my brush moves faster, sketching a lonely figure surrounded by flickering candles.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, sketching rapidly in a dimly lit brick studio.",
+    "camera": "Overhead shot",
+    "transition": "fade in",
+    "mood": "mysterious"
+   },
+   {
+    "narration": "I trace the fine lines of the face and realize the charcoal is leaving a wet, crimson stain.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, touching wet red paint on his canvas in the dark studio.",
+    "camera": "Macro close-up on fingers",
+    "transition": "hard cut",
+    "mood": "dread"
+   },
+   {
+    "narration": "It is not ink or paint. It is warm, and it smells unmistakably of my own copper blood.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, staring down at his bleeding hands in the dim studio.",
+    "camera": "Medium close-up",
+    "transition": "quick cut",
+    "mood": "terrified"
+   },
+   {
+    "narration": "I turn around slowly, feeling the cold draft of an empty room that should have no doors.",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, turning around in the shadowy studio.",
+    "camera": "Slow pan",
+    "transition": "creepy zoom",
+    "mood": "haunting"
+   },
+   {
+    "narration": "Why are you standing so still in my canvas?",
+    "visual_prompt": "Leo, 20, dark hair, denim jacket, staring directly into the camera lens with wide eyes.",
+    "camera": "Extreme close-up",
+    "transition": "fade to black",
+    "mood": "chilling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His brush paints tomorrow's tragedy.",
+  "title": "The Ghost Painter",
+  "caption": "Blind to the world, he thought he was warning humanity of their impending fates. But every canvas revealed a ghost, already walking among the living.\n\nCan you ever outrun the final stroke?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "darkfiction",
+   "fateorfreechoice",
+   "plottwist",
+   "storytelling",
+   "microfiction",
+   "suspense",
+   "arthorror",
+   "creativewriting"
+  ]
+ }
+}

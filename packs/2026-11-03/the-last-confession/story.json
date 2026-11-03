@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Last Confession",
+  "logline": "A dying man confesses his crimes to a priest, only to discover the priest is actually his future self.",
+  "theme": "Time and consequence",
+  "twist": "The priest hearing the final confession is the man's own future self, trapped in a loop.",
+  "ending": "Who will listen when it is your turn to absolve yourself?",
+  "scenes": [
+   {
+    "narration": "Forgive me, Father, for I have completely ruined three lives just to chase a hollow dream of absolute power.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, sitting inside a dark, dusty stone confession booth.",
+    "camera": "Extreme close-up on his trembling lips",
+    "transition": "Hard cut",
+    "mood": "Guilty"
+   },
+   {
+    "narration": "The priest behind the wooden screen doesn't offer a gentle prayer. He just lets out a very heavy, tired sigh.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, looking anxiously toward the shadowy wooden partition.",
+    "camera": "Medium over-the-shoulder shot",
+    "transition": "Quick pan",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I stole fortunes, wrecked loyal friends, and left a trail of broken promises that nothing can ever truly fix.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, clenching his fists inside the tight wooden booth.",
+    "camera": "Close-up on clasped hands",
+    "transition": "Match cut",
+    "mood": "Regretful"
+   },
+   {
+    "narration": "You speak of sins as if they belong to someone else, a voice whispers from the dark, cold shadows.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, staring wide-eyed at the dark screen of the booth.",
+    "camera": "Low angle push in",
+    "transition": "Smooth zoom",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I know every single detail because I lived every single second of that arrogant, selfish, miserable life myself.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, leaning forward in confusion and deep disbelief.",
+    "camera": "Medium frontal shot",
+    "transition": "Cross dissolve",
+    "mood": "Shocked"
+   },
+   {
+    "narration": "The wooden screen slowly slides open, revealing no priest at all, only an older, scarred face staring back.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, staring at an older version of himself across the partition.",
+    "camera": "Wide angle two-shot",
+    "transition": "Slow push",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "I am you, aged by decades of endless penance in this exact room, waiting for this exact conversation to end.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, looking horrified at his older, weathered face in the dim light.",
+    "camera": "Push in on older face",
+    "transition": "Hard cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "There is no absolution here, no clean slate waiting outside. We only trade places to hear the confession again.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, standing up inside the confined wooden confession booth.",
+    "camera": "Overhead tracking shot",
+    "transition": "Fast zoom",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "Now take my seat in the shadows, little me, and prepare to listen to your own endless excuses.",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, stepping out while his older self takes the wooden seat.",
+    "camera": "Medium tracking shot",
+    "transition": "Whip pan",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "Who will listen when it is your turn to absolve yourself from the trap you built?",
+    "visual_prompt": "A 22-year-old man with messy dark hair wearing a worn black hoodie, sitting alone in the dark booth as the heavy door slams.",
+    "camera": "Extreme close-up on terrified eyes",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Absolution has a terrifying price.",
+  "title": "The Last Confession",
+  "caption": "He came to wash away a lifetime of sins in the quiet dark of the confessional. But the voice behind the screen didn't offer penance\u2014it whispered memories only he possessed. How do you ask God for forgiveness when the man judging you is yourself?",
+  "hashtags": [
+   "cinematic",
+   "shortfilm",
+   "timeloop",
+   "scifi",
+   "storytime",
+   "mindblown",
+   "shortstory",
+   "existential",
+   "drama",
+   "plottwist"
+  ]
+ }
+}
