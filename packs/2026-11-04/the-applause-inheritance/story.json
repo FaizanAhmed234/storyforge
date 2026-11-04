@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Applause Inheritance",
+  "logline": "A musician inherits the roaring cheers of his late grandfather, only to realize the stadium noise is draining living souls.",
+  "theme": "The hidden human cost of public adoration.",
+  "twist": "The roaring crowds in his head are actually the trapped lifeforce of every fan who ever clapped for him.",
+  "ending": "Are you cheering for the music, or are you just waiting to take my place?",
+  "scenes": [
+   {
+    "narration": "My grandfather died on stage to deafening applause, and now that exact same roar echoes inside my empty skull.",
+    "visual_prompt": "Close-up of Leo, 22, messy dark curly hair, wearing a worn black leather jacket, standing in a quiet, sterile bedroom with hands over his ears.",
+    "camera": "Extreme close-up on face, slow push in",
+    "transition": "Hard cut",
+    "mood": "Unsettling and claustrophobic"
+   },
+   {
+    "narration": "I grabbed my battered acoustic guitar, desperate to drown out the phantom cheers filling every single waking second of my day.",
+    "visual_prompt": "Medium shot of Leo, 22, messy dark curly hair, black leather jacket, sitting on a messy bed strumming a scratched wooden acoustic guitar.",
+    "camera": "Low angle, tracking slightly left",
+    "transition": "Smash cut",
+    "mood": "Frantic and desperate"
+   },
+   {
+    "narration": "The moment my fingers hit the strings, the phantom noise swells into a massive stadium wave of screaming, adoring fans.",
+    "visual_prompt": "Medium shot of Leo, 22, messy dark curly hair, black leather jacket, closing his eyes tightly as harsh yellow stage lights suddenly flash in his bedroom.",
+    "camera": "Rapid zoom in on his face",
+    "transition": "Whip pan",
+    "mood": "Overwhelming and surreal"
+   },
+   {
+    "narration": "I played a tiny coffee shop downtown, and for three minutes, real people clapped. The invisible roar instantly vanished.",
+    "visual_prompt": "Wide shot of Leo, 22, messy dark curly hair, black leather jacket, performing on a small wooden stage in a cozy, dimly lit cafe.",
+    "camera": "Static wide shot, slight lens flare",
+    "transition": "Dissolve",
+    "mood": "Relieved and hopeful"
+   },
+   {
+    "narration": "Then the cafe doors slammed shut, and the real patrons slumped into their chairs, staring blankly with completely empty, glass eyes.",
+    "visual_prompt": "Medium shot of coffee shop customers sitting still like statues, heads drooping, faces pale and expressionless, while Leo watches in absolute horror.",
+    "camera": "Slow pan across frozen faces",
+    "transition": "Hard cut",
+    "mood": "Chilling and eerie"
+   },
+   {
+    "narration": "I checked my grandfather's old leather notebook, finding a dark secret scribbled in the margins of every single winning song.",
+    "visual_prompt": "Close-up of Leo, 22, messy dark curly hair, black leather jacket, flipping through yellowed paper covered in frantic handwriting under a single desk lamp.",
+    "camera": "Over-the-shoulder shot, tight focus",
+    "transition": "Match cut",
+    "mood": "Suspenseful and dark"
+   },
+   {
+    "narration": "Applause isn't a reward for good art. It's a heavy tax paid in the stolen breath of everyone listening.",
+    "visual_prompt": "Close-up of Leo, 22, messy dark curly hair, black leather jacket, staring wide-eyed at the notebook text reflecting in his terrified pupils.",
+    "camera": "Extreme close-up on eyes",
+    "transition": "Quick zoom",
+    "mood": "Horrified realization"
+   },
+   {
+    "narration": "My phone buzzed with a million new streams, and the stadium roar inside my head grew deafening, tearing my thoughts apart.",
+    "visual_prompt": "Medium shot of Leo, 22, messy dark curly hair, black leather jacket, dropping his glowing smartphone as he clutches his head in agonizing pain.",
+    "camera": "Handheld shaky cam",
+    "transition": "Fast push in",
+    "mood": "Chaotic and painful"
+   },
+   {
+    "narration": "Outside my window, thousands of fans gather in the street, clapping frantically in unison while their color drains away.",
+    "visual_prompt": "High angle shot through a dusty window of Leo, 22, messy dark curly hair, black leather jacket, looking down at a gray crowd clapping silently below.",
+    "camera": "High angle looking down, slow zoom out",
+    "transition": "Fade to black",
+    "mood": "Apocalyptic and bleak"
+   },
+   {
+    "narration": "You are all screaming your lungs out for my next hit, but are you cheering, or just waiting to vanish?",
+    "visual_prompt": "Extreme close-up of Leo, 22, messy dark curly hair, black leather jacket, staring directly down the camera lens with dead, haunted eyes.",
+    "camera": "Locked-off macro shot, pulsing red light",
+    "transition": "Hard cut to black",
+    "mood": "Haunting and provocative"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The applause sounds like love. It's not.",
+  "title": "The Applause Inheritance",
+  "caption": "Every standing ovation is a silent transaction. He wanted the roaring crowds of his grandfather's legacy, but the cheers echo with something far darker.\n\nWhat are you willing to sacrifice for a lifetime of applause?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "darkfantasy",
+   "music",
+   "fame",
+   "thriller",
+   "storytelling",
+   "horror",
+   "twist",
+   "audio"
+  ]
+ }
+}

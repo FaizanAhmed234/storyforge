@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Obituary Club",
+  "logline": "A man discovers an exclusive club that publishes obituaries for people before they die, and realizes his name is in tomorrow's edition.",
+  "theme": "The illusion of free will versus predetermined fate.",
+  "twist": "The club doesn't predict deaths; reading the obituary is what actually kills the subject.",
+  "ending": "If reading the words is the final trigger, who just turned the page for you?",
+  "scenes": [
+   {
+    "narration": "They printed my death notice forty-eight hours before I even touched the steering wheel of that truck.",
+    "visual_prompt": "Close-up of Leo, a 25-year-old man with messy brown hair and a dark hoodie, staring wide-eyed at a glowing newspaper clipping in a dark, neon-lit study.",
+    "camera": "Extreme close-up pushing in rapidly to his panicked eyes.",
+    "transition": "Hard cut",
+    "mood": "Shocking and disorienting"
+   },
+   {
+    "narration": "I found the leather-bound ledger hidden deep inside my grandfather's locked mahogany desk, smelling heavily of aged dust and dried ink.",
+    "visual_prompt": "Medium shot of Leo, 25, brown hair, dark hoodie, frantically flipping yellowed pages in a cramped, shadowy study filled with heavy antique furniture.",
+    "camera": "Over-the-shoulder tracking shot following his trembling fingers.",
+    "transition": "Smooth match cut",
+    "mood": "Tense and claustrophobic"
+   },
+   {
+    "narration": "Every single name listed in these heavy pages belonged to someone who died exactly when the paper predicted.",
+    "visual_prompt": "Insert shot of Leo's finger tracing neat cursive names and exact timestamps inside the open ledger, illuminated by a single green desk lamp.",
+    "camera": "Macro lens focus shift from blurry background to sharp text.",
+    "transition": "Quick pan",
+    "mood": "Ominous and chilling"
+   },
+   {
+    "narration": "I laughed it off as some twisted family prank until I saw my own full name staring back.",
+    "visual_prompt": "Close-up of Leo, 25, brown hair, dark hoodie, pressing his hand against the page as his face contorts in absolute disbelief and rising terror.",
+    "camera": "Static shot with a subtle digital zoom, increasing pressure.",
+    "transition": "Match cut",
+    "mood": "Paralyzing disbelief"
+   },
+   {
+    "narration": "Leo Vance. Fatal brake failure on Maple Street bridge. Tuesday morning, precisely at eight thirty-two.",
+    "visual_prompt": "Insert shot zooming into the specific printed text naming Leo, showing the exact date and fatal cause inside the glowing ledger.",
+    "camera": "Fast push-in directly onto the printed words.",
+    "transition": "Fast whip pan",
+    "mood": "Cold dread"
+   },
+   {
+    "narration": "I refused to drive. I stayed locked inside my apartment all morning, watching the clock hands creep past the hour.",
+    "visual_prompt": "Medium wide shot of Leo, 25, brown hair, dark hoodie, huddled on a shabby living room floor staring at a ticking wall clock.",
+    "camera": "Low angle looking up, making the room feel heavy and oppressive.",
+    "transition": "Slow fade",
+    "mood": "Desperate and anxious"
+   },
+   {
+    "narration": "When eight thirty-two finally arrived and passed in complete silence, a massive wave of relief crashed over my chest.",
+    "visual_prompt": "Medium shot of Leo, 25, brown hair, dark hoodie, letting out a massive, shaky sigh of relief as bright morning sunlight hits his face.",
+    "camera": "Handheld camera shaking slightly, then stabilizing.",
+    "transition": "Jump cut",
+    "mood": "Exhilarated and triumphant"
+   },
+   {
+    "narration": "I walked outside to grab the morning paper, laughing at how foolish I had been to trust a cursed book.",
+    "visual_prompt": "Medium tracking shot of Leo, 25, brown hair, dark hoodie, stepping out onto a bright suburban porch with a confident, relieved smirk.",
+    "camera": "Tracking forward alongside him as he opens the front door.",
+    "transition": "Seamless motion cut",
+    "mood": "Cautiously optimistic"
+   },
+   {
+    "narration": "That is when the delivery boy handed me a fresh envelope containing tomorrow's date and a brand new headline.",
+    "visual_prompt": "Close-up of a nervous teenage delivery boy handing a stark black envelope to Leo, 25, whose smile instantly shatters into pure horror.",
+    "camera": "Push-in on Leo's face as his expression drops completely.",
+    "transition": "Quick snap zoom",
+    "mood": "Sudden gut-punch"
+   },
+   {
+    "narration": "The words printed inside formed a question: If reading your own obituary triggers the end, who just turned the final page?",
+    "visual_prompt": "Extreme close-up of Leo, 25, brown hair, dark hoodie, staring directly into the camera lens with absolute terror as darkness swallows the frame.",
+    "camera": "Slow, relentless push-in straight into his wide, unblinking eyes.",
+    "transition": "Fade to black",
+    "mood": "Haunting and unresolved"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Read your own obituary, sign your death warrant.",
+  "title": "The Obituary Club",
+  "caption": "Arthur thought predicting the future was impossible until he read his own final words in print. But time isn't being read here\u2014it's being written.\n\nWould you peek at the end of your story if you had the chance?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "darkfantasies",
+   "predestined",
+   "mystery",
+   "twistedendings",
+   "storytime",
+   "fate",
+   "narrative"
+  ]
+ }
+}
