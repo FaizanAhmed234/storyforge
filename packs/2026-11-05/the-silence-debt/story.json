@@ -1,0 +1,100 @@
+{
+ "story": {
+  "title": "The Silence Debt",
+  "logline": "A woman pays to keep her terrible secrets quiet, only to discover the vault is actually collecting something far more vital than money.",
+  "theme": "The true cost of unspoken truth",
+  "twist": "The bank doesn't store her secrets to hide them; it uses them to build physical bodies for the people she wronged.",
+  "ending": "Who will you forgive today, before your voice runs out completely?",
+  "scenes": [
+   {
+    "narration": "They charged me five hundred dollars just to whisper my darkest secret into a cold metal drain.",
+    "visual_prompt": "Maya, a 25-year-old woman with messy dark hair and a worn denim jacket, stands inside a damp concrete vault.",
+    "camera": "Extreme close-up on lips whispering into a rusted brass drain.",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "The bank promised total silence. Every payment buys another month of absolute peace from my past mistakes.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, swipes her phone against a glowing terminal in the damp concrete vault.",
+    "camera": "Medium shot tracking her hand, glowing blue light on her face.",
+    "transition": "smash cut",
+    "mood": "anxious"
+   },
+   {
+    "narration": "My account balance is hitting zero. If I miss today's payment, the vault releases everything to the public.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, stares in horror at a flashing red screen in the damp concrete vault.",
+    "camera": "Close-up on phone screen showing zero balance.",
+    "transition": "quick zoom",
+    "mood": "panicked"
+   },
+   {
+    "narration": "I begged the teller for an extension. She just pointed at the heavy vault door slowly sliding shut.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, bangs on a massive steel door inside the damp concrete vault.",
+    "camera": "Wide shot showing her tiny form against the giant closing door.",
+    "transition": "fade to black",
+    "mood": "dread"
+   },
+   {
+    "narration": "The lock clicked. But inside, there was no escape hatch, only rows of glowing glass jars lining the walls.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, trapped in a room of glowing glass jars inside the concrete vault.",
+    "camera": "Pan across shelves filled with pulsing colored light.",
+    "transition": "slow pan",
+    "mood": "eerie"
+   },
+   {
+    "narration": "Inside each jar floated a shape. Not a file, not a recording, but a tiny, breathing human heart.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, peers closely at a pulsing glass jar in the concrete vault.",
+    "camera": "Macro shot of a tiny beating heart suspended in fluid.",
+    "transition": "fast push in",
+    "mood": "shocking"
+   },
+   {
+    "narration": "A speaker crackled to life. The bank doesn't store secrets to hide them. It harvests them to build lives.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, covers her ears as a metallic speaker crackles in the concrete vault.",
+    "camera": "Medium shot over her shoulder at an old intercom.",
+    "transition": "sharp cut",
+    "mood": "unsettling"
+   },
+   {
+    "narration": "Every lie I paid to bury became flesh. Down here, my silence literally grew into the people I hurt.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, watches shadows forming into human silhouettes inside the concrete vault.",
+    "camera": "Wide low angle as figures materialize from mist.",
+    "transition": "dissolve",
+    "mood": "terrifying"
+   },
+   {
+    "narration": "The glass in front of me cracked. A hand reached out from the jar, cold and demanding my name.",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, recoils as a pale hand bursts from glass in the concrete vault.",
+    "camera": "Close-up on shattering glass and reaching fingers.",
+    "transition": "fast cut",
+    "mood": "frightening"
+   },
+   {
+    "narration": "Who will you forgive today, before your voice runs out completely and takes your body with it?",
+    "visual_prompt": "Maya, 25, dark messy hair, worn denim jacket, fading into mist inside the dark concrete vault.",
+    "camera": "Dolly back as she dissolves into glowing particles.",
+    "transition": "fade out",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Her secrets weren't buried, they were building.",
+  "title": "The Silence Debt",
+  "caption": "She thought she was buying peace with silver, but the vault demands a flesh-and-blood toll. Every secret she whispered into the dark has finally taken a step toward her front door. What happens when your sins start breathing?",
+  "hashtags": [
+   "shortfilm",
+   "darkthriller",
+   "psychologicalhorror",
+   "cinematicstory",
+   "twistedtale",
+   "mystery",
+   "storytelling",
+   "screenwriting",
+   "shortstory",
+   "suspense",
+   "horrorstories",
+   "narrative"
+  ]
+ }
+}

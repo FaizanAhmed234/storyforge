@@ -1,0 +1,100 @@
+{
+ "story": {
+  "title": "The Stage Cleaner",
+  "logline": "A woman who sanitizes crime scenes before they happen realizes her job isn't cleaning up violence\u2014it's planting the psychological triggers that cause it.",
+  "theme": "Self-fulfilling prophecy and manipulation",
+  "twist": "The cleaning company does not scrub away evidence; it stages gruesome crime scenes in advance to manipulate innocent residents into committing murder.",
+  "ending": "Maya succumbs to the psychological prompt staged in her own home, echoing the opening hook with a terrifying realization.",
+  "scenes": [
+   {
+    "narration": "I get paid to clean crime scenes before the bodies even hit the floor. My employer sends coordinates, I scrub the blood.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob wearing a sleek silver biohazard suit, kneeling in a dimly lit modern apartment, scrubbing fluorescent liquid into dark hardwood floors.",
+    "camera": "Low angle static close-up",
+    "transition": "Quick cut",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "It sounds impossible, but the system is relentless. Every detail must match the work order perfectly down to the final smudge.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, checking glowing red numbers on a sleek black digital tablet in a dark rain-slicked alleyway.",
+    "camera": "Medium tracking shot",
+    "transition": "Smooth slide right",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Tonight, a new assignment pops onto my tablet. I open the file, and my heart drops into my hollow stomach.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, looking terrified as the illuminated tablet screen casts a pale glow on her face inside a service van.",
+    "camera": "Tight facial close-up",
+    "transition": "Dissolve",
+    "mood": "Dread"
+   },
+   {
+    "narration": "The coordinates point directly to apartment 4B. That is my apartment. My safe space. My home.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, running up a narrow, dimly lit apartment hallway past door numbers 4A and 4B.",
+    "camera": "Handheld push-in",
+    "transition": "Wipe left",
+    "mood": "Urgent"
+   },
+   {
+    "narration": "I race through the rain, terrified I will find my sister shattered on the floor. I burst through the front door.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, pushing open a heavy door into her warm-lit, cozy modern living room with a beige rug.",
+    "camera": "Over-the-shoulder wide shot",
+    "transition": "Hard cut",
+    "mood": "Panic"
+   },
+   {
+    "narration": "The apartment is completely empty except for a stranger wearing the exact same silver suit as me, holding a bucket.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, standing frozen at the doorway, staring at an older figure in an identical silver suit standing over the rug.",
+    "camera": "Wide eye-level shot",
+    "transition": "Fade to black momentarily",
+    "mood": "Shock"
+   },
+   {
+    "narration": "He isn't scrubbing blood away. He is carefully spreading dark red paint onto the beige rug in precise streaks.",
+    "visual_prompt": "Vertical shot, close up on the figure in a silver biohazard suit using a small brush to splash synthetic red liquid across Maya's beige living room rug.",
+    "camera": "Extreme close-up macro shot",
+    "transition": "Quick whip zoom",
+    "mood": "Disturbing"
+   },
+   {
+    "narration": "I drop my bleach bottle. He turns slowly, pointing at the work order. 'We don't clean past crimes, kid. We plant them.'",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, dropping a plastic bottle as the older male cleaner hands her a glowing black tablet.",
+    "camera": "Medium two-shot",
+    "transition": "Smooth tilt up",
+    "mood": "Revelatory"
+   },
+   {
+    "narration": "The mind sees blood and creates a killer. Every scene I ever prepped was a subconscious prompt for a future victim.",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, staring wide-eyed at her own reflection in a dark window pane inside her living room.",
+    "camera": "Slow rack focus",
+    "transition": "Cross dissolve",
+    "mood": "Haunting"
+   },
+   {
+    "narration": "Now I stare at the painted stain on my rug, feeling the urge grow. Who will clean up after me?",
+    "visual_prompt": "Vertical shot, Maya, a 28-year-old woman with a short dark bob in a silver biohazard suit, standing alone in her living room looking down at the red stain on the rug with a cold expression.",
+    "camera": "High-angle slow zoom out",
+    "transition": "Fade to black",
+    "mood": "Chilling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "She doesn't clean scenes, she creates them.",
+  "title": "The Stage Cleaner: A Scripted Tragedy",
+  "caption": "I spent years scrubbing floors, believing I was erasing sins. I never realized the bleach was just a primer for the nightmares I was ordered to plant. Is destiny something we face, or something we are staged to fulfill?",
+  "hashtags": [
+   "psychologicalthriller",
+   "shortstory",
+   "darkfiction",
+   "suspense",
+   "twistedtale",
+   "cinematicwriting",
+   "moralambiguity",
+   "crimefiction",
+   "unreliableprotagonist",
+   "thoughtprovoking",
+   "plotwist",
+   "writingcommunity"
+  ]
+ }
+}
