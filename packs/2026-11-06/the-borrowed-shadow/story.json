@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Borrowed Shadow",
+  "logline": "A lonely teenager trades his shadow for a companion, only to realize the shadow was carrying something vital.",
+  "theme": "Identity and regret",
+  "twist": "The shadow wasn't absorbing light; it was absorbing all the physical pain the boy was supposed to feel.",
+  "ending": "Now the pain is flooding back, and the shadow is walking away forever.",
+  "scenes": [
+   {
+    "narration": "My shadow walked away from me last Tuesday, leaving my feet completely naked on the cold concrete sidewalk.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, standing on a gloomy urban sidewalk under a streetlamp with no shadow cast behind him. Vertical 9:16.",
+    "camera": "Low angle, static tracking shot",
+    "transition": "Hard cut",
+    "mood": "Eerie and surreal"
+   },
+   {
+    "narration": "I did not scream. I just smiled because for the first time in my life, I wasn't alone.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, smiling broadly on the gloomy urban sidewalk, looking down at his feet. Vertical 9:16.",
+    "camera": "Medium close-up, slight push in",
+    "transition": "Quick dissolve",
+    "mood": "Relieved and unsettling"
+   },
+   {
+    "narration": "It stood by my locker, nodding at my jokes and filling the empty space where my friends should be.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, standing in a dim high school hallway next to a distinct, moving dark silhouette that mimics talking. Vertical 9:16.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Wipe right",
+    "mood": "Quietly eerie"
+   },
+   {
+    "narration": "People finally noticed me. They whispered in the corridors, staring at the double silhouette walking beside my frame.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, walking down a school hallway while classmates stare in shock. Vertical 9:16.",
+    "camera": "Tracking shot from the front",
+    "transition": "Fast cut",
+    "mood": "Tense and observant"
+   },
+   {
+    "narration": "Then came the soccer match. I tripped hard over the turf, expecting the usual agonizing crack in my ankle.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, falling on a green soccer field under stadium lights, grimacing in anticipation. Vertical 9:16.",
+    "camera": "Dynamic low angle",
+    "transition": "Quick zoom",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "Instead, I felt nothing. Absolutely nothing. My shadow writhed on the grass, absorbing a violent snap that belonged to me.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, sitting untouched on the green soccer field while his distinct shadow twists unnaturally on the turf. Vertical 9:16.",
+    "camera": "High angle wide shot",
+    "transition": "Hard cut",
+    "mood": "Shocking and strange"
+   },
+   {
+    "narration": "That was the bargain. It took my shape so it could take my suffering, keeping my fragile body completely safe.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, touching his undamaged ankle on the dark turf, looking terrified at the ground. Vertical 9:16.",
+    "camera": "Close-up on face and hands",
+    "transition": "Slow fade",
+    "mood": "Dawning realization"
+   },
+   {
+    "narration": "Tonight, the shadow stopped mimicking me. It stood up straight, shook its head, and turned toward the open road.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, watching a separate dark figure detach completely from the pavement and walk away under a streetlamp. Vertical 9:16.",
+    "camera": "Wide static shot",
+    "transition": "Quick cut",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "As it crossed the street into the dark, every broken bone it ever saved for me instantly returned.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, clutching his legs on the sidewalk in sudden, overwhelming agony under the streetlamp. Vertical 9:16.",
+    "camera": "Handheld shaky close-up",
+    "transition": "Fast smash cut",
+    "mood": "Painful and frantic"
+   },
+   {
+    "narration": "Now my shadow is gone, and I am finally feeling everything it carried for me.",
+    "visual_prompt": "17-year-old boy, messy dark hair, oversized black hoodie, lying alone on the dark sidewalk with no shadow anywhere in sight. Vertical 9:16.",
+    "camera": "Extreme high angle pull back",
+    "transition": "Fade to black",
+    "mood": "Haunting and final"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I traded my shadow for a friend.",
+  "title": "The Borrowed Shadow",
+  "caption": "Loneliness made me desperate enough to trade away the silhouette trailing my feet just to feel less alone. But I only realized too late what it was actually carrying for me.\n\nWhat are you willing to sacrifice for comfort?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "darkfantasy",
+   "identity",
+   "emotional",
+   "storytelling",
+   "horror",
+   "regret",
+   "twisted",
+   "microfiction"
+  ]
+ }
+}

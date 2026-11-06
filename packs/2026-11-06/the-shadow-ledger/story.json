@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Shadow Ledger",
+  "logline": "A woman discovers her smartwatch does not track her steps, but rather the exact moments she loses her moral courage.",
+  "theme": "cowardice",
+  "twist": "The steps do not measure distance walked, but the feet walked backward away from help.",
+  "ending": "When will you finally take a step forward?",
+  "scenes": [
+   {
+    "narration": "My watch vibrates at midnight, flashing a number that makes my stomach completely drop to the floor.",
+    "visual_prompt": "Maya, 25, short dark bob, wearing an oversized grey hoodie, staring at a glowing smartwatch in a dark bedroom.",
+    "camera": "Extreme close-up on the glowing watch screen, rack focus to Maya's terrified eyes.",
+    "transition": "Hard cut",
+    "mood": "dread"
+   },
+   {
+    "narment": "Four thousand steps. But I haven't left my apartment all day long. Not even for coffee.",
+    "narration": "Four thousand steps. But I haven't left my apartment all day long. Not even for coffee.",
+    "visual_prompt": "Maya, 25, short dark bob, oversized grey hoodie, looking around her quiet, empty bedroom in confusion.",
+    "camera": "Medium shot, panning slowly across the empty floor to her bare feet.",
+    "transition": "Match cut",
+    "mood": "confusion"
+   },
+   {
+    "narration": "Then I remember the subway platform this morning. The man who tripped, dropping his heavy briefcase.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, standing frozen in a crowded subway station, watching a fallen man.",
+    "camera": "Over-the-shoulder shot looking down at the struggling man.",
+    "transition": "Fast pan",
+    "mood": "tension"
+   },
+   {
+    "narration": "Everyone walked right past him. And so did I. My feet kept moving without missing a beat.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, walking briskly past the fallen man while commuters ignore him.",
+    "camera": "Tracking shot moving backward in front of Maya, keeping her centered.",
+    "transition": "Smooth slide",
+    "mood": "guilt"
+   },
+   {
+    "narration": "I look down at the screen again. The label above the number changes right before my eyes.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, staring down at her wrist under the harsh apartment lamp.",
+    "camera": "Close-up on the watch display shifting text.",
+    "transition": "Quick zoom",
+    "mood": "shock"
+   },
+   {
+    "narration": "It doesn't track distance. It tracks retreat. Every step away from someone who needed help.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, eyes wide with realization as she reads the tiny glowing words.",
+    "camera": "Close-up on Maya's face reflecting the blue screen light.",
+    "transition": "Hard cut",
+    "mood": "realization"
+   },
+   {
+    "narration": "My phone lights up with a local news alert. A robbery happened at that exact subway stop.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, looking at her phone notification flashing on the nightstand.",
+    "camera": "Medium shot, push in slowly on Maya's trembling hands.",
+    "transition": "Dissolve",
+    "mood": "suspense"
+   },
+   {
+    "narration": "If I had stopped, I could have stopped it. Four thousand steps of pure cowardice.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, backing away from the bed in absolute horror and shame.",
+    "camera": "Wide shot framing Maya trapped between the bed and the dark wall.",
+    "transition": "Fast cut",
+    "mood": "despair"
+   },
+   {
+    "narration": "The watch vibrates again. A brand new number appears, ticking upward as I stand here shaking.",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, lifting her wrist as the numbers rapidly increase on the screen.",
+    "camera": "Extreme close-up on the digits spinning upward.",
+    "transition": "Slow push",
+    "mood": "panic"
+   },
+   {
+    "narration": "Another crisis happening right now across town. When will you finally take a step forward?",
+    "visual_prompt": "Maya, 25, short dark bob, grey hoodie, staring directly into the camera lens with sudden, grim resolve.",
+    "camera": "Direct-to-camera medium shot, holding steady.",
+    "transition": "Fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Your watch is counting your deepest regrets.",
+  "title": "The Shadow Ledger",
+  "caption": "It wasn't tracking her steps. It was measuring every single time she looked away when someone needed her.\n\nHow heavy is your invisible score?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "moralconundrum",
+   "thriller",
+   "darkfiction",
+   "mindblown",
+   "creativewriting",
+   "psychological",
+   "suspense",
+   "storytelling"
+  ]
+ }
+}

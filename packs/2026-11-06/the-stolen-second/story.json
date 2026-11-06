@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Stolen Second",
+  "logline": "A man discovers he can buy extra time by paying with his happy memories, until he runs out of joy.",
+  "theme": "The true cost of avoiding pain is losing happiness.",
+  "twist": "The memories he sold to buy extra time were the very moments that made life worth living.",
+  "ending": "Would you trade your happiest day for one more minute of breathing?",
+  "scenes": [
+   {
+    "narration": "My watch showed midnight, but the street was frozen mid-stride, locked in a breathless, terrifying silence.",
+    "visual_prompt": "Leo, 25, messy dark hair, wearing a worn green hoodie, stands in a city street where people are literally frozen in place. Moody urban night, vertical 9:16 framing.",
+    "camera": "Static wide shot capturing the frozen crowd.",
+    "transition": "Hard cut",
+    "mood": "Eerie and tense"
+   },
+   {
+    "narration": "I did this. I bought this extra second using a kiosk that trades my happy memories for time.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, standing before a glowing metallic kiosk with a fingerprint scanner in a dark alleyway. Vertical 9:16 framing.",
+    "camera": "Medium close-up tracking Leo's nervous hands.",
+    "transition": "Quick pan",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "Ten seconds cost my first kiss. A minute cost my graduation day. It felt like a fair trade.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, looking down at his palm as faint glowing golden particles drift away into the dark alley. Vertical 9:16 framing.",
+    "camera": "Close-up on Leo's hand and glowing particles.",
+    "transition": "Match cut",
+    "mood": "Regretful"
+   },
+   {
+    "narration": "The world around me unfroze, people rushing past me unaware that I had stolen a slice of their universe.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, standing as commuters suddenly surge past him in fast motion. Vertical 9:16 framing.",
+    "camera": "Over-the-shoulder tracking shot moving with Leo.",
+    "transition": "Smash cut",
+    "mood": "Chaotic"
+   },
+   {
+    "narration": "Then the chest pain hit, sharp and relentless. My heart demanded payment for the stolen seconds I abused.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, gripping his chest in pain against a brick wall under a flickering streetlamp. Vertical 9:16 framing.",
+    "camera": "Handheld close-up on Leo's strained face.",
+    "transition": "Slow zoom",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "I ran back to the alley kiosk, desperate to buy another minute before my heart gave out completely.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, stumbling frantically down a narrow, shadowy brick alley toward the glowing machine. Vertical 9:16 framing.",
+    "camera": "Low angle tracking shot running backward.",
+    "transition": "Fast cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "The screen flashed red. Account empty. No more happy memories left to trade for your life.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, staring wide-eyed at the kiosk screen displaying a glaring red error message. Vertical 9:16 framing.",
+    "camera": "Extreme close-up on Leo's terrified eyes reflecting the red light.",
+    "transition": "Hard cut",
+    "mood": "Horrified"
+   },
+   {
+    "narration": "My mind flooded with emptiness. Not just sadness, but a hollow void where my entire life should be.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, sinking to his knees in the alley, clutching his head as the world blurs. Vertical 9:16 framing.",
+    "camera": "High angle spinning shot looking down at Leo.",
+    "transition": "Dissolve",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "I had bought so much time that I forgot what I was trying to stay alive for.",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, sitting blankly against the alley wall, tears falling without a reason. Vertical 9:16 framing.",
+    "camera": "Static medium shot focusing on his expressionless face.",
+    "transition": "Slow fade",
+    "mood": "Melancholy"
+   },
+   {
+    "narration": "Would you trade your happiest day for one more minute of breathing?",
+    "visual_prompt": "Leo, 25, messy dark hair, green hoodie, staring directly into the camera lens with dead, hollow eyes in the dark alley. Vertical 9:16 framing.",
+    "camera": "Extreme close-up, locked off and unblinking.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Buy more time. Sell your joy.",
+  "title": "The Stolen Second",
+  "caption": "He traded his happiest moments just to live a little longer. But when the joy is gone, what is left to save?\n\nWould you pay with your best memories just to cheat the clock?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "scifi",
+   "timetravel",
+   "emotional",
+   "existential",
+   "storytelling",
+   "mindblown",
+   "fiction",
+   "deepthoughts",
+   "writerscommunity"
+  ]
+ }
+}
