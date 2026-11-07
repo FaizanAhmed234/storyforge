@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Backup Life",
+  "logline": "A man discovers he is only a clone kept in storage, activated solely when his primary self encounters fatal danger.",
+  "theme": "Identity and expendability",
+  "twist": "His original self died yesterday, meaning he is no longer the backup\u2014he is entirely alone.",
+  "ending": "If I am the only one left, who keeps me in the dark?",
+  "scenes": [
+   {
+    "narration": "My heart stopped beating three minutes ago, and yet, here I am, waking up inside a freezing glass tube.",
+    "visual_prompt": "25-year-old male, messy dark hair, wearing a white utility jumpsuit, inside a glowing blue cryogenic pod, dark futuristic room",
+    "camera": "Extreme close-up on terrified eyes, rapidly zooming out",
+    "transition": "Hard cut",
+    "mood": "Disoriented and cold"
+   },
+   {
+    "narration": "The emergency lights pulse red, casting harsh shadows across the sterile walls of the underground activation chamber I call home.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, standing in a sterile glowing subterranean chamber with red emergency lights",
+    "camera": "Wide shot, tracking forward slowly",
+    "transition": "Smooth pan",
+    "mood": "Tense"
+   },
+   {
+    "narration": "A digital screen flashes my exact serial number. I am not a person. I am a reserve body, waiting for a crash.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, staring at a floating holographic screen displaying clone serial numbers",
+    "camera": "Over-the-shoulder medium shot",
+    "transition": "Match cut",
+    "mood": "Dawning horror"
+   },
+   {
+    "narration": "Every memory in my head belongs to him. The coffee shops, the heartbreaks, the laughs. They were all just downloaded.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, touching his head with a pained expression in the dim room",
+    "camera": "Close-up profile shot",
+    "transition": "Whip pan",
+    "mood": "Existential dread"
+   },
+   {
+    "narration": "My primary self was supposed to survive his mountain climb today. That is the only reason my pod was programmed to open.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, looking up at a status monitor showing a mountain hiking trail map",
+    "camera": "Low angle tracking shot",
+    "transition": "Hard cut",
+    "mood": "Anxious anticipation"
+   },
+   {
+    "narration": "I press my palm against the heavy steel exit door, expecting it to remain locked until the system syncs our lives.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, pressing his bare hand against a massive scratched steel bulkhead door",
+    "camera": "Medium tight shot on hands and door",
+    "transition": "Slow zoom",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "The door slides open with a hiss, spilling golden morning sunlight onto my bare feet for the very first time.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, stepping through a heavy door into blinding golden morning sunlight outside",
+    "camera": "Wide silhouette shot from behind",
+    "transition": "Fade through white",
+    "mood": "Overwhelming relief"
+   },
+   {
+    "narration": "I step out onto the quiet forest trail, ready to finally take over his life and live freely under the sun.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, walking onto a green pine tree forest path, breathing deeply",
+    "camera": "Tracking shot moving backward",
+    "transition": "Match cut",
+    "mood": "Hopeful"
+   },
+   {
+    "narration": "Then my wrist implant buzzes. A red notification reads: Primary signal lost permanently. Signal flatline confirmed at dawn.",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, staring down at a glowing red text prompt flashing on his wrist skin",
+    "camera": "Extreme close-up on wrist and glowing text",
+    "transition": "Hard cut",
+    "mood": "Shattering realization"
+   },
+   {
+    "narration": "If the original is truly gone forever, then who exactly am I backing up now?",
+    "visual_prompt": "25-year-old male, messy dark hair, white jumpsuit, standing alone in the vast empty forest, looking straight into the lens",
+    "camera": "Slow push-in to a haunting close-up",
+    "transition": "Fade to black",
+    "mood": "Haunting and chilling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I was only built to die for him.",
+  "title": "The Backup Life",
+  "caption": "For my whole existence, I slept in the dark, waiting for my primary to bleed. But yesterday, the monitor flatlined permanently, leaving me awake in a world that was never meant to be mine. What happens when the spare finally has to live?\n\nIf you were the backup, would you try to play the lead?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "clone",
+   "identity",
+   "cinematic",
+   "dystopian",
+   "existential",
+   "twistofthefate",
+   "writing",
+   "storytime",
+   "scifitok"
+  ]
+ }
+}

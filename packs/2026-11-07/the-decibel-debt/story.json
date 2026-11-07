@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Decibel Debt",
+  "logline": "A man living in a world where every spoken word costs a physical heartbeat discovers his silence is worth a fortune.",
+  "theme": "The hidden cost of communication and the true value of silence.",
+  "twist": "He hasn't been saving his life by staying quiet; he's been accumulating the stolen heartbeats of everyone listening to him.",
+  "ending": "If words cost lives, how many people died just listening to you call my name?",
+  "scenes": [
+   {
+    "narration": "Every single word you speak steals three beats straight from your chest. I learned that the hard way.",
+    "visual_prompt": "Close-up of Leo, a 25-year-old man with messy dark hair and a faded gray hoodie, clutching his chest in a dimly lit, damp concrete room.",
+    "camera": "Extreme close-up tracking shot on chest, fast zoom in",
+    "transition": "Hard cut",
+    "mood": "Tense and alarming"
+   },
+   {
+    "narration": "Leo gasps, clutching his ribs as a digital counter glowing on his forearm ticks down from five hundred.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, looks down in terror at his forearm in the dim concrete room.",
+    "camera": "Medium shot, eye level, rapid push-in",
+    "transition": "Match cut",
+    "mood": "Panicky"
+   },
+   {
+    "narration": "Society adapted fast. We whisper in public. We trade sentences like gold. Whole families go mute to live past thirty.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, walks silently through a crowded subway station where people gesture instead of speaking.",
+    "camera": "Wide tracking shot, shaky cam",
+    "transition": "Smash cut",
+    "mood": "Oppressive and eerie"
+   },
+   {
+    "narration": "I never spoke a word for seven years. My counter swelled to millions. I thought I was immortal.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, stands in front of a giant glowing digital billboard showing his massive heartbeat balance in a sterile vault.",
+    "camera": "Low angle, slow pan up",
+    "transition": "Whip pan",
+    "mood": "Cold and sterile"
+   },
+   {
+    "narration": "Then the auditor handed me the ledger. It listed every single soul tethered to my silent account.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, takes a glowing red tablet from a sharp-suited woman in the sterile vault.",
+    "camera": "Over-the-shoulder shot, tight focus on tablet",
+    "transition": "Fade to black",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "Silence doesn't save you. It collects. Every quiet second I kept drained the heartbeat from a stranger nearby.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, stares in horror as the tablet screen flashes photos of people collapsing in the streets.",
+    "camera": "Close-up on Leo's horrified face, rapid zoom",
+    "transition": "Hard cut",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "My neighbor's sudden cardiac arrest last month? That was me buying a year of absolute quiet.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, watches old security footage of an ambulance outside his apartment door.",
+    "camera": "Medium shot, grainy filter",
+    "transition": "Dissolve",
+    "mood": "Guilty"
+   },
+   {
+    "narration": "The less you say, the more someone else dies for your peace. We aren't saving ourselves at all.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, drops the glowing tablet to the floor in the sterile vault.",
+    "camera": "High angle looking down at the shattering screen",
+    "transition": "Fast cut",
+    "mood": "Despair"
+   },
+   {
+    "narration": "I open my mouth, ready to scream until my heart stops for good, to finally give it all back.",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, opens his mouth wide in a silent scream inside the sterile vault.",
+    "camera": "Extreme close-up on mouth, trembling lens",
+    "transition": "Slow fade",
+    "mood": "Intense"
+   },
+   {
+    "narration": "If words cost lives, how many people died just listening to you call my name?",
+    "visual_prompt": "Leo, 25-year-old man with messy dark hair and a faded gray hoodie, looks straight into the camera lens with tear-filled eyes.",
+    "camera": "Direct-to-camera lock, slow push-in",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every word you speak costs a heartbeat.",
+  "title": "The Decibel Debt",
+  "caption": "In a world where speech is bought with your pulse, silence is the ultimate currency. But what happens when the quietest man in the room owns every heartbeat he's ever stolen?\n\nWould you stay silent to live forever?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "cinematic",
+   "dystopia",
+   "plottwist",
+   "writing",
+   "storytelling",
+   "thriller",
+   "mindblown",
+   "speculativefiction"
+  ]
+ }
+}
