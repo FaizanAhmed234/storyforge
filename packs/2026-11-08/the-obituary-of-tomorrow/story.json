@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Obituary of Tomorrow",
+  "logline": "A man receives tomorrow's newspaper on his doorstep today and reads his own obituary, forcing him to race against a fatal deadline.",
+  "theme": "fate versus free will",
+  "twist": "The obituary was not predicting his death, but detailing the exact moment he murders the delivery boy.",
+  "ending": "Are we dodging our fate, or are we the ones building it?",
+  "scenes": [
+   {
+    "narration": "My obituary arrived today, printed neatly in tomorrow's morning newspaper, detailing my sudden and very violent end.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie standing on a dim suburban porch holding a newspaper.",
+    "camera": "Extreme close-up on the bold newspaper headline, rapid push-in.",
+    "transition": "hard cut",
+    "mood": "dread"
+   },
+   {
+    "narration": "I checked the date twice. October twelfth. Today is the eleventh. The ink was still wet against my trembling fingers.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie squinting at the date printed on the front page.",
+    "camera": "Over-the-shoulder medium shot.",
+    "transition": "match cut",
+    "mood": "panic"
+   },
+   {
+    "narration": "It said I would die at midnight in the alley behind my apartment building, stabbed by a desperate stranger.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie staring wide-eyed at the printed text.",
+    "camera": "Close-up on face, slow zoom.",
+    "transition": "quick dissolve",
+    "mood": "fear"
+   },
+   {
+    "narration": "I decided to cheat destiny. I locked all my doors, pulled down the heavy metal blinds, and refused to leave.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie locking a heavy deadbolt on a dark apartment door.",
+    "camera": "Low angle tracking shot.",
+    "transition": "fast pan",
+    "mood": "defiance"
+   },
+   {
+    "narration": "Hours bled past in absolute silence. The clock on the wall crept closer to midnight with agonizing slowness.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie watching a digital wall clock glow 11:50.",
+    "camera": "Static wide shot of the dark living room.",
+    "transition": "jump cut",
+    "mood": "tension"
+   },
+   {
+    "narration": "Then, a frantic knocking echoed from my front door. Someone was screaming for help in the dark corridor.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie flinching as heavy bangs hit the apartment door.",
+    "camera": "Medium shot facing the door.",
+    "transition": "hard cut",
+    "mood": "terror"
+   },
+   {
+    "narration": "I grabbed a heavy kitchen knife and flung the door open, ready to fight whatever horror waited outside.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie gripping a shiny kitchen knife while swinging the door open.",
+    "camera": "POV shot looking out into the dim hallway.",
+    "transition": "fast zoom",
+    "mood": "adrenaline"
+   },
+   {
+    "narration": "A terrified teenage delivery boy stumbled backward into my hallway, begging me to hide him from an attacker.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie towering over a panicked kid in a blue jacket.",
+    "camera": "Dutch angle medium shot.",
+    "transition": "slow motion",
+    "mood": "confusion"
+   },
+   {
+    "narration": "In my blind panic, I lunged forward with the blade, not realizing my own terrifying role in the prophecy.",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie accidentally striking forward in the shadows.",
+    "camera": "Close-up on hands and the weapon.",
+    "transition": "hard cut",
+    "mood": "shock"
+   },
+   {
+    "narration": "As he fell, I read the headline again and realized the tragic truth. Are we dodging fate, or building it?",
+    "visual_prompt": "A 28-year-old man with messy brown hair and a grey hoodie staring in horror at his bloodstained hands.",
+    "camera": "High angle overhead shot zooming out slowly.",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Today's newspaper just printed my murder.",
+  "title": "The Obituary of Tomorrow",
+  "caption": "I stared at my own death date in the morning paper, racing to rewrite a future I was already living. But destiny isn't a prediction; it's a trap we set ourselves.\n\nHow far would you go to cheat your fate?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "fateorfree",
+   "twistoftheday",
+   "mindbend",
+   "darkfiction",
+   "storytelling",
+   "suspense",
+   "readingcommunity"
+  ]
+ }
+}

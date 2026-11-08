@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Sleep Deposit",
+  "logline": "A sleep-deprived student sells his REM cycles to a tech firm, only to realize he is living someone else's memories.",
+  "theme": "The cost of borrowed time",
+  "twist": "The memories he experiences during the day belong to the billionaire CEO who bought his sleep.",
+  "ending": "Whose eyes am I closing right now?",
+  "scenes": [
+   {
+    "narration": "I just sold eight hours of tonight's sleep for enough cash to pay my tuition.",
+    "visual_prompt": "Leo, 19, messy dark hair, wearing a gray hoodie, inside a sterile clinic with glowing blue lights.",
+    "camera": "Extreme close-up on Leo's tired eyes",
+    "transition": "Hard cut",
+    "mood": "Clinical and tense"
+   },
+   {
+    "narration": "The nurse plugged a thick silver cable straight into the base of my skull without a warning.",
+    "visual_prompt": "Leo, 19, messy dark hair, gray hoodie, flinching as a metallic cable connects to his neck.",
+    "camera": "Medium shot panning down",
+    "transition": "Smooth pan",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "They said my brain would just take a harmless little vacation while I made easy money.",
+    "visual_prompt": "Leo, 19, messy dark hair, gray hoodie, lying back on a leather medical chair, staring blankly.",
+    "camera": "Push in slowly",
+    "transition": "Dissolve",
+    "mood": "Cold"
+   },
+   {
+    "narration": "When I woke up, my room felt wrong. The air smelled like expensive cedar and old money.",
+    "visual_prompt": "Leo, 19, messy dark hair, wearing an expensive silk robe, standing in a luxury penthouse overlooking a city.",
+    "camera": "Wide tracking shot",
+    "transition": "Quick cut",
+    "mood": "Disoriented"
+   },
+   {
+    "narration": "I looked down at my hands. These fingers were older, scarred from a fencing foil I never held.",
+    "visual_prompt": "Leo, 19, messy dark hair, in the penthouse, holding up unfamiliar hands with a distinct gold signet ring.",
+    "camera": "Insert shot on hands",
+    "transition": "Hard cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "My phone buzzed on the marble counter. A calendar alert flashed for a corporate board meeting.",
+    "visual_prompt": "Leo, 19, messy dark hair, in the penthouse, looking at a smartphone displaying a CEO schedule.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Quick pan",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I didn't rent out empty space. I rented out a vessel, and now I am trapped inside.",
+    "visual_prompt": "Leo, 19, messy dark hair, staring into a massive floor-to-ceiling mirror, seeing a billionaire's reflection.",
+    "camera": "Reflection shot, slow push in",
+    "transition": "Slow zoom",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "Downstairs in the lobby, a security guard looked right at me and called me by the CEO's name.",
+    "visual_prompt": "Leo, 19, messy dark hair, in a grand marble lobby, nodding nervously at a uniformed guard.",
+    "camera": "Medium tracking shot",
+    "transition": "Jump cut",
+    "mood": "Paralyzing"
+   },
+   {
+    "narration": "I am funding my college degree by letting a billionaire borrow my youth while he steals my day.",
+    "visual_prompt": "Leo, 19, messy dark hair, stepping into a private elevator, pressing the top floor button with shaking fingers.",
+    "camera": "Low angle shot",
+    "transition": "Fast zoom",
+    "mood": "Dreadful"
+   },
+   {
+    "narration": "Tonight I go back to the clinic. But when I close my eyes, whose life am I funding?",
+    "visual_prompt": "Leo, 19, messy dark hair, closing his eyes in the back of a luxury town car, tears catching the city lights.",
+    "camera": "Extreme close-up on closing eyes",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "He sold his sleep to get rich.",
+  "title": "The Sleep Deposit",
+  "caption": "Trading restless nights for luxury seemed like a smart fix until the daytime memories weren't his own.\n\nWould you rent out your dreams for a billion dollars?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "mindblown",
+   "darkacademia",
+   "futuretech",
+   "twistoftheday",
+   "existential",
+   "storytime"
+  ]
+ }
+}
