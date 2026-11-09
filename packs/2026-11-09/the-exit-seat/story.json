@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Exit Seat",
+  "logline": "A paranoid frequent flyer discovers the passenger in seat 12B has been dead for the entire flight.",
+  "theme": "Mortality and denial",
+  "twist": "The protagonist realizes the entire plane crashed ten minutes ago, and seat 12B is the only one that survived.",
+  "ending": "Are you ready for impact, or are you already gone?",
+  "scenes": [
+   {
+    "narration": "He stopped breathing ten minutes ago, and nobody else in row twelve seems to care at all.",
+    "visual_prompt": "Close-up of Arthur, 30, tired eyes, disheveled brown hair, wearing a grey hoodie, sitting in a cramped airplane window seat, staring at a dead man next to him.",
+    "camera": "Extreme close-up to medium pan",
+    "transition": "Hard cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "Arthur, 30, with messy brown hair and a grey hoodie, checked his pulse twice. Cold skin. Zero heartbeat.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, pressing two fingers sharply against the pale neck of the man in seat 12B inside a dimly lit airplane cabin.",
+    "camera": "Handheld over-the-shoulder",
+    "transition": "Quick zoom",
+    "mood": "Tense"
+   },
+   {
+    "narration": "He reached out to tap the flight attendant passing by with her cart, desperate for any kind of help.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, extending his arm into the airplane aisle, grabbing the sleeve of a passing flight attendant.",
+    "camera": "Tracking shot",
+    "transition": "Match cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "She smiled a flat, plastic smile, not even looking down at the corpse slumped heavily against the cabin wall.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, looking up at a smiling flight attendant who completely ignores the dead man in seat 12B.",
+    "camera": "Low angle push-in",
+    "transition": "J-cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Sir, your ticket expired before takeoff, she whispered, pushing her cart right through the solid armrest.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, recoiling in terror as the flight attendant's hand phases straight through the airplane seat.",
+    "camera": "Dutch angle close-up",
+    "transition": "Smash cut",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "Arthur gasped, looking down at his boarding pass as the ink began to dissolve into bright red ash.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, frantically staring at a paper ticket turning into glowing red embers in his trembling hands.",
+    "camera": "Insert shot to wide",
+    "transition": "Whip pan",
+    "mood": "Nightmarish"
+   },
+   {
+    "narration": "Outside the tiny window, the stars stopped moving. The jet engines went completely silent without any warning.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, peering out the airplane window at completely motionless, frozen clouds under a black sky.",
+    "camera": "POV window shot",
+    "transition": "Slow fade",
+    "mood": "Dread"
+   },
+   {
+    "narration": "The oxygen masks dropped down from the ceiling together, swinging slowly in dead, unmoving air.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, surrounded by dozens of yellow oxygen masks dangling motionless inside the silent airplane cabin.",
+    "camera": "360-degree spin",
+    "transition": "Fast cut",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "The dead man in seat twelve suddenly opened glassy white eyes and turned his head to face Arthur.",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, staring in absolute horror as the corpse beside him snaps its head toward him.",
+    "camera": "Jump scare close-up",
+    "transition": "Flash cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "Are you ready for impact, or are you already gone?",
+    "visual_prompt": "Arthur, 30, messy brown hair, grey hoodie, screaming silently as the cabin white-outs completely in a blinding flash of light.",
+    "camera": "Zoom out to black",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "He's been dead since takeoff.",
+  "title": "The Exit Seat",
+  "caption": "Some passengers never really leave the plane. As the cabin pressure finally drops, the terrifying truth of seat 12B comes to light.\n\nWould you want to know the truth before it's too late?",
+  "hashtags": [
+   "thriller",
+   "shortstory",
+   "cinematic",
+   "suspense",
+   "horror",
+   "twistending",
+   "paranormal",
+   "flying",
+   "darkfiction",
+   "mystery"
+  ]
+ }
+}

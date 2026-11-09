@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Expiration Date",
+  "logline": "A woman discovers her arm displays an exact countdown timer to the second she stops lying.",
+  "theme": "Radical honesty has a fatal cost.",
+  "twist": "The timer doesn't measure her death; it measures how long until her lies can no longer protect the people she loves.",
+  "ending": "Are you brave enough to check your own arm?",
+  "scenes": [
+   {
+    "narration": "My skin doesn't show the time. It shows a countdown to the exact second I finally tell the absolute truth.",
+    "visual_prompt": "Close up of 24-year-old Maya, short dark hair, wearing a grey hoodie, staring at glowing numbers on her forearm inside a dim bedroom.",
+    "camera": "Macro close-up, shaky handheld",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "For twenty-four years, I kept the numbers frozen by telling polite little white lies to everyone in my life.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, sitting on her bed, anxiously rubbing the glowing blue numbers on her arm.",
+    "camera": "Medium shot, slow push in",
+    "transition": "Match cut",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "Then my boyfriend Leo asked if I loved his art, and the timer suddenly started running twice as fast.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, looking terrified as numbers blur faster in a brightly lit modern living room.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Fast pan",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "I lied and said his paintings were brilliant. The numbers slammed to a dead stop, mocking my cowardice.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, letting out a heavy sigh of relief next to canvas paintings in the living room.",
+    "camera": "Close up on arm",
+    "transition": "Whip pan",
+    "mood": "Relieved"
+   },
+   {
+    "narration": "Three hours left. That is all the honesty-debt I have left before my time completely runs out forever.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, walking hurriedly down a dim urban sidewalk at night under streetlights.",
+    "camera": "Tracking shot, low angle",
+    "transition": "Cross dissolve",
+    "mood": "Dread"
+   },
+   {
+    "narration": "I rush to my mother's house, desperate to confess every hidden secret before the final terrifying second strikes.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, banging urgently on a wooden front door in the dark.",
+    "camera": "Medium wide shot",
+    "transition": "Hard cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "She opens the door, smiling warmly, holding a framed photograph of the terrible accident we both survived together.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, standing in a warm hallway facing her smiling mother holding a photo.",
+    "camera": "Two shot, eye level",
+    "transition": "Slow zoom",
+    "mood": "Emotional"
+   },
+   {
+    "narration": "The timer flashes red. Five seconds left. I have to tell her the crash was entirely my fault.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, crying as glowing red numbers rapidly tick down to zero on her arm.",
+    "camera": "Extreme close up on arm",
+    "transition": "Fast zoom",
+    "mood": "Climactic"
+   },
+   {
+    "narration": "The clock hits zero. But I am still standing. My mother\u2019s arm begins to glow instead.",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, watching in shock as her mother's arm lights up with numbers.",
+    "camera": "Wide shot, static",
+    "transition": "Hard cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "She whispers, I lied to protect you. Now the debt is yours. Are you brave enough to check yours?",
+    "visual_prompt": "Maya, 24, short dark hair, grey hoodie, staring down in horror at her newly restarted arm in total darkness.",
+    "camera": "Macro close up, slow fade out",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Her arm counts down to her final truth.",
+  "title": "The Expiration Date",
+  "caption": "Every white lie bought her family another day of peace. Now the clock on her skin is hitting zero, and the truth is the one thing she can't survive.\n\nWhat would you hide if honesty could kill?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "dystopian",
+   "thriller",
+   "secret",
+   "darkfiction",
+   "mindblown",
+   "creativewriting",
+   "suspense",
+   "storytime"
+  ]
+ }
+}
