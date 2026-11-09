@@ -618,5 +618,10 @@
   "title": "The Expiration Date",
   "status": "pack",
   "time": "2026-11-09T09:13:21.814662"
+ },
+ {
+  "title": "The Compliance Scent",
+  "status": "skipped (no YouTube credentials; download the video artifact)",
+  "time": "2026-11-09T11:05:13.032503"
  }
 ]
