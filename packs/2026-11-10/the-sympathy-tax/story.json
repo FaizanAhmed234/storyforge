@@ -1,0 +1,100 @@
+{
+ "story": {
+  "title": "The Sympathy Tax",
+  "logline": "In a city where emotional tears have monetary value, a man tries to fake grief to pay his rent, only to discover his real tears are worth infinitely more.",
+  "theme": "The commodification of genuine human emotion.",
+  "twist": "The tears he shed while faking grief were actually triggered by the terrifying realization that he was truly losing his humanity.",
+  "ending": "If your sorrow buys your survival, how do you ever know if your heart is actually broken?",
+  "scenes": [
+   {
+    "narration": "My tears just paid my electric bill. Do you know what it costs to cry on command?",
+    "visual_prompt": "Close-up of Leo, a 25-year-old man with messy dark hair and a worn grey hoodie, standing in a sleek, dimly lit futuristic apartment, wiping a genuine tear off his cheek.",
+    "camera": "Extreme close-up tracking the tear falling onto a glowing payment scanner.",
+    "transition": "Hard cut",
+    "mood": "Bleak and sterile"
+   },
+   {
+    "narration": "The city meter reads your grief. Sad thoughts equal soft cash. Happy smiles leave you starving in the dark.",
+    "visual_prompt": "Medium shot of Leo, same messy dark hair and grey hoodie, staring at a digital wall display showing his rapidly depleting balance of emotional currency.",
+    "camera": "Static medium shot with neon reflections pulsing on the wall.",
+    "transition": "Quick pan",
+    "mood": "Oppressive"
+   },
+   {
+    "narration": "I never felt a damn thing. I just watched old sad movies until my eyes leaked on the scanner.",
+    "visual_prompt": "Close-up of Leo, same dark hair and grey hoodie, sitting on a bare mattress, his glowing phone screen casting a blue light on his dry, tired face.",
+    "camera": "Low angle pushing in slowly toward his face.",
+    "transition": "Match cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "Rent is due tomorrow. The standard heartbreak movie isn't cutting it anymore. My tear ducts are completely dry.",
+    "visual_prompt": "Medium shot of Leo, same dark hair and grey hoodie, aggressively rubbing his eyes in front of a blank, dark payment terminal in his kitchen.",
+    "camera": "Handheld shaky cam tracking his frustration.",
+    "transition": "Jump cut",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "So I invented a tragedy. I imagined the absolute worst thing that could ever possibly happen to me.",
+    "visual_prompt": "Close-up of Leo, same dark hair and grey hoodie, closing his eyes tightly, his jaw clenched as he forces himself to visualize a nightmare.",
+    "camera": "Slow zoom in on his tense, sweating face.",
+    "transition": "Dissolve",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "I imagined holding someone I loved as they faded away, leaving me utterly alone in this cold world.",
+    "visual_prompt": "Medium shot of Leo, same dark hair and grey hoodie, dropping to his knees on the floor, his arms wrapped tightly around his own empty chest.",
+    "camera": "Overhead shot spinning slowly around him.",
+    "transition": "Fast zoom",
+    "mood": "Heartbreaking"
+   },
+   {
+    "narration": "The scanner beeped instantly. Green light flashed. A flood of currency poured into my digital wallet.",
+    "visual_prompt": "Close-up of the payment terminal turning bright emerald green, numbers rapidly climbing as a flood of heavy tears drips onto the glass.",
+    "camera": "Macro shot focusing on the falling drops of water.",
+    "transition": "Hard cut",
+    "mood": "Triumphant yet hollow"
+   },
+   {
+    "narration": "I was rich. I could finally eat. But then I looked at the security camera footage on the wall.",
+    "visual_prompt": "Medium shot of Leo, same dark hair and grey hoodie, rising slowly to his feet, staring in horror at a small wall monitor.",
+    "camera": "Push in past his shoulder to the monitor screen.",
+    "transition": "Slow push in",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "The system didn't pay me for faking. It paid me because for one second, I believed my own lie.",
+    "visual_prompt": "Close-up of the monitor showing replay footage of Leo crying, his expression entirely devoid of acting, revealing raw, unfiltered terror.",
+    "camera": "Static tight shot on the glowing screen.",
+    "transition": "Slow fade",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I bought my dinner with a manufactured soul. If your sorrow buys survival, are you even human anymore?",
+    "visual_prompt": "Wide shot of Leo, same dark hair and grey hoodie, standing alone in his dark apartment, staring blankly at the glowing green cash counter.",
+    "camera": "Pull back slowly into darkness, framing him like a prisoner.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Crying just paid my rent today.",
+  "title": "The Sympathy Tax: A Price on Sorrow",
+  "caption": "In a city where sorrow is currency, I tried to fake my way out of poverty. But the moment I realized I had nothing left to feel, I finally understood the true cost of my humanity.",
+  "hashtags": [
+   "shortfilm",
+   "dystopian",
+   "storytelling",
+   "cinematic",
+   "humanity",
+   "philosophical",
+   "creativewriting",
+   "scifi",
+   "emotional",
+   "screenwriting",
+   "darkfiction",
+   "thoughtprovoking"
+  ]
+ }
+}

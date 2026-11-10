@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Honest Mirror",
+  "logline": "A woman buys a vintage mirror that only reflects the choices she refused to make, forcing her to confront her alternate lives.",
+  "theme": "Regret and unrealized potential",
+  "twist": "The mirror is not showing alternate universes, but the ghosts of people she killed by staying safe.",
+  "ending": "Which version of me is staring back at you right now?",
+  "scenes": [
+   {
+    "narration": "My reflection just smiled at me, and I haven't moved a single muscle in my face.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie standing in a cramped, dusty NYC apartment bedroom, looking at a tall antique mirror with an ornate brass frame.",
+    "camera": "Extreme close-up on her wide eyes, slowly pulling back to reveal the reflection mismatch.",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I bought this antique mirror for twenty bucks. The flea market guy warned me it had a bad attitude.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, holding a damp cloth, wiping dust off the ornate brass frame of the antique mirror.",
+    "camera": "Medium shot tracking her hand movement.",
+    "transition": "Smooth match cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "In the glass, I am not wearing this ragged hoodie. I am wearing a pilot uniform, boarding a jet.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, staring intensely as the mirror reflection shows her in a crisp airline pilot uniform smiling broadly.",
+    "camera": "Over-the-shoulder shot focusing on the glass reflection.",
+    "transition": "Quick whip pan",
+    "mood": "Surprised"
+   },
+   {
+    "narration": "Ten years ago, I dropped out of flight school. The mirror remembers the girl who stayed brave.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, pressing her bare palm against the cold surface of the antique mirror, looking heartbroken.",
+    "camera": "Medium close-up, shallow depth of field.",
+    "transition": "Slow fade",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "Every night, it shows me a different life. The art show in Paris. The cabin in the woods.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, sitting on her bed in the dimly lit bedroom, watching the mirror shift to show a paint-splattered artist.",
+    "camera": "Wide shot of the bedroom with the glowing mirror as the primary light source.",
+    "transition": "Fast cut",
+    "mood": "Hypnotic"
+   },
+   {
+    "narration": "Until tonight. The reflection isn't living out a dream. It's standing in an empty graveyard.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, standing close to the antique mirror, her face pale as she looks at the dark, desolate graveyard in the glass.",
+    "camera": "Push in slowly on the terrifying reflection.",
+    "transition": "Hard cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "The pilot, the artist, the writer\u2014none of them are moving. They are standing completely still, like statues.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, watching the mirror closely, her breath fogging the corner of the glass.",
+    "camera": "Tight close-up on her frightened face.",
+    "transition": "Match cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "Then I read the engraving on the tombstone in the reflection. It has my exact birthday on it.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, squinting at the mirror as the reflection zooms in on a weathered stone grave marker.",
+    "camera": "POV shot from her perspective looking into the glass.",
+    "transition": "Fast zoom",
+    "mood": "Horrified"
+   },
+   {
+    "narration": "They aren't alternate lives. They are the versions of me I murdered by choosing safety.",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, backing away from the antique mirror in sheer terror, hands over her mouth.",
+    "camera": "Wide shaky cam tracking her retreat.",
+    "transition": "Quick cut",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "The glass is cracking now. And the dead girl in the pilot uniform is stepping out. Which version of me is staring back at you right now?",
+    "visual_prompt": "A 25-year-old woman with shoulder-length dark hair wearing an oversized green hoodie, trapped against the wall as a hand emerges from the glass mirror.",
+    "camera": "Extreme close-up on her terrified eye reflecting the hand, then fading to black.",
+    "transition": "Smash cut to black",
+    "mood": "Nightmarish"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "It didn't show my future. It showed my victims.",
+  "title": "The Honest Mirror",
+  "caption": "Safety felt like kindness until I saw the body count of my own caution. Every path not taken was a life I ended.\n\nWould you dare to look?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfiction",
+   "thriller",
+   "psychological",
+   "twistending",
+   "storytelling",
+   "writing",
+   "creepy",
+   "phantom"
+  ]
+ }
+}
