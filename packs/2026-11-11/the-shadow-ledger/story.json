@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Shadow Ledger",
+  "logline": "A woman discovers that every time she tells a lie, a stranger loses a happy memory.",
+  "theme": "The hidden cost of dishonesty on innocent lives.",
+  "twist": "The person losing memories to her lies is the stranger who saved her life.",
+  "ending": "If every lie steals a smile, how many strangers are currently crying because of you?",
+  "scenes": [
+   {
+    "narration": "I stole a stranger's childhood joy just to avoid a late fee this morning.",
+    "visual_prompt": "Close-up of Elena, 25, messy dark hair, wearing a worn gray hoodie, standing in a brightly lit coffee shop.",
+    "camera": "Extreme close-up pushing in fast on her face.",
+    "transition": "Hard cut",
+    "mood": "Urgently tense"
+   },
+   {
+    "narration": "It sounds insane, but my white lies have a literal weight. Whenever I deceive, someone somewhere forgets happiness.",
+    "visual_prompt": "Medium shot of Elena, 25, messy dark hair, wearing a worn gray hoodie, staring at her phone in the coffee shop.",
+    "camera": "Tracking shot orbiting around her.",
+    "transition": "Smooth pan",
+    "mood": "Restless"
+   },
+   {
+    "narration": "Yesterday, I told my boss traffic was terrible. Across town, a little girl forgot her first puppy.",
+    "visual_prompt": "Close-up of Elena, 25, messy dark hair, wearing a worn gray hoodie, looking down at a glowing digital ledger in her hands.",
+    "camera": "Over-the-shoulder shot.",
+    "transition": "Quick cut",
+    "mood": "Guilty"
+   },
+   {
+    "narration": "I watched the tally update on my phone. One small fib equals one deleted golden moment of human peace.",
+    "visual_prompt": "Medium shot of Elena, 25, messy dark hair, wearing a worn gray hoodie, sitting alone on a park bench under gray skies.",
+    "camera": "Static wide framing her isolation.",
+    "transition": "Dissolve",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "So I stopped lying entirely. For three days, brutal, unfiltered truth was my only language with the world.",
+    "visual_prompt": "Medium close-up of Elena, 25, messy dark hair, wearing a worn gray hoodie, talking intensely to a friend in a dim hallway.",
+    "camera": "Handheld shaky cam.",
+    "transition": "Jump cut",
+    "mood": "Determined"
+   },
+   {
+    "narration": "The ledger stayed at zero. No stolen smiles. No hijacked memories. I was finally healing the invisible damage.",
+    "visual_prompt": "Close-up of Elena, 25, messy dark hair, wearing a worn gray hoodie, smiling faintly as she checks her phone screen.",
+    "camera": "Slow push-in.",
+    "transition": "Wipe",
+    "mood": "Relieved"
+   },
+   {
+    "narration": "Then a terrified stranger pulled me from the path of a speeding car, asking if I was okay.",
+    "visual_prompt": "Medium action shot of Elena, 25, messy dark hair, wearing a worn gray hoodie, being grabbed by a man on a rainy street corner.",
+    "camera": "Low angle rapid zoom.",
+    "transition": "Hard cut",
+    "mood": "Chaotic"
+   },
+   {
+    "narration": "To save his feelings, and my own pride, I forced a tight smile and lied. I said I was fine.",
+    "visual_prompt": "Close-up of Elena, 25, messy dark hair, wearing a worn gray hoodie, forcing a fake smile on the rainy street.",
+    "camera": "Tight facial focus.",
+    "transition": "Match cut",
+    "mood": "Breathless"
+   },
+   {
+    "narration": "My phone buzzed instantly. The ledger flashed red. Ten thousand points deducted all at once.",
+    "visual_prompt": "Extreme close-up of Elena, 25, messy dark hair, wearing a worn gray hoodie, staring in horror at a massive red number on her phone.",
+    "camera": "Rapid push-in on the screen reflection in her eyes.",
+    "transition": "Fast zoom",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "The man who saved me suddenly wept, looking at me blankly, whispering that he had just forgotten his own name.",
+    "visual_prompt": "Medium shot of Elena, 25, messy dark hair, wearing a worn gray hoodie, watching the weeping stranger in the rain.",
+    "camera": "Slow pull-back to wide, cold indifference.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every lie steals a stranger's joy.",
+  "title": "The Shadow Ledger",
+  "caption": "Maya thought little white lies were harmless until she saw the ledger. Every untruth erased a joyful moment from a stranger's mind\u2014the exact stranger who once pulled her from the wreckage.",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfantasy",
+   "moraldilemma",
+   "creativewriting",
+   "storytelling",
+   "fiction",
+   "thriller",
+   "plottwist",
+   "mystery"
+  ]
+ }
+}
