@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Safe Distance",
+  "logline": "A man relies on daily voicemails from his future self to avoid disaster, until a panicked warning forces him to choose between safety and actually living.",
+  "theme": "Over-protection and the fear of risk can be more destructive than failure itself.",
+  "twist": "The future self wasn't protecting him from tragedy, but actively sabotaging his chances at happiness to keep him safely isolated.",
+  "ending": "He opens the door to life, forever silencing the terrifying voice of his own cautious future.",
+  "scenes": [
+   {
+    "narration": "Every midnight, my future self calls my phone. He warns me about tiny mistakes before they ruin my upcoming day.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, staring intently at his glowing smartphone screen inside a dimly lit modern city apartment with dark wooden floors and rain-streaked windows.",
+    "camera": "Close-up on face illuminated by phone glow",
+    "transition": "Cut",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "He told me to avoid the freeway Tuesday, so I dodged a six-car pileup. He saved my life three times.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, standing on a rainy city overpass watching heavy traffic below under moody streetlights.",
+    "camera": "Medium shot with slow zoom-in",
+    "transition": "Dissolve",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Because of his constant warnings, my life became totally predictable, utterly safe, and completely hollow. I stopped taking any real risks.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, sitting alone at a small wooden dining table in his dimly lit modern city apartment, looking lonely.",
+    "camera": "Static medium shot",
+    "transition": "Cut",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "Tonight, my phone rings right on schedule. But when I hit play, his voice isn't calm anymore\u2014he's absolutely terrified.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, holding his glowing smartphone to his ear in his dimly lit modern city apartment with dark wooden floors.",
+    "camera": "Tight close-up on eye reaction",
+    "transition": "Quick Cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "He whispers, 'Do not answer the knock at your front door tonight. If you open it, everything we built shatters.'",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, turning his head sharply toward his dark apartment front entryway.",
+    "camera": "Whip pan to dark hallway",
+    "transition": "Cut",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "My heart hammers against my ribs. I freeze in the dark hallway as heavy, deliberate footsteps approach outside my apartment door.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, standing frozen in his dark hallway near the heavy wooden apartment entrance door.",
+    "camera": "Low angle tracking shot",
+    "transition": "Dissolve",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "The sharp knock echoes through the silence. I stare at the brass peephole, holding my breath, terrified of what waits outside.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, leaning slowly toward the brass peephole of his apartment door in the dark.",
+    "camera": "Extreme close-up on peephole",
+    "transition": "Cut",
+    "mood": "Breathtaking"
+   },
+   {
+    "narration": "I break my future self's golden rule and look through the glass. Standing in the dim corridor is a young woman holding flowers.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Distortion effect through a brass door peephole showing a bright, friendly woman holding a bouquet of yellow sunflowers in the hallway outside Leo's modern apartment.",
+    "camera": "Peephole POV perspective",
+    "transition": "Match Cut",
+    "mood": "Surprising"
+   },
+   {
+    "narration": "I realize the truth: my future self wasn't protecting my life. He was a lonely old man protecting his own cowardice from love.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, realizing the emotional shock as he steps back from the door in his apartment.",
+    "camera": "Slow pull-back shot",
+    "transition": "Cut",
+    "mood": "Revelation"
+   },
+   {
+    "narration": "I pull the door wide open and smile. Tonight, I finally stop listening to the voice on my phone.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Leo, a 30-year-old man with dark scruffy hair, wearing a worn dark-blue canvas jacket over a gray t-shirt, pulling his apartment door wide open into warm hallway light, smiling genuinely.",
+    "camera": "Medium wide shot moving forward",
+    "transition": "Fade Out",
+    "mood": "Triumphant"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His future self was lying all along.",
+  "title": "The Safe Distance",
+  "caption": "For years, daily voicemails saved him from heartbreak, failure, and risk. But when the latest message warns him to run, he finally realizes that safety was just a cage built to keep him entirely alone. Is a life without any risk even worth living?",
+  "hashtags": [
+   "shortfilm",
+   "cinematography",
+   "scifi",
+   "psychologicalthriller",
+   "shortstory",
+   "filmmaking",
+   "timetravel",
+   "indiefilm",
+   "mindblown",
+   "storytelling"
+  ]
+ }
+}

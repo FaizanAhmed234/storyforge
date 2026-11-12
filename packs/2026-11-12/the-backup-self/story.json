@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Backup Self",
+  "logline": "A man discovers his deceased wife has been calling his backup clone every single Tuesday.",
+  "theme": "The terrifying duplication of grief and love.",
+  "twist": "The wife did not die in the crash; the husband did, and his clone was activated with false memories.",
+  "ending": "Who answers when you are no longer the one who picked up the phone?",
+  "scenes": [
+   {
+    "narration": "My dead wife called my phone at midnight, whispering the exact same secret she told me before the crash.",
+    "visual_prompt": "Close-up of Leo, 30, tired eyes, dark messy hair, wearing a worn gray hoodie, holding a glowing smartphone in a dark, minimalist apartment.",
+    "camera": "Extreme close-up on the glowing screen, slow push in.",
+    "transition": "Hard cut",
+    "mood": "Eerie and shocking"
+   },
+   {
+    "narration": "I stared at the screen showing her name, Elena, dead for six months, lighting up my pitch-black bedroom.",
+    "visual_prompt": "Medium shot of Leo, 30, messy hair, gray hoodie, sitting rigidly on the edge of a messy bed, staring at the phone.",
+    "camera": "Slight handheld shake, eye-level angle.",
+    "transition": "Match cut",
+    "mood": "Tense and disbelieving"
+   },
+   {
+    "narration": "My trembling finger pressed accept, expecting silence, but her warm breathing rushed straight through the tiny speaker.",
+    "visual_prompt": "Close-up of Leo, 30, messy hair, gray hoodie, pressing the phone to his ear with a shaking hand.",
+    "camera": "Tight profile shot focusing on his terrified expression.",
+    "transition": "Smash cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "You answered faster this week, Leo, she whispered, her voice crisp and clear like she was standing right beside me.",
+    "visual_prompt": "Medium shot of Leo, 30, messy hair, gray hoodie, looking around the empty, dark bedroom in sudden panic.",
+    "camera": "Slow pan left to reveal an empty dark hallway.",
+    "transition": "Dissolve",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I am not Leo, I choked out into the dark. I am the backup copy they activated yesterday.",
+    "visual_prompt": "Close-up of Leo, 30, messy hair, gray hoodie, tears welling in his eyes as he speaks into the phone.",
+    "camera": "Push in on his tearful, panicked face.",
+    "transition": "Hard cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "She went quiet on the line. Then she laughed, a cold sound that froze the blood in my veins.",
+    "visual_prompt": "Medium shot of Leo, 30, messy hair, gray hoodie, pulling the phone away from his ear in absolute confusion.",
+    "camera": "Static medium shot, high angle.",
+    "transition": "Match cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "I know you are the backup, darling, Elena whispered softly. That is why I always call you on Tuesdays.",
+    "visual_prompt": "Close-up of Leo, 30, messy hair, gray hoodie, eyes wide with sudden realization in the dark room.",
+    "camera": "Rapid push in on his terrified eyes.",
+    "transition": "Hard cut",
+    "mood": "Nightmarish"
+   },
+   {
+    "narration": "The real Leo died in the wreckage. The insurance company only paid for a mind stored in plastic.",
+    "visual_prompt": "Medium shot of Leo, 30, messy hair, gray hoodie, looking down at his glowing hands as if seeing them for the first time.",
+    "camera": "Low angle, tracking back slightly.",
+    "transition": "Dissolve",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "She never loved the man who died. She only loved the machine built to replace his absence.",
+    "visual_prompt": "Close-up of Leo, 30, messy hair, gray hoodie, holding the phone tightly against his cheek, defeated and hollow.",
+    "camera": "Slow circular orbit around his head.",
+    "transition": "Hard cut",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "My dead wife called my backup phone tonight, proving some memories are designed to outlive the soul.",
+    "visual_prompt": "Wide shot of Leo, 30, messy hair, gray hoodie, sitting alone in the dark apartment as the phone screen finally goes black.",
+    "camera": "Pull back to wide, fading to absolute black.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "She calls the dead man every Tuesday.",
+  "title": "The Backup Self",
+  "caption": "He thought he was mourning the love of his life. But every Tuesday at 3 AM, her voice echoes through his cloned reality, whispering secrets meant for a ghost who never existed. Is love still real when the memories are manufactured?\n\nWould you answer the phone?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "cinematic",
+   "clone",
+   "grief",
+   "psychologicalthriller",
+   "darkscifi",
+   "twistaending",
+   "ai",
+   "existentialdread"
+  ]
+ }
+}

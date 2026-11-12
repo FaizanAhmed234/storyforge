@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Sleep Thief",
+  "logline": "A exhausted young woman discovers that the hours she loses every night are actually being lived by someone else.",
+  "theme": "Identity and sacrifice",
+  "twist": "She is not losing sleep to insomnia; she is paying off her mother's lifetime debt of joy.",
+  "ending": "Who is sleeping while you bleed?",
+  "scenes": [
+   {
+    "narration": "I haven't slept a single full hour in three straight years, and my body is finally starting to shatter.",
+    "visual_prompt": "Close-up of Maya, 22, pale skin, messy dark hair, wearing an oversized grey hoodie, sitting in a messy bedroom at 3 AM.",
+    "camera": "Extreme close-up, shaky",
+    "transition": "hard cut",
+    "mood": "exhausted and tense"
+   },
+   {
+    "narration": "Every single night at midnight, my eyes snap wide open. My heart races like I just ran a marathon.",
+    "visual_prompt": "Maya, 22, dark hair, grey hoodie, sitting up sharply in a messy bed, clock glowing 12:00 in the background.",
+    "camera": "Medium shot, static",
+    "transition": "smash cut",
+    "mood": "panicked"
+   },
+   {
+    "narration": "Doctors call it severe insomnia. They hand me heavy pills that do nothing except numb my daytime thoughts.",
+    "visual_prompt": "Maya, 22, dark hair, grey hoodie, holding a white pill bottle in a brightly lit sterile white doctor's office.",
+    "camera": "Over-the-shoulder medium",
+    "transition": "dissolve",
+    "mood": "hopeless"
+   },
+   {
+    "narration": "Tonight, I set up a camera to catch whatever steals my rest. The screen reveals a terrifying truth.",
+    "visual_prompt": "Maya, 22, dark hair, grey hoodie, tapping the screen of a glowing smartphone in a dark bedroom.",
+    "camera": "Close-up on phone screen",
+    "transition": "hard cut",
+    "mood": "suspenseful"
+   },
+   {
+    "narration": "On the video, I sit up. I smile a bright, genuine smile. A smile I haven't felt in years.",
+    "visual_prompt": "Phone screen showing Maya, 22, dark hair, grey hoodie, smiling widely at the ceiling in the dark room.",
+    "camera": "Macro shot of phone screen",
+    "transition": "slow zoom",
+    "mood": "unsettling"
+   },
+   {
+    "narration": "That body isn't mine. It moves with a fierce confidence, laughing softly at jokes I never heard.",
+    "visual_prompt": "Phone screen showing Maya, 22, dark hair, grey hoodie, laughing and gesturing gracefully in the empty dark bedroom.",
+    "camera": "Tracking shot on screen",
+    "transition": "hard cut",
+    "mood": "creepy"
+   },
+   {
+    "narration": "I watch myself walk straight out of the apartment, leaving my exhausted, hollow shell behind in bed.",
+    "visual_prompt": "Split screen: real Maya, 22, dark hair, grey hoodie, lying frozen in bed, next to phone video of her walking out.",
+    "camera": "Split screen vertical",
+    "transition": "fast pan",
+    "mood": "dread"
+   },
+   {
+    "narration": "I follow the digital ghost through cold city streets until she enters a nursing home down the road.",
+    "visual_prompt": "Maya, 22, dark hair, grey hoodie, running down a dim hospital hallway holding her phone.",
+    "camera": "Low angle running shot",
+    "transition": "blur pan",
+    "mood": "urgent"
+   },
+   {
+    "narration": "She stops by my aging mother's bedside, whispering secrets that heal the old woman's chronic nightmares.",
+    "visual_prompt": "Maya, 22, dark hair, grey hoodie, leaning over an elderly woman's hospital bed, holding her hand gently.",
+    "camera": "Medium two-shot",
+    "transition": "slow dissolve",
+    "mood": "emotional"
+   },
+   {
+    "narration": "My sleepless nights are the exact price my mother pays to finally dream in peace. Who is sleeping while you bleed?",
+    "visual_prompt": "Maya, 22, dark hair, grey hoodie, looking directly into the camera lens with a tear-stained face.",
+    "camera": "Extreme close-up",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Where do your missing hours go?",
+  "title": "The Sleep Thief",
+  "caption": "She thought it was just chronic insomnia stealing her nights. But the calendar shows days she never lived, spent by someone who looks just like her. Would you surrender your joy to save the person who gave you life?",
+  "hashtags": [
+   "shortfilm",
+   "cinematic",
+   "scifithriller",
+   "mystery",
+   "identity",
+   "emotional",
+   "storytelling",
+   "shortstory",
+   "plotwist",
+   "cinema",
+   "darkfantasy"
+  ]
+ }
+}
