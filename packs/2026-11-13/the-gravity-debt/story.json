@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Gravity Debt",
+  "logline": "A man living in a zero-gravity city realizes his floating furniture actually belongs to the people he evicted below.",
+  "theme": "unseen consequences",
+  "twist": "The objects aren't floating from lack of gravity; they are being physically pulled upward by the unpaid rent of desperate people living underneath.",
+  "ending": "If luxury rises because others sink, how heavy is the air you are breathing right now?",
+  "scenes": [
+   {
+    "narration": "My living room furniture never touches the floor, floating gently near the ceiling in our perfect high-altitude luxury apartment.",
+    "visual_prompt": "Vertical framing. 30-year-old Leo with messy brown hair and a silk gray shirt inside a modern floating apartment with a glass floor.",
+    "camera": "Medium shot, slow upward pan",
+    "transition": "Hard cut",
+    "mood": "Eerie and detached"
+   },
+   {
+    "narration": "Gravity is just a suggestion when you pay enough credits to turn off the pull of the decaying planet below.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt looking down through the transparent glass floor at the dark abyss.",
+    "camera": "High angle looking down",
+    "transition": "Match cut",
+    "mood": "Arrogant and calm"
+   },
+   {
+    "narration": "Every table, lamp, and chair drifts upward, defying the natural order because my bank account stays permanently full and heavy.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt casually grabbing a floating coffee mug in the bright room.",
+    "camera": "Close up on hand and mug",
+    "transition": "Quick pan",
+    "mood": "Satisfied"
+   },
+   {
+    "narration": "Then the glass floor beneath my expensive floating sofa suddenly cracks with a sharp, terrifying sound that echoes loudly.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt reacting in shock as a spiderweb crack forms on the glass floor.",
+    "camera": "Low angle, intense zoom",
+    "transition": "Fast zoom",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "I look straight down through the fracture and see hundreds of desperate faces pressed against the underside of my floor.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt staring down in horror as pale faces appear through the cracked glass.",
+    "camera": "Direct overhead shot",
+    "transition": "Jump cut",
+    "mood": "Horrifying"
+   },
+   {
+    "narration": "They aren't falling. They are standing flat on the ceiling of their cramped lower level, holding up my entire life.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt watching terrified as people below push upward with bleeding hands.",
+    "camera": "Wide shot rotating 180 degrees",
+    "transition": "Slow spin",
+    "mood": "Disturbing"
+   },
+   {
+    "narration": "My floating luxury isn't advanced technology at all. It is just the physical weight of people I forced downward.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt stepping back from the breaking glass with wide eyes.",
+    "camera": "Medium close up",
+    "transition": "Hard cut",
+    "mood": "Dawning realization"
+   },
+   {
+    "narration": "The sofa drops heavily, smashing against the floorboards as the illusion of our weightless freedom instantly shatters into dust.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt falling to his knees as the sofa crashes hard onto the solid floor.",
+    "camera": "Low angle shaky cam",
+    "transition": "Fast pan",
+    "mood": "Chaotic"
+   },
+   {
+    "narration": "Now my feet touch the cold ground for the very first time, and the pressure of their suffering crushes my chest.",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt gasping for air while lying flat on the suddenly heavy floor.",
+    "camera": "Extreme close up on face",
+    "transition": "Fade to black",
+    "mood": "Suffocating"
+   },
+   {
+    "narration": "If luxury rises because others sink, how heavy is the air you are breathing right now in this exact room?",
+    "visual_prompt": "Vertical framing. Leo with messy brown hair and a silk gray shirt staring directly into the camera lens in total darkness.",
+    "camera": "Static extreme close up",
+    "transition": "Final fade",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His luxury furniture wasn't floating. It was stolen.",
+  "title": "The Gravity Debt",
+  "caption": "Living high above the city, he thought his levitating life was a perk of success. But every floating chair and hovering table was actually being pulled up by the desperate lives of the people starving beneath him.\n\nWho are you stepping on to stay afloat?",
+  "hashtags": [
+   "scifi",
+   "dystopia",
+   "shortstory",
+   "cinematic",
+   "mindblown",
+   "socialscifi",
+   "scifistories",
+   "twistending",
+   "futurefiction",
+   "speculativefiction",
+   "storytelling"
+  ]
+ }
+}
