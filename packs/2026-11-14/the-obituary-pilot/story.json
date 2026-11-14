@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Obituary Pilot",
+  "logline": "A man who writes pre-written obituaries for healthy people realizes his own name just flashed on the assignment screen.",
+  "theme": "Mortality and predestination",
+  "twist": "The system doesn't predict death; it executes the writer's final keystroke.",
+  "ending": "Who types the words when the typist is gone?",
+  "scenes": [
+   {
+    "narration": "Your death was scheduled for Tuesday at precisely noon, and I am the one who wrote it.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie sits in a dark room lit only by a green glowing computer screen.",
+    "camera": "Extreme close-up on his wide, terrified eyes reflecting text.",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Every morning, my newsroom terminal prints names of healthy people who will vanish before the week ends.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie stares at a rolling text feed on a vintage amber monitor.",
+    "camera": "Medium tracking shot moving backward.",
+    "transition": "Smooth match cut",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "We never question the system. We just describe how they fall, turning breathing souls into past tense.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie frantically types on a mechanical keyboard with worn keycaps.",
+    "camera": "Close-up on fast-moving fingers smashing keys.",
+    "transition": "Whip pan",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "My editor says the ink is sacred. Once a draft is finalized, the universe clears its calendar.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie pauses, staring at a red blinking warning box.",
+    "camera": "Over-the-shoulder shot showing a warning popup.",
+    "transition": "Jump cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "Today I sat down with my coffee, expecting a stranger's tragedy. Instead, my own keystrokes betrayed me.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie reads his own full legal name scrolling onto the active draft line.",
+    "camera": "Push in slowly on his trembling face.",
+    "transition": "Slow zoom",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "My address. My birthdate. Even the absurd detail about the chipped coffee mug sitting right beside my keyboard.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie looks down at a chipped ceramic mug, then back to the monitor.",
+    "camera": "Quick pan from mug to screen and back.",
+    "transition": "Fast cut",
+    "mood": "Paralyzing"
+   },
+   {
+    "narration": "If I delete the file, do I cheat the clock? Or does the empty screen mean the end comes faster?",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie hovers a trembling cursor over a giant red delete button.",
+    "camera": "Macro shot of the mouse cursor shaking.",
+    "transition": "Match cut",
+    "mood": "High tension"
+   },
+   {
+    "narration": "My fingers refused to click. The cursor moved on its own, finishing the final sentence without my permission.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie pulls his hands back in horror as keys click automatically.",
+    "camera": "Low angle looking up at his terrified expression.",
+    "transition": "Slow push",
+    "mood": "Supernatural"
+   },
+   {
+    "narration": "The period at the end of my story flashed green. Outside my window, all the city streetlights suddenly died.",
+    "visual_prompt": "A 28-year-old man with messy dark hair wearing a gray hoodie watches total darkness swallow the city skyline outside his apartment window.",
+    "camera": "Wide shot from inside looking out at pitch black.",
+    "transition": "Fade to black",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "The screen went dark except for one blinking cursor waiting for a new author. Who types the words now?",
+    "visual_prompt": "A completely black screen with only a single blinking green cursor in the center.",
+    "camera": "Static wide shot on the dead monitor.",
+    "transition": "Final fade",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "He writes obituaries for the living.",
+  "title": "The Obituary Pilot",
+  "caption": "Arthur spent decades drafting final words for healthy strangers. But when his own name flashed on the screen, he realized the terrifying truth\u2014the system doesn't predict death; it obeys his final keystroke. Would you finish the sentence?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "thriller",
+   "darkfantasy",
+   "writing",
+   "existential",
+   "mystery",
+   "twistending",
+   "fiction",
+   "storytelling"
+  ]
+ }
+}

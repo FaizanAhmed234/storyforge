@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Compliance Scent",
+  "logline": "A man buys a cologne that guarantees absolute obedience from everyone, only to realize too late who the scent is actually controlling.",
+  "theme": "Free will versus absolute control",
+  "twist": "The cologne does not make others obey the wearer; it makes the wearer obey whatever command the first person who smells it gives.",
+  "ending": "Who is really wearing the leash?",
+  "scenes": [
+   {
+    "narration": "They will do anything you say in three seconds. Just buy the bottle and spray it right now.",
+    "visual_prompt": "Close-up of Leo, a 25-year-old man with messy brown hair and a dark hoodie, holding a sleek black perfume bottle in a dim neon-lit alley.",
+    "camera": "Extreme close-up pushing in fast",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I laughed at the street salesman until I sprayed it on my wrist and walked into the crowded diner.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, walking through the glass door of a bustling diner with a nervous smirk.",
+    "camera": "Medium tracking shot",
+    "transition": "Smooth match cut",
+    "mood": "Skeptical"
+   },
+   {
+    "narration": "Excuse me, shouted the angry manager, pointing right at my face. Clear this whole room out immediately.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, standing inside the diner as a frantic manager yells at him.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Quick pan",
+    "mood": "Surprised"
+   },
+   {
+    "narration": "My feet moved without my permission. I slammed the heavy front doors shut and locked every single deadbolt.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, frantically locking diner doors from the inside with terrified eyes.",
+    "camera": "Low angle shaky cam",
+    "transition": "Jump cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "The customers screamed, begging to leave. But I stood by the door, completely frozen and blocking their only exit.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, standing like a statue before a crowd of trapped, yelling people.",
+    "camera": "Wide static shot",
+    "transition": "Slow zoom",
+    "mood": "Dread"
+   },
+   {
+    "narration": "I tried to scream back, but my jaw locked tight. The obedience scent was working, just not on them.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, gripping his own throat in horror while his face stays completely still.",
+    "camera": "Tight face shot",
+    "transition": "Whip pan",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "The manager walked up slowly, sniffing the air with a cold smile. He never gave an order at all.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, watching the calm manager step closer with an evil grin.",
+    "camera": "Push in on manager",
+    "transition": "Match cut",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "You bought the tester bottle, the manager whispered, tapping my wrist. The first person you met owned you.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, tears in his eyes as the manager whispers into his ear.",
+    "camera": "Extreme close-up",
+    "transition": "Slow dissolve",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "Now, the manager whispered his final command. Smile brightly for your new life as my permanent guard dog.",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, forcing a horrifyingly wide, fake smile against his own will.",
+    "camera": "Uncomfortable front angle",
+    "transition": "Hard cut",
+    "mood": "Disturbing"
+   },
+   {
+    "narration": "My lips stretched wide as I obeyed. Who is really wearing the leash in this room?",
+    "visual_prompt": "Leo, 25, messy brown hair, dark hoodie, staring blankly into the camera with a frozen, glossy smile.",
+    "camera": "Static final lock-off",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Absolute obedience comes with a hidden price.",
+  "title": "The Compliance Scent",
+  "caption": "He bought a bottle guaranteed to make the world bend to his will. But as the first stranger inhaled the cologne and whispered an order, he realized the terrifying truth\u2014he was no longer the master of his own fate.\n\nWould you risk your free will for absolute power?",
+  "hashtags": [
+   "scifi",
+   "psychologicalthriller",
+   "shortstory",
+   "freewill",
+   "cinematictok",
+   "darkfiction",
+   "mindgames",
+   "storytelling",
+   "twistending",
+   "dystopian"
+  ]
+ }
+}
