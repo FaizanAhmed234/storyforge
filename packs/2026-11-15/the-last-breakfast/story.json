@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Last Breakfast",
+  "logline": "A man eats his morning toast, completely unaware that his entire life is an algorithm generating tomorrow's nostalgia.",
+  "theme": "Manufactured reality and the commodification of human routine.",
+  "twist": "He is not a living human remembering his past, but a real-time synthetic simulation whose final memory loop is bought by tourists.",
+  "ending": "Would you pay to feel alive, if you knew the feeling was farmed?",
+  "scenes": [
+   {
+    "narration": "My toast always burns on the exact same corner, right at seven o'clock every single morning.",
+    "visual_prompt": "Vertical framing. 30-year-old Leo with messy brown hair and a faded blue t-shirt in a cramped, sunlit kitchen, staring at burnt toast.",
+    "camera": "Extreme close-up on the black edge of the bread, rapid zoom out.",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I reach for the chipped yellow mug, feeling the exact same warmth against my tired fingertips.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt in the cramped, sunlit kitchen, gripping a yellow mug.",
+    "camera": "Medium shot, tracking his hand movement closely.",
+    "transition": "Smooth match cut",
+    "mood": "Monotonous"
+   },
+   {
+    "narration": "Outside the kitchen window, the same blue sparrow freezes mid-air, waiting for my permission to move.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt looking out the window at a hovering bird.",
+    "camera": "Over-the-shoulder shot focusing on the motionless animal.",
+    "transition": "Quick pan",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "A sharp knock echoes from the front door, though nobody has visited me in ten years.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt turning his head sharply toward a wooden door in the hallway.",
+    "camera": "Low angle tracking shot moving down the narrow corridor.",
+    "transition": "Jolting cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I open the heavy wood, and find a digital receipt floating in the empty hallway air.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt reaching out to touch a glowing holographic receipt.",
+    "camera": "Push-in shot centering on the bright blue floating text.",
+    "transition": "Fade in",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "Bold letters across the glowing screen read: Simulation complete. Customer rating four point nine stars.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt illuminated by harsh blue light, staring at the floating text.",
+    "camera": "Close-up on his wide, terrified eyes reflecting the code.",
+    "transition": "Fast zoom",
+    "mood": "Dread"
+   },
+   {
+    "narration": "My entire childhood, my first heartbreak, this very kitchen\u2014all of it was just an expensive memory pack.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt watching his memories flash like dust motes in the air.",
+    "camera": "Wide spinning shot around the dissolving room.",
+    "transition": "Whip pan",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "A bored tourist in the real world is about to take off their headset and forget me completely.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt slowly turning translucent against a fading background.",
+    "camera": "Medium shot pulling back rapidly.",
+    "transition": "Glitch cut",
+    "mood": "Desolate"
+   },
+   {
+    "narration": "My fingers start to dissolve into golden pixels, yet I still taste the bitter coffee on my tongue.",
+    "visual_prompt": "Leo with messy brown hair and a faded blue t-shirt looking at his fading hands in the sunlit kitchen.",
+    "camera": "Macro shot on fingertips turning into digital static.",
+    "transition": "Slow dissolve",
+    "mood": "Haunting"
+   },
+   {
+    "narration": "Would you pay to feel alive, if you knew the feeling was farmed?",
+    "visual_prompt": "An empty kitchen, completely silent, with a burnt piece of toast sitting on a clean white plate.",
+    "camera": "Static wide shot holding still in total emptiness.",
+    "transition": "Fade to black",
+    "mood": "Philosophical"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His morning toast is someone else's memory.",
+  "title": "The Last Breakfast",
+  "caption": "Every crunch, every sigh, every mundane second of his morning has already been bought and paid for. He thinks he's living a life, but he's just an algorithm generating tomorrow's nostalgia.\n\nWould you pay to remember a life you never lived?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "simulation",
+   "dystopia",
+   "cyberpunk",
+   "existential",
+   "artificialintelligence",
+   "futurenoir",
+   "mindfuck",
+   "cinematic",
+   "storytelling"
+  ]
+ }
+}

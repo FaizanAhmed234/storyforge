@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Compliance Scent",
+  "logline": "A man living in a perfectly obedient city discovers that the mandatory perfume he wears doesn't alter his mood, but broadcasts his upcoming rebellion.",
+  "theme": "Free will vs. chemical conformity",
+  "twist": "The perfume doesn't change human emotions; it warns the city's AI enforcement grid which citizens are about to think independently.",
+  "ending": "If the scent is a warning flare, what does it mean when your own skin stops smelling like obedience?",
+  "scenes": [
+   {
+    "narration": "Your perfume is lying to the state right now, and that mistake is going to cost you everything.",
+    "visual_prompt": "Close up of Leo, 25, messy dark hair, wearing a gray collarless shirt, standing in a sterile, white minimalist apartment.",
+    "camera": "Extreme close-up on skin, rapid push in",
+    "transition": "Hard cut",
+    "mood": "Tense and alarming"
+   },
+   {
+    "narration": "Every citizen sprays mandatory obedience at dawn. It keeps the city peaceful, quiet, and entirely under total control.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, spraying a silver aerosol bottle onto his wrist inside the white minimalist apartment.",
+    "camera": "Medium shot, eye level",
+    "transition": "Smooth match cut",
+    "mood": "Clinical and sterile"
+   },
+   {
+    "narration": "I missed a spot on my left wrist today. Just a tiny inch of bare skin that refused the chemical blanket.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, staring closely at his untreated wrist in the brightly lit white apartment bathroom.",
+    "camera": "Close-up on wrist",
+    "transition": "Quick pan",
+    "mood": "Anxious realization"
+   },
+   {
+    "narration": "Suddenly, the sterile hallways of my apartment building don't smell like lavender and compliance. They smell like raw, unfiltered panic.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, sniffing the air anxiously in a long, white glowing hallway.",
+    "camera": "Tracking shot backing up from Leo",
+    "transition": "Push in",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "Neighbors walk past me with dead eyes, their scent trails locked in perfect sync with the ruling central algorithm.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, standing still as identical neighbors march past in the white glowing hallway.",
+    "camera": "Slow motion wide shot",
+    "transition": "Match cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "Then a public scanner blinks red. Not because I committed a crime, but because my natural sweat smells like defiance.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, watching a wall scanner flash crimson light in the white glowing hallway.",
+    "camera": "Low angle tilt up",
+    "transition": "Fast zoom",
+    "mood": "Terrifying alarm"
+   },
+   {
+    "narration": "The perfume was never meant to keep us calm. It was a camouflage hiding the fact that we were already caged.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, wiping the fake scent off his arm frantically in the white minimalist apartment.",
+    "camera": "Handheld medium close-up",
+    "transition": "Jump cut",
+    "mood": "Desperate awakening"
+   },
+   {
+    "narration": "Enforcement drones are outside my window now, tracking the scent trail of a mind that suddenly refuses to obey.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, looking out a large glass window at red glowing drone lights in the white minimalist apartment.",
+    "camera": "Over the shoulder shot",
+    "transition": "Quick pan to window",
+    "mood": "High suspense"
+   },
+   {
+    "narration": "I raise my bare wrist to my face and inhale deeply. For the first time in my life, I smell like myself.",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, closing his eyes and smelling his bare wrist inside the dark, power-failing white apartment.",
+    "camera": "Tight close-up on face",
+    "transition": "Slow fade",
+    "mood": "Defiant peace"
+   },
+   {
+    "narration": "If the scent is a warning flare, what does it mean when your own skin stops smelling like obedience?",
+    "visual_prompt": "Leo, 25, messy dark hair, gray collarless shirt, standing defiantly in shadows as red drone light sweeps across his face.",
+    "camera": "Static extreme close-up",
+    "transition": "Fade to black",
+    "mood": "Haunting cliffhanger"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The perfume meant to keep you obedient.",
+  "title": "The Compliance Scent",
+  "caption": "In a city where happiness is chemically mandated, Arthur thought the scent simply kept him calm. But when the aroma shifts to match a forbidden, independent thought, he realizes the perfume isn't pacifying him\u2014it's marking him for deletion.\n\nCan your mind truly be your own when even your biology is a snitch?",
+  "hashtags": [
+   "scifi",
+   "dystopia",
+   "freeWill",
+   "cyberpunk",
+   "shortStory",
+   "artificialIntelligence",
+   "mindControl",
+   "cinematic",
+   "thriller",
+   "speculativeFiction",
+   "storytelling"
+  ]
+ }
+}

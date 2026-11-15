@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Rogue Heartbeat",
+  "logline": "A teenager who suddenly loses her pulse discovers a glowing countdown under her skin that reveals a dangerous secret about her true identity.",
+  "theme": "Identity, humanity, and survival",
+  "twist": "She isn't a malfunctioning robot being hunted; she is a human mind trapped inside a synth body designed to protect her real body hiding elsewhere.",
+  "ending": "Her synthetic body shuts down, awakening her human self in the real world.",
+  "scenes": [
+   {
+    "narration": "My heart stopped beating three days ago, yet here I am, standing on a freezing train platform totally alive.",
+    "visual_prompt": "Vertical 9:16 shot. Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, stands motionless on a misty, abandoned train platform under flickering neon lights at midnight, clutching her chest with wide, terrified eyes.",
+    "camera": "Medium eye-level shot holding static focus on Maya.",
+    "transition": "Cut",
+    "mood": "Eerie and suspenseful"
+   },
+   {
+    "narration": "Nobody notices the silence inside my chest, but everyone keeps looking at my wrist as if it's bleeding.",
+    "visual_prompt": "Vertical 9:16 shot. Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, walks past blurry shadowy commuters on a misty, abandoned train platform under flickering neon lights at midnight while staring down at her glowing right wrist.",
+    "camera": "Slow tracking shot following her as she walks.",
+    "transition": "Fade",
+    "mood": "Anxious and tense"
+   },
+   {
+    "narration": "I finally look down and see a faint digital counter glowing red beneath my skin, rapidly ticking toward zero.",
+    "visual_prompt": "Vertical 9:16 shot. Close-up of Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, on a misty, abandoned train platform under flickering neon lights at midnight, as a bright red digital countdown timer glows faintly beneath the skin of her forearm.",
+    "camera": "Extreme close-up macro shot on her forearm.",
+    "transition": "Cut",
+    "mood": "Alarming and frantic"
+   },
+   {
+    "narration": "Panic sets in when a tall conductor grabs my shoulder, shouting that un-synced citizens must report for immediate disposal.",
+    "visual_prompt": "Vertical 9:16 shot. A sinister train conductor in a dark uniform grabs the shoulder of Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, on a misty, abandoned train platform under flickering neon lights at midnight.",
+    "camera": "Low-angle whip pan up to the conductor's face.",
+    "transition": "Quick Cut",
+    "mood": "Terrifying and urgent"
+   },
+   {
+    "narration": "I break free and sprint down the foggy platform, cold air burning in lungs that do not actually need oxygen.",
+    "visual_prompt": "Vertical 9:16 shot. Action shot of Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, sprinting desperately away down a misty, abandoned train platform under flickering neon lights at midnight.",
+    "camera": "Handheld dynamic tracking shot following her run.",
+    "transition": "Cut",
+    "mood": "High-octane adrenaline"
+   },
+   {
+    "narration": "Hiding inside an empty train car, I slice open my glowing wrist with a sharp key to stop the countdown.",
+    "visual_prompt": "Vertical 9:16 shot. Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, crouches inside a dark train car parked at a misty, abandoned train platform under flickering neon lights at midnight, holding a sharp bronze key against her arm.",
+    "camera": "High-angle shot looking down at her crouching figure.",
+    "transition": "Cut",
+    "mood": "Desperate and visceral"
+   },
+   {
+    "narration": "Instead of blood, copper wires and blue liquid pour out, revealing metallic gears spinning where my veins should be.",
+    "visual_prompt": "Vertical 9:16 shot. Close-up on the arm of Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, inside a dark train car at a misty, abandoned train platform under flickering neon lights at midnight, revealing copper wires and glowing blue synthetic fluid beneath her skin.",
+    "camera": "Tight macro insert shot focusing on the wound.",
+    "transition": "Cut",
+    "mood": "Shocking and surreal"
+   },
+   {
+    "narration": "A recorded human voice suddenly echoes from my inner speaker\u2014my own real voice from a life I completely forgot.",
+    "visual_prompt": "Vertical 9:16 shot. Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, stares in utter shock inside a dark train car at a misty, abandoned train platform under flickering neon lights at midnight as blue light projects from her chest.",
+    "camera": "Slow push-in zoom on her stunned face.",
+    "transition": "Dissolve",
+    "mood": "Emotional revelation"
+   },
+   {
+    "narration": "I was never a malfunctioned machine; I was a human mind uploaded to hide from the city's mandatory memory purge.",
+    "visual_prompt": "Vertical 9:16 shot. Dramatic close-up of Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, inside a dark train car at a misty, abandoned train platform under flickering neon lights at midnight, her face illuminated by holographic memories of her human past.",
+    "camera": "Medium close-up swirling 360-degree rotation around her.",
+    "transition": "Fade to Black",
+    "mood": "Mind-bending and poignant"
+   },
+   {
+    "narration": "The timer hits zero, my fake body freezes, and I realize my real heart never stopped beating at all.",
+    "visual_prompt": "Vertical 9:16 shot. Maya, a 17-year-old girl with a messy brown ponytail, wearing an oversized faded yellow hoodie and black cargo pants, stands frozen like a statue on a misty, abandoned train platform under flickering neon lights at midnight, as her eyes glow softly in the dark.",
+    "camera": "Slow pull-back wide shot fading out into silence.",
+    "transition": "Fade Out",
+    "mood": "Haunting and unresolved"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "No pulse. Just a glowing countdown.",
+  "title": "The Rogue Heartbeat",
+  "caption": "She thought she was a broken machine running out of time. But when the chest plate finally cracks, the truth is far more terrifying: she is the armor, not the human. Where is the real her?\n\nWould you trade your humanity to survive?",
+  "hashtags": [
+   "scifi",
+   "cyberpunk",
+   "shortstory",
+   "android",
+   "identity",
+   "thriller",
+   "cinematic",
+   "survival",
+   "dystopian",
+   "twistending"
+  ]
+ }
+}
