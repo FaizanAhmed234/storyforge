@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Stolen Silhouettes",
+  "logline": "When a teenager investigates why her mother casts three distinct shadows on the wet pavement, she uncovers a horrifying truth about her own heart.",
+  "theme": "Parental sacrifice and the hidden cost of staying alive.",
+  "twist": "The extra shadows aren't being cast by her mother, but are trailing the teenager herself because she died at birth and is kept alive by three unborn siblings.",
+  "ending": "A chilling realization that leaves the viewer questioning what unseen forces are keeping them alive.",
+  "scenes": [
+   {
+    "narration": "My mother walks with three distinct shadows tonight, and absolutely none of them match her standing body on this street.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Maya, an 18-year-old girl with a messy brown ponytail, wearing an oversized bright yellow rain jacket and worn grey jeans, walking on a dark, rain-slicked suburban street lined with flickering yellow streetlights. She looks down in shock as her mother's figure casts three separate dark shadows on the wet asphalt pavement.",
+    "camera": "Low angle tracking shot moving slowly backward",
+    "transition": "Cut",
+    "mood": "Eerie and suspenseful"
+   },
+   {
+    "narration": "Every single time we pass beneath a flickering streetlight, those dark silhouettes stretch across wet asphalt like desperate, reaching hands.",
+    "visual_prompt": "Vertical 9:16 cinematic close-up on the wet asphalt pavement under a flickering yellow streetlight. Maya, an 18-year-old girl with a messy brown ponytail in a bright yellow rain jacket, stands on the dark suburban street, watching three elongated, claw-like dark shadows stretch outwards across the puddle-covered ground.",
+    "camera": "High angle tilt down onto the pavement",
+    "transition": "Dissolve",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "I already knew about the city's illegal shadow trade, where desperate people sell off pieces of their souls for cash.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Maya, an 18-year-old girl with a messy brown ponytail, wearing an oversized bright yellow rain jacket and grey jeans, standing on the rainy, dark suburban street, staring intensely at torn black-market flyers pasted on a wet streetlight pole.",
+    "camera": "Medium shot with tight focus",
+    "transition": "Cut",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "I honestly believed Mom was selfish. I thought she bought extra silhouettes to absorb her own relentless, crippling joint pain.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Maya, an 18-year-old girl with a messy brown ponytail, yellow rain jacket, and grey jeans, walking behind her limping mother on the dark, rain-slicked suburban street under glowing yellow streetlights.",
+    "camera": "Over-the-shoulder follow shot",
+    "transition": "Cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "So late tonight, while she slept on our worn couch, I finally pried open the heavy locked journal in her coat.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Inside a dimly lit hallway overlooking the rainy suburban street outside. Maya, an 18-year-old girl with a messy brown ponytail, wearing an oversized bright yellow rain jacket, stealthily opens a dusty leather journal under flickering yellow light.",
+    "camera": "Close-up slow zoom in",
+    "transition": "Soft match cut",
+    "mood": "Secretive"
+   },
+   {
+    "narration": "The ink-stained pages weren't financial receipts. They were old hospital records for three unborn children she lost long ago.",
+    "visual_prompt": "Vertical 9:16 over-the-shoulder shot. Maya, an 18-year-old girl with a messy brown ponytail in a bright yellow rain jacket, staring at yellowed medical certificates inside a leather journal. The rainy suburban street is visible through a nearby window under streetlight glow.",
+    "camera": "Extreme close-up on text and Maya's reaction",
+    "transition": "Cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "My lungs shattered on the final entry: three lost souls permanently tethered together just to power one dying baby girl.",
+    "visual_prompt": "Vertical 9:16 cinematic portrait shot. Extreme close-up on Maya, an 18-year-old girl with a messy brown ponytail and wide brown eyes, her face illuminated by yellow light. Tear-streaked face inside her bright yellow rain jacket hood, holding the open journal with a dark rainy street visible outside.",
+    "camera": "Static tight close-up",
+    "transition": "Wipe",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "Terrified, I backed out the front door and stepped directly into the glaring yellow beam of the overhead streetlamp.",
+    "visual_prompt": "Vertical 9:16 cinematic shot. Maya, an 18-year-old girl with a messy brown ponytail, wearing an oversized bright yellow rain jacket and grey jeans, stepping outside onto the dark, rain-slicked suburban street directly under a bright yellow overhead streetlight beam.",
+    "camera": "Wide full-body shot",
+    "transition": "Cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "I looked down at the rain-slicked concrete pavement. I didn't cast a single shadow of my own; I never had.",
+    "visual_prompt": "Vertical 9:16 top-down shot looking directly at Maya's feet. Maya, an 18-year-old girl wearing worn grey jeans and muddy boots, standing directly under a bright yellow streetlight on wet asphalt pavement. She casts zero shadow beneath her feet, while three separate dark silhouettes loom behind her.",
+    "camera": "Bird's eye view static shot",
+    "transition": "Dissolve",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "When you walk home beneath the glowing streetlamps tonight, how many stolen shadows are secretly keeping your cold heart beating?",
+    "visual_prompt": "Vertical 9:16 cinematic portrait shot. Maya, an 18-year-old girl with a messy brown ponytail in a bright yellow rain jacket, looking directly into the camera lens on a dark, rain-slicked suburban street. Three dark silhouettes loom silently on the pavement behind her under flickering streetlights.",
+    "camera": "Slow zoom into eyes",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Three shadows. Two people. One impossible truth.",
+  "title": "The Stolen Silhouettes",
+  "caption": "Mom always said we were inseparable, walking together under the flickering streetlights of a rain-slicked city. But when I finally looked down at the wet pavement and counted the darkness stretching behind us, I realized I was never meant to be alive at all. What is truly keeping you tethered to this world?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "darkfantasy",
+   "ghoststory",
+   "twistoftheday",
+   "creativewriting",
+   "thriller",
+   "emotional",
+   "storytelling",
+   "horrorfiction"
+  ]
+ }
+}

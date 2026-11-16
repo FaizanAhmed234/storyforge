@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Erasure Contract",
+  "logline": "A young man who earns a living erasing all physical traces of people who want to vanish discovers his latest job assignment is his own apartment.",
+  "theme": "Grief, identity, and the desperate desire to escape unbearable emotional pain.",
+  "twist": "He wasn't hired to erase a stranger; he hired the service himself to erase his own memory of a tragic love, and his job was the final step of his own voluntary deletion.",
+  "ending": "He burns the final proof of his past, leaving the viewer asking if erasing grief is worth losing who you are.",
+  "scenes": [
+   {
+    "narration": "I get paid to erase people from existence. Every night, a black envelope gives me an address and three short hours.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, sitting in a dimly lit, cluttered apartment with peeling floral wallpaper and rain-streaked windows. He holds a mysterious black envelope.",
+    "camera": "Slow close-up shot moving up from a sealed black envelope on a wooden table.",
+    "transition": "Cut to",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "My task is simple: pack up their clothes, shred their letters, and wipe their hard drives clean like they never lived.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, packing personal belongings into cardboard boxes inside a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Medium tracking shot following hands packing items into cardboard boxes.",
+    "transition": "Fast dissolve",
+    "mood": "Methodical"
+   },
+   {
+    "narration": "The clients are people who want to disappear completely. No funeral, no tearful goodbyes, no trace left in the world.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, standing over a glowing hard drive in a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "High-angle static shot looking down at shredder and glowing computer screen.",
+    "transition": "Wipe right",
+    "mood": "Somber"
+   },
+   {
+    "narration": "Tonight's address leads me to a small top-floor apartment. The door is unlocked, smelling faintly of old coffee and rain.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, stepping through an open door into a dimly lit, cluttered apartment with peeling floral wallpaper and rainy windows.",
+    "camera": "Low-angle POV shot pushing through a creaking apartment door.",
+    "transition": "Cut to",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I start boxing up silver framed photos on the desk. But when I look closely, my heart stops cold right there.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, holding a silver picture frame with a shocked expression, in a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Extreme close-up on Toby's wide eyes reacting to a picture frame.",
+    "transition": "Quick zoom",
+    "mood": "Shocked"
+   },
+   {
+    "narration": "The face smiling back in every picture is mine. My jacket, my scuffed boots, standing next to a laughing girl.",
+    "visual_prompt": "Vertical 9:16 portrait. Detail shot of a silver photo frame held by Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket, showing him smiling beside a girl in a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Close-up macro shot on the photograph in Toby's hand.",
+    "transition": "Cut to",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "I panic, dumping the closet onto the floor. My worn green bomber jacket is hanging there in three identical copies.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, frantically staring into an open closet in a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Whip pan across an open closet filled with identical clothing.",
+    "transition": "Match cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "Under the mattress, I find a handwritten journal. The last entry reads: 'If you are reading this, the job worked.'",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, reading a handwritten journal under the bed in a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Over-the-shoulder shot looking down at an open handwritten diary.",
+    "transition": "Slow dissolve",
+    "mood": "Heartbreaking"
+   },
+   {
+    "narration": "I didn't take this job to erase strangers. I hired them to erase my own unbearable heartbreak after losing her.",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, dropping to his knees clutching the journal in a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Medium close-up circling Toby as the realization hits him.",
+    "transition": "Fade to dark",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "My hands tremble as I drop the final box into the incinerator. Would you delete yourself to stop the pain?",
+    "visual_prompt": "Vertical 9:16 portrait. Toby, a 20-year-old man with messy dark brown hair, wearing a worn green bomber jacket and black jeans, staring into a small portable incinerator chute inside a dimly lit, cluttered apartment with peeling floral wallpaper.",
+    "camera": "Slow pull-back shot as flames illuminate Toby's face.",
+    "transition": "Fade out",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I erased a ghost in my apartment.",
+  "title": "The Erasure Contract",
+  "caption": "Some memories are too heavy to carry into tomorrow. But when the last room to vanish is your own, deleting the pain means deleting yourself. \n\nHow much of your life would you burn to stop the ache?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfiction",
+   "plottwist",
+   "emotional",
+   "mystery",
+   "identity",
+   "grief",
+   "storytelling",
+   "thoughtprovoking"
+  ]
+ }
+}
