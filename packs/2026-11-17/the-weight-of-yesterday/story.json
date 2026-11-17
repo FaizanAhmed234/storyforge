@@ -1,0 +1,100 @@
+{
+ "story": {
+  "title": "The Weight of Yesterday",
+  "logline": "A man discovers he is not living his own life, but a perfectly curated simulation of someone else's best day.",
+  "theme": "The existential terror of manufactured happiness.",
+  "twist": "The protagonist discovers he is the reward being gifted to a grieving customer as an immersive experience.",
+  "ending": "He realizes his entire existence is a product with an expiration date.",
+  "scenes": [
+   {
+    "narration": "My daughter just turned seven for the fifth time today, and she still hasn't learned to tie her shoes.",
+    "visual_prompt": "A 30-year-old man, Elias, with short dark hair in a gray sweater, stands in a bright sunlit kitchen.",
+    "camera": "Close-up",
+    "transition": "Cut",
+    "mood": "Uneasy"
+   },
+   {
+    "narration": "The morning sun hits the table at the exact same angle. I reach for my coffee. It's always lukewarm.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, reaches for a coffee mug in the same bright kitchen.",
+    "camera": "Medium shot",
+    "transition": "Match cut",
+    "mood": "Monotonous"
+   },
+   {
+    "narration": "I kiss my wife, Sarah. Her skin is soft, but her eyes never quite focus on mine when I speak.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, kisses a woman in a kitchen, but she stares blankly at the wall.",
+    "camera": "Close-up",
+    "transition": "Dissolve",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Yesterday, I tried to walk out the front door. I found a solid, unyielding wall of static instead.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, touches a wall that flickers with digital grain.",
+    "camera": "Tracking shot",
+    "transition": "Cut",
+    "mood": "Panic"
+   },
+   {
+    "narration": "Everything here is a loop. A perfect, polished loop designed to keep me from ever feeling actual, stinging pain.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, looks at his reflection in a mirror, gripping the edges tightly.",
+    "camera": "Low angle",
+    "transition": "Fade",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "I found a remote tucked under the floorboards. One button. It labels this world as 'Package 402: Idealized Family'.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, holds a metallic remote, looking at a small holographic screen.",
+    "camera": "Extreme close-up",
+    "transition": "Cut",
+    "mood": "Horror"
+   },
+   {
+    "narration": "I am not a father. I am not a husband. I am an animation meant to soothe a lonely client.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, stands alone in the kitchen as the room begins to pixelate.",
+    "camera": "Wide shot",
+    "transition": "Jump cut",
+    "mood": "Desolate"
+   },
+   {
+    "narration": "Beyond the static, I hear a woman weeping. She is the one paying for my every single gentle smile.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, looks up at the ceiling as audio of sobbing plays loudly.",
+    "camera": "Dolly zoom",
+    "transition": "Fade",
+    "mood": "Melancholy"
+   },
+   {
+    "narration": "The subscription is running low. The colors are washing out. My life is literally flickering out of existence now.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, watches his hands slowly turn into translucent particles.",
+    "camera": "Close-up",
+    "transition": "Slow motion",
+    "mood": "Fading"
+   },
+   {
+    "narration": "My daughter just turned seven for the last time, and I am finally allowed to stop being a memory.",
+    "visual_prompt": "Elias, 30, dark hair, gray sweater, smiles sadly as he vanishes completely into bright white light.",
+    "camera": "Wide shot",
+    "transition": "Fade to black",
+    "mood": "Final"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Your happiest memory is just a product.",
+  "title": "The Weight of Yesterday",
+  "caption": "Every laugh feels authentic, yet every sunset is scripted for someone else\u2019s comfort. When you're just a prize in a grieving stranger's dream, does your soul actually belong to you? Are you living, or just being consumed?",
+  "hashtags": [
+   "scifi",
+   "dystopian",
+   "shortfilm",
+   "existentialism",
+   "psychologicalthriller",
+   "simulationtheory",
+   "cinematic",
+   "storytelling",
+   "darkfiction",
+   "mystery",
+   "philosophical",
+   "creativewriting"
+  ]
+ }
+}

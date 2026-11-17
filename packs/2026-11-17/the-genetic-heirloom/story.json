@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Genetic Heirloom",
+  "logline": "A man discovers he is the only person on Earth without a shadow, until he finds out who is casting it.",
+  "theme": "The cost of existence.",
+  "twist": "His shadow belongs to his unborn child, who is somehow living in the future.",
+  "ending": "He realizes he doesn't exist yet, he is just the blueprint his daughter is using to build him.",
+  "scenes": [
+   {
+    "narration": "My shadow stopped following me three days ago. Now I walk through the world like a ghost in daylight.",
+    "visual_prompt": "Close-up of Leo, 25, messy brown hair, wearing a worn denim jacket, standing on a bright sunny city sidewalk. No shadow behind him.",
+    "camera": "Extreme close-up to medium shot",
+    "transition": "Cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "I checked the pavement everywhere, but the light hit the concrete and found nothing. Just empty, gray, lonely space.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, looking down at the sidewalk in a crowded plaza. Sun is overhead, no shadow visible.",
+    "camera": "Top-down bird's eye view",
+    "transition": "Fade to black",
+    "mood": "Isolated"
+   },
+   {
+    "narration": "The doctors say I\u2019m perfectly healthy. They look at my vitals, but they never seem to look at the ground.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, sitting in a sterile, bright clinical office. A doctor looks at a tablet.",
+    "camera": "Over-the-shoulder",
+    "transition": "Match cut",
+    "mood": "Clinical"
+   },
+   {
+    "narration": "Then, in the subway station, I saw it. A shadow attached to my feet, but it wasn't mine at all.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, standing on a subway platform. A long, distorted shadow stretches from his feet, but the silhouette is small.",
+    "camera": "Low angle tracking",
+    "transition": "Dissolve",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "It was smaller, jagged, and it moved faster than my own body. It was dancing to a song I couldn't hear.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, walking briskly. The small, erratic shadow keeps pace, twisting independently of his movements.",
+    "camera": "Side profile tracking",
+    "transition": "Fast cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I chased the shadow into the darkest alley. I needed to know why it was haunting my heavy, empty steps.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, running into a dimly lit brick alleyway. The shadow flickers on the wall ahead.",
+    "camera": "Handheld chase",
+    "transition": "Wipe",
+    "mood": "Frenetic"
+   },
+   {
+    "narration": "I pulled my phone out and used the flash. The light hit the wall and the shadow stood up, revealed.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, holding up a phone with a bright LED light. He points it at the back wall of the alley.",
+    "camera": "Close-up",
+    "transition": "Quick zoom",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "It wasn't a shadow. It was a projection. A girl, glowing with blue light, reaching back through a shimmering rift.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, staring at a young girl made of light reaching out from a spatial tear in the brick wall.",
+    "camera": "Focus pull",
+    "transition": "Crossfade",
+    "mood": "Ethereal"
+   },
+   {
+    "narration": "She whispered that she was my daughter, calling me back from a future where I never actually got to be born.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, face illuminated by the girl's blue glow. She looks like a miniature version of him.",
+    "camera": "Tight close-up",
+    "transition": "Slow motion",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "I realized then that I am not the man. I am just the memory she is trying to keep alive.",
+    "visual_prompt": "Leo, 25, messy brown hair, denim jacket, fading into pixels as he touches the girl's hand. The alley is now empty.",
+    "camera": "Pull back wide shot",
+    "transition": "Fade to white",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I had no shadow. Until I found it.",
+  "title": "The Genetic Heirloom",
+  "caption": "For thirty years, I walked in the blinding sun completely detached from the ground. Today, the outline trailing my heels started moving on its own, casting the silhouette of a child who hasn't been born yet. How much of your future are you already carrying?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "cinematic",
+   "mindblown",
+   "timetravel",
+   "darksuspense",
+   "mystery",
+   "existential",
+   "thriller",
+   "storytelling",
+   "twistin\u2022the\u2022plot"
+  ]
+ }
+}
