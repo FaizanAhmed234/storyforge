@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Obituary Pilot",
+  "logline": "A grieving radio host realizes the live callers to his midnight show are reading their own death notices.",
+  "theme": "Fate cannot be rescheduled, no matter how fast you talk.",
+  "twist": "The final caller is the host himself, broadcasting from the wreckage of his own studio.",
+  "ending": "A haunting reminder that every countdown eventually hits zero.",
+  "scenes": [
+   {
+    "narration": "My midnight radio show never gets callers, until the phone rings with a voice reading my own obituary.",
+    "visual_prompt": "Close up of Leo, 30, tired eyes, messy dark hair, wearing a black hoodie, sitting inside a dark radio booth with glowing red mics.",
+    "camera": "Extreme close up on his face, pushing in rapidly.",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Leo stares at the studio console as the mysterious caller hangs up, leaving only a cold dial tone behind.",
+    "visual_prompt": "Medium shot of Leo, 30, messy dark hair, black hoodie, staring at the lit-up phone line inside the dark radio booth.",
+    "camera": "Eye level, slow pan left.",
+    "transition": "Smash cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Another line lights up instantly, and a woman describes the exact floral arrangement resting at her own funeral.",
+    "visual_prompt": "Medium shot of Leo, 30, messy dark hair, black hoodie, hands shaking over the audio board in the dark radio booth.",
+    "camera": "Over the shoulder shot.",
+    "transition": "Quick dissolve",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "Panic grips my chest because I recognize every single detail they speak as an unprinted front-page newspaper story.",
+    "visual_prompt": "Close up of Leo, 30, messy dark hair, black hoodie, sweating under the studio lights inside the dark radio booth.",
+    "camera": "Push in slowly.",
+    "transition": "Hard cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "Leo tries to cut the broadcast feed, but the master switch snaps off in his bloody, trembling fingers.",
+    "visual_prompt": "Close up of Leo, 30, messy dark hair, black hoodie, struggling with the studio control board inside the dark radio booth.",
+    "camera": "Low angle, shaky cam.",
+    "transition": "Fast zoom",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "The studio speakers echo a familiar voice reading tomorrow morning headlines before anyone else even knows they happened.",
+    "visual_prompt": "Medium shot of Leo, 30, messy dark hair, black hoodie, backing away from the microphone inside the dark radio booth.",
+    "camera": "Tracking shot backwards.",
+    "transition": "Hard cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "A loud siren wails outside the window as flashing red lights paint the walls of the quiet broadcasting room.",
+    "visual_prompt": "Wide shot of Leo, 30, messy dark hair, black hoodie, trapped inside the dark radio booth as red light flashes.",
+    "camera": "High angle looking down.",
+    "transition": "Slow fade",
+    "mood": "Sinister"
+   },
+   {
+    "narration": "Leo rushes to the glass window, watching emergency crews swarm the exact building he is currently broadcasting from.",
+    "visual_prompt": "Medium shot of Leo, 30, messy dark hair, black hoodie, pressing his hands against the studio glass in the dark room.",
+    "camera": "Through the glass, push in.",
+    "transition": "Quick cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "The studio phone rings one final time, and the voice on the other end whispers that my shift is over.",
+    "visual_prompt": "Close up of Leo, 30, messy dark hair, black hoodie, lifting the telephone receiver inside the dark radio booth.",
+    "camera": "Extreme close up on the phone.",
+    "transition": "Hard cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "Leo listens to the dead air, finally realizing the broadcast started long after he stopped breathing.",
+    "visual_prompt": "Wide shot of an empty, wrecked radio booth with flashing red lights, no sign of Leo, 30, messy dark hair, black hoodie.",
+    "camera": "Static locked-off shot.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His midnight callers were already dead.",
+  "title": "The Obituary Pilot",
+  "caption": "Arthur thought he was just playing late-night requests. Then the voice on line three read word-for-word from tomorrow's paper. Some broadcasts are impossible to cancel.\n\nWould you answer if your final hour was on the air?",
+  "hashtags": [
+   "horrorstories",
+   "cinematictok",
+   "audiodrama",
+   "scarystories",
+   "creepy",
+   "storytime",
+   "thriller",
+   "radiodrama",
+   "darkfiction",
+   "shortstory"
+  ]
+ }
+}

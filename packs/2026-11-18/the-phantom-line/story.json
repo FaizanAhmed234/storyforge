@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Phantom Line",
+  "logline": "When a teenager discovers her own missing poster inside a moving subway train, she uncovers a heartbreaking truth about where she really is.",
+  "theme": "Love transcends the boundary between machine and human soul.",
+  "twist": "She was never kidnapped; she sacrificed her physical body to become the AI driving the transit system, and her sister rides it every night.",
+  "ending": "The missing posters aren't looking for a lost girl; they are love letters left by her grieving sister.",
+  "scenes": [
+   {
+    "narration": "My missing poster is taped to this train window. My own face stares back at me under bold, fading red letters today.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket staring at a missing poster in a dimly lit, narrow subway car with flickering fluorescent lights.",
+    "camera": "Close-up on Maya's shocked eyes reflecting in the dirty glass window.",
+    "transition": "Cut to",
+    "mood": "Jarring"
+   },
+   {
+    "narration": "I touch my face, feeling warm skin and a racing pulse. I am right here, alive and breathing inside this dim carriage.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket touching her cheek in a dimly lit, narrow subway car with flickering fluorescent lights.",
+    "camera": "Medium shot focusing on Maya's trembling hands touching her jawline.",
+    "transition": "Dissolve",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "I scream at the passengers sitting nearby, but not a single head turns to acknowledge my desperate, echoing voice in here.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket shouting at silent commuters in a dimly lit, narrow subway car with flickering fluorescent lights.",
+    "camera": "Wide angle showing commuters staring blankly ahead, completely ignoring her.",
+    "transition": "Whip pan",
+    "mood": "Isolated"
+   },
+   {
+    "narration": "The train speeds up relentlessly, passing dark, endless tunnels without stopping at any of the familiar underground stations along the route.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket holding a metal pole in a dimly lit, narrow subway car with flickering fluorescent lights swaying in a dark tunnel.",
+    "camera": "Tracking shot moving down the aisle as dark motion blur hits the windows.",
+    "transition": "Cut to",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "I sprint toward the conductor\u2019s cabin at the front, determined to force someone to break this terrifying, silent nightmare right now.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket running down the aisle of a dimly lit, narrow subway car with flickering fluorescent lights.",
+    "camera": "Low angle follow shot behind Maya as she dashes forward frantically.",
+    "transition": "Quick cut",
+    "mood": "Urgent"
+   },
+   {
+    "narration": "I slam my fists against the heavy steel door until the lock clicks open with a hollow, sharp metallic shatter inside.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket pounding on a heavy steel door in a dimly lit, narrow subway car with flickering fluorescent lights.",
+    "camera": "Tight close-up on her hands hitting the metallic door and the latch turning.",
+    "transition": "Hard cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "Inside sits no driver, only a massive server rack humming softly while glowing cables plug directly into a preserved human brain.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket looking into glowing server racks in the conductor cabin of a dimly lit, narrow subway car.",
+    "camera": "Over-the-shoulder shot looking into the illuminated blue tech cabin.",
+    "transition": "Slow zoom",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Memories flood my head; five years ago, I voluntarily gave up my physical body to pilot this city\u2019s automated transit network.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket clutching her head inside the glowing conductor cabin of a dimly lit, narrow subway car.",
+    "camera": "Dutch angle swirling around Maya's face as light flashes wildly around her.",
+    "transition": "Fade to white",
+    "mood": "Mind-bending"
+   },
+   {
+    "narration": "In the last car, a young girl quietly places a fresh poster, weeping gently for the lost sister she misses dearly.",
+    "visual_prompt": "A young girl hanging a missing flyer inside a dimly lit, narrow subway car with flickering fluorescent lights while 18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket appears as a faint digital reflection.",
+    "camera": "Medium close-up on the young girl crying while sticking the poster to the glass.",
+    "transition": "Gentle dissolve",
+    "mood": "Heartbreaking"
+   },
+   {
+    "narration": "My missing poster was never a search; it was her relentless promise to keep riding with me every single night forever.",
+    "visual_prompt": "18-year-old Maya with short auburn hair, silver nose ring, and oversized denim jacket seen as a glowing, transparent reflection on the glass next to a missing poster inside a dimly lit, narrow subway car.",
+    "camera": "Slow push-in on Maya's transparent reflection merging with the flyer outside the subway window.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "I found my own missing poster.",
+  "title": "The Phantom Line",
+  "caption": "For months, I thought I was just lost in the transit tunnels. Then I saw my face on the wall.\n\nTurns out, I never left this train\u2014I became it, just to keep watching over her.\n\nWould you give up your humanity to protect the one you love?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "scifi",
+   "emotional",
+   "ai",
+   "mystery",
+   "ghosttrain",
+   "plottwist",
+   "storytelling",
+   "touching"
+  ]
+ }
+}

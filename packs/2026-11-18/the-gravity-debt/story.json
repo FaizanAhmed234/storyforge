@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Gravity Debt",
+  "logline": "A woman living in a city where gravity must be leased discovers she is thousands of steps overdrawn.",
+  "theme": "Surviving in a world that monetizes natural laws.",
+  "twist": "The debt collection office isn't taking her money; they are harvesting the days she spent floating.",
+  "ending": "If falling is free, why are you charging me to land?",
+  "scenes": [
+   {
+    "narration": "My feet haven't touched the floor since Tuesday because my lease on gravity expired.",
+    "visual_prompt": "Maya, a 20-year-old with messy brown hair and a oversized grey hoodie, floats three feet off the ground inside a cramped concrete apartment.",
+    "camera": "Vertical medium shot, stable tracking",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "I grabbed the ceiling pipes, pulling myself toward the door to pay the local broker.",
+    "visual_prompt": "Maya, with messy brown hair and a grey hoodie, hoists herself along water pipes in a cramped concrete apartment.",
+    "camera": "Vertical low angle, shaky",
+    "transition": "quick pan",
+    "mood": "urgent"
+   },
+   {
+    "narration": "The digital meter on my wrist flashed red, screaming that I was five hundred steps overdrawn.",
+    "visual_prompt": "Close up on Maya's wrist showing a glowing red meter reading negative steps in a dimly lit concrete hallway.",
+    "camera": "Extreme close up",
+    "transition": "match cut",
+    "mood": "panicked"
+   },
+   {
+    "narration": "Step too high, and the city takes a mortgage on your lungs. Step too low, you drown in air.",
+    "visual_prompt": "Maya, messy brown hair, grey hoodie, navigating a vertical city street where people float at different heights, tethered by ropes.",
+    "camera": "Vertical wide shot",
+    "transition": "smooth push in",
+    "mood": "oppressive"
+   },
+   {
+    "narration": "I reached the glass counter of the weight bank, dropping my empty wallet with a desperate clatter.",
+    "visual_prompt": "Maya, messy brown hair, grey hoodie, pressing her hands against a sleek glass counter in a minimalist bank, floating slightly.",
+    "camera": "Vertical over-the-shoulder",
+    "transition": "hard cut",
+    "mood": "desperate"
+   },
+   {
+    "narration": "The teller didn't look at my coins. She smiled, pointing a scanner directly at my temples.",
+    "visual_prompt": "A cold clerk in a crisp uniform holding a glowing blue laser scanner toward Maya, messy brown hair, grey hoodie, at the glass counter.",
+    "camera": "Vertical tight framing",
+    "transition": "slow zoom",
+    "mood": "sinister"
+   },
+   {
+    "narration": "You are not paying for the steps you took, she whispered. You are paying for the moments you defied the pull.",
+    "visual_prompt": "Maya, messy brown hair, grey hoodie, closing her eyes as the blue laser scans her forehead in the dim bank.",
+    "camera": "Vertical extreme close up",
+    "transition": "dissolve",
+    "mood": "eerie"
+   },
+   {
+    "narration": "A heavy click echoed inside my skull, and suddenly my knees slammed hard onto the cold tile.",
+    "visual_prompt": "Maya, messy brown hair, grey hoodie, abruptly dropping hard onto the floor as gravity forcefully reclaims her.",
+    "camera": "Vertical high angle, jarring",
+    "transition": "hard cut",
+    "mood": "shocking"
+   },
+   {
+    "narration": "My account balance hit zero, but my shadow on the floor stayed detached, floating near the ceiling.",
+    "visual_prompt": "Maya, messy brown hair, grey hoodie, kneeling on the floor while her shadow remains stuck floating up near the lights.",
+    "camera": "Vertical low angle, tracking",
+    "transition": "slow push in",
+    "mood": "haunting"
+   },
+   {
+    "narration": "If falling is free, why are you charging me to land?",
+    "visual_prompt": "Maya, messy brown hair, grey hoodie, staring up at her floating shadow with tears in her eyes as alarms blare.",
+    "camera": "Vertical tight close up",
+    "transition": "fade to black",
+    "mood": "chilling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every step you take has a price.",
+  "title": "The Gravity Debt",
+  "caption": "She thought she was just paying for her morning walk, but the balance is much higher than she realized. What happens when the ground finally calls in its debts?\n\nStep lightly.",
+  "hashtags": [
+   "scifi",
+   "dystopia",
+   "shortfilm",
+   "cinematic",
+   "storytelling",
+   "speculativefiction",
+   "scifistories",
+   "darkscifi",
+   "worldbuilding",
+   "mindblown"
+  ]
+ }
+}
