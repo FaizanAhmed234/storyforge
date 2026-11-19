@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Decibel Deal",
+  "logline": "A desperate street musician trades his future words for instant fame, only to realize the silence he bought has a terrible price.",
+  "theme": "The true cost of unearned applause.",
+  "twist": "The massive crowd cheering for him consists entirely of people who have also lost their voices.",
+  "ending": "Who are you really applauding for when no one can make a sound?",
+  "scenes": [
+   {
+    "narration": "My voice is gone forever, and tomorrow the whole city will finally scream my name.",
+    "visual_prompt": "Leo, 22 years old with messy dark hair and a faded leather jacket, stands in a neon-lit alley.",
+    "camera": "Extreme close-up on lips",
+    "transition": "hard cut",
+    "mood": "desperate"
+   },
+   {
+    "narration": "Seven days ago, a sleek broker offered me eternal fame if I signed away every spoken word.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, in a neon-lit alley, holding a glowing digital contract.",
+    "camera": "Medium tracking shot",
+    "transition": "smooth pan",
+    "mood": "eerie"
+   },
+   {
+    "narration": "I laughed, but my guitar had stayed silent for years. Hunger makes a man trade his soul.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, in a neon-lit alley, staring down at his dusty acoustic guitar.",
+    "camera": "Low angle push in",
+    "transition": "fade to black",
+    "mood": "regretful"
+   },
+   {
+    "narration": "I pressed my thumb on the glass. The contract vanished, and pure electricity flooded my fingertips instantly.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, in a neon-lit alley, pressing thumb to glowing screen.",
+    "camera": "Close-up on glowing hand",
+    "transition": "flash cut",
+    "mood": "shocking"
+   },
+   {
+    "narration": "Tonight, I step onto the biggest stage in London. Thousands wait in absolute, breathless anticipation.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, stepping onto a massive stadium stage under blinding spotlights.",
+    "camera": "Wide establishing shot",
+    "transition": "quick zoom",
+    "mood": "triumphant"
+   },
+   {
+    "narration": "I strum a single chord. The sound shatters the night air, heavy and rich beyond belief.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, on stadium stage, aggressively strumming his glowing guitar.",
+    "camera": "Medium action shot",
+    "transition": "hard cut",
+    "mood": "electric"
+   },
+   {
+    "narration": "The crowd erupts into a deafening roar. Thousands of fans surge forward, chanting my name over and over.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, on stadium stage, looking out at a massive cheering stadium.",
+    "camera": "Over-the-shoulder sweep",
+    "transition": "pan right",
+    "mood": "overwhelming"
+   },
+   {
+    "narration": "I smile and try to shout thank you, but no sound comes out of my open mouth.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, on stadium stage, shouting silently with a desperate expression.",
+    "camera": "Extreme close-up",
+    "transition": "slow motion",
+    "mood": "terrifying"
+   },
+   {
+    "narration": "Then I look closer at the front row. Every single person is screaming, but their mouths remain completely closed.",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, on stadium stage, staring in horror at the silent roaring crowd.",
+    "camera": "Rapid push in",
+    "transition": "sharp zoom",
+    "mood": "uncanny"
+   },
+   {
+    "narration": "They gave up their voices for this too. Who are you really applauding for when no one can speak?",
+    "visual_prompt": "Leo, 22, messy dark hair, faded leather jacket, on stadium stage, standing alone amidst thousands of silent, cheering fans.",
+    "camera": "Wide static shot",
+    "transition": "fade out",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "He traded his words for wild applause.",
+  "title": "The Decibel Deal",
+  "caption": "The stadium roared with deafening approval for his every note, showering him in the fame he always craved. But as he bowed to the adoring masses, he noticed a terrifying detail in the front row: every mouth was open in a silent scream. What is a standing ovation worth when nobody can speak the truth?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "twistedending",
+   "musician",
+   "fame",
+   "darkfantasy",
+   "creativewriting",
+   "suspense",
+   "storytelling",
+   "priceoffame"
+  ]
+ }
+}
