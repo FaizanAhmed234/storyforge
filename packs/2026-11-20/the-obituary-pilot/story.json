@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Obituary Pilot",
+  "logline": "A man edits obituaries for a living, only to discover his own death is scheduled for tonight.",
+  "theme": "Mortality and control",
+  "twist": "He isn't writing obituaries for the deceased, but actively choosing who dies by finishing the drafts.",
+  "ending": "If I am the author of the final paragraph, who wrote the period at the end of mine?",
+  "scenes": [
+   {
+    "narration": "Every morning at six, I type the final words for people who do not know they are dying.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, sitting in a dark room lit only by a green computer screen.",
+    "camera": "Extreme close-up on typing fingers, rapid cuts.",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "My boss calls it editing history. I call it pulling the trigger with a backlit keyboard and a cup of cold coffee.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, staring blankly at glowing text in a messy apartment.",
+    "camera": "Medium shot pushing in slowly.",
+    "transition": "smooth pan",
+    "mood": "dread"
+   },
+   {
+    "narration": "The rules are simple. Once I press publish on their life story, their heart stops beating within the hour.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, finger hovering over an enter key that glows bright red.",
+    "camera": "Close-up on the trembling finger and the enter key.",
+    "transition": "fast zoom",
+    "mood": "anxious"
+   },
+   {
+    "narration": "I thought I was playing God. I enjoyed the quiet power humming beneath my fingertips every single lonely night.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, a sinister half-smile illuminated by the green screen.",
+    "camera": "Low angle tracking shot looking up at his face.",
+    "transition": "match cut",
+    "mood": "chilling"
+   },
+   {
+    "narration": "Then tonight, a new file appeared in my queue with no name, no photo, and a blinking cursor.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, eyes widening in sheer terror at a blank document.",
+    "camera": "Over-the-shoulder shot revealing the empty document.",
+    "transition": "jump cut",
+    "mood": "shocked"
+   },
+   {
+    "narration": "I scrolled down to check the author details. My own home address stared back from the system metadata.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, looking wildly around his dark, cramped living room.",
+    "camera": "Rapid 360-degree spin around the character.",
+    "transition": "fast spin",
+    "mood": "panicked"
+   },
+   {
+    "narration": "My biography was already written down to the exact second. It described the exact clothes I am wearing.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, looking down at his sleeves in disbelief.",
+    "camera": "Down-angle shot focusing on the gray fabric of the hoodie.",
+    "transition": "slow fade",
+    "mood": "terrified"
+   },
+   {
+    "narration": "The final sentence read: He sat in the dark, staring at the screen, waiting for the inevitable blackout.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, frozen in place as the apartment lights flicker and die.",
+    "camera": "Static wide shot as darkness consumes the room.",
+    "transition": "hard cut",
+    "mood": "ominous"
+   },
+   {
+    "narration": "My fingers moved on their own, hovering over the keyboard to write the last word of my life.",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, hands illuminated only by the dying monitor's glow.",
+    "camera": "Close-up on trembling fingers resting above the keys.",
+    "transition": "slow zoom",
+    "mood": "suspenseful"
+   },
+   {
+    "narration": "If I am the author of the final paragraph, who wrote the period at the end of mine?",
+    "visual_prompt": "A 28-year-old man with messy dark hair, wearing a worn gray hoodie, vanishing into pure white digital static as the screen goes black.",
+    "camera": "Extreme close-up on eyes reflecting the blinking cursor before total darkness.",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His final draft is his own.",
+  "title": "The Obituary Pilot",
+  "caption": "For years, he thought he was merely predicting the end. Tonight, the cursor blinks on his own final paragraph.\n\nIf you could read the exact moment your story ended, would you change a single word?",
+  "hashtags": [
+   "darkfiction",
+   "shortstory",
+   "cinematic",
+   "psychologicalthriller",
+   "mortality",
+   "writing",
+   "suspense",
+   "twistedendings",
+   "storytelling",
+   "existential"
+  ]
+ }
+}
