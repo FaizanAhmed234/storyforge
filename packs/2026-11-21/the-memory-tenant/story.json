@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Memory Tenant",
+  "logline": "A woman discovers her landlord is charging her rent not in money, but in her happiest childhood memories.",
+  "theme": "The true cost of nostalgia.",
+  "twist": "She realizes she never had a happy childhood; the landlord manufactured the memories just to harvest them.",
+  "ending": "If your happiest days were rented, who were you before you moved in?",
+  "scenes": [
+   {
+    "narration": "My landlord doesn't want my rent money. He demands my very best childhood memories instead.",
+    "visual_prompt": "A 22-year-old woman with messy dark hair and a worn blue sweater standing in a dimly lit apartment hallway.",
+    "camera": "Medium close-up, shaky handheld",
+    "transition": "Hard cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "He sits across my kitchen table every single month, holding a glass jar that glows with golden light.",
+    "visual_prompt": "The same 22-year-old woman in a worn blue sweater and messy dark hair watching an old man in a shadowy kitchen.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Smooth pan",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Inside that glass swirls the exact afternoon my father taught me how to ride a red bicycle.",
+    "visual_prompt": "The same 22-year-old woman with messy dark hair and a worn blue sweater staring into a glowing jar.",
+    "camera": "Extreme close-up on the jar",
+    "transition": "Fast zoom",
+    "mood": "Nostalgic"
+   },
+   {
+    "narration": "I hand it over willingly because the alternative is much worse. Eviction means forgetting completely.",
+    "visual_prompt": "The same 22-year-old woman in her worn blue sweater and messy dark hair sliding the glowing jar across the table.",
+    "camera": "Close-up on hands",
+    "transition": "Dissolve",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "Today the ledger was empty. I had no joy left to give him for this month's shelter.",
+    "visual_prompt": "The same 22-year-old woman with messy dark hair and a worn blue sweater looking panicked at an open notebook.",
+    "camera": "Medium shot",
+    "transition": "Quick cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "He smiled warmly and tapped my forehead. Don't worry, my child, we can manufacture a brand new one.",
+    "visual_prompt": "The same 22-year-old woman in a worn blue sweater sitting still while an old man touches her head.",
+    "camera": "Tight facial close-up",
+    "transition": "Match cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "A sudden flash of a summer beach filled my mind. Golden sun, laughing parents, endless warmth.",
+    "visual_prompt": "The same 22-year-old woman with messy dark hair blinking rapidly as her eyes reflect bright golden light.",
+    "camera": "Dolly in to eyes",
+    "transition": "Whip pan",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "It felt so real, so vivid. But as I reached for the memory, the edges began to burn away.",
+    "visual_prompt": "The same 22-year-old woman in her worn blue sweater clutching her head in a sterile, white-walled room.",
+    "camera": "Orbit shot",
+    "transition": "Fade to black",
+    "mood": "Dread"
+   },
+   {
+    "narration": "The beach vanished, revealing grey concrete walls underneath. I had never even learned to ride a bike.",
+    "visual_prompt": "The same 22-year-old woman with messy dark hair and a worn blue sweater looking at empty, barren grey walls.",
+    "camera": "Wide angle, static",
+    "transition": "Hard cut",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "If your happiest days were rented, who were you before you moved in?",
+    "visual_prompt": "The same 22-year-old woman in a worn blue sweater staring directly into the camera lens with hollow eyes.",
+    "camera": "Extreme close-up",
+    "transition": "Slow fade out",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Happy memories aren't yours to keep.",
+  "title": "The Memory Tenant",
+  "caption": "She thought she was paying rent with nostalgia, trading joy for shelter. But when the truth of her manufactured past surfaces, she realizes the landlord didn't just harvest her happiest days\u2014he stole a life she never even lived.\n\nWould you give up your past for a roof over your head?",
+  "hashtags": [
+   "shortfilm",
+   "cinematic",
+   "scifi",
+   "psychologicalthriller",
+   "darkfairytale",
+   "nostalgia",
+   "storytelling",
+   "mindbend",
+   "shortstory",
+   "film",
+   "creativetriting"
+  ]
+ }
+}

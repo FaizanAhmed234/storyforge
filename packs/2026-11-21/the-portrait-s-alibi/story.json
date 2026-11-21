@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Portrait's Alibi",
+  "logline": "A convicted man realizes the oil painting of his crime scene is aging instead of him.",
+  "theme": "guilt ages faster than time",
+  "twist": "The painting isn't aging to show his guilt; it is absorbing the years he was supposed to live in prison.",
+  "ending": "How many decades does a masterpiece owe a innocent ghost?",
+  "scenes": [
+   {
+    "narration": "They locked me away for a murder I never committed, leaving my oil portrait in a dusty attic.",
+    "visual_prompt": "Marcus, 35, short dark hair, wearing a gray prisoner jacket, standing in a dim concrete cell.",
+    "camera": "Extreme close-up on eyes, fast push-in",
+    "transition": "Hard cut",
+    "mood": "Claustrophobic and grim"
+   },
+   {
+    "narration": "Ten long years crawled by in absolute darkness, but my face in the mirror refused to wrinkle.",
+    "visual_prompt": "Marcus, 35, short dark hair, wearing a gray prisoner jacket, staring into a small steel mirror.",
+    "camera": "Medium shot, static",
+    "transition": "Smash cut",
+    "mood": "Eerie and cold"
+   },
+   {
+    "narration": "Today, my parole officer brought me home and handed me the heavy, gold-framed canvas from the attic.",
+    "visual_prompt": "Marcus, 35, short dark hair, wearing a gray prisoner jacket, holding a large oil painting.",
+    "camera": "Wide tracking shot",
+    "transition": "Smooth pan",
+    "mood": "Tense anticipation"
+   },
+   {
+    "narration": "I wiped away a decade of dust, expecting to see the young man I used to be.",
+    "visual_prompt": "Marcus, 35, short dark hair, wearing a gray prisoner jacket, wiping a dusty canvas with his sleeve.",
+    "camera": "Over-the-shoulder shot",
+    "transition": "Quick zoom",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "Instead, the painted eyes stared back at me sunken, bruised, and thoroughly ravaged by brutal time.",
+    "visual_prompt": "Marcus, 35, short dark hair, looking at a portrait showing an old, battered man with gray hair.",
+    "camera": "Close-up on the painted face",
+    "transition": "Dissolve",
+    "mood": "Shocking horror"
+   },
+   {
+    "narration": "Deep wrinkles cut across the canvas forehead where my skin remains completely smooth and unblemished today.",
+    "visual_prompt": "Marcus, 35, short dark hair, touching his own smooth face while staring at the old portrait.",
+    "camera": "Split screen comparison",
+    "transition": "Hard cut",
+    "mood": "Unsettling realization"
+   },
+   {
+    "narration": "The frame grew heavy in my trembling hands as I realized the terrible truth of my sentence.",
+    "visual_prompt": "Marcus, 35, short dark hair, wearing a gray prisoner jacket, struggling under the weight of the painting.",
+    "camera": "Low angle shaky cam",
+    "transition": "Fast zoom",
+    "mood": "Dread"
+   },
+   {
+    "narration": "The prison didn't hold my body inside those cold bars; it locked my physical decay inside this frame.",
+    "visual_prompt": "Marcus, 35, short dark hair, backing away in terror from the aging portrait on the wall.",
+    "camera": "Push-in wide shot",
+    "transition": "Whip pan",
+    "mood": "Terrifying epiphany"
+   },
+   {
+    "narration": "I am entirely free to walk the streets now, yet I look younger than my own crime.",
+    "visual_prompt": "Marcus, 35, short dark hair, standing in a sunlit room, looking healthy next to the decaying painting.",
+    "camera": "Medium profile shot",
+    "transition": "Slow fade",
+    "mood": "Surreal calm"
+   },
+   {
+    "narration": "If the canvas took every single year of my suffering, what happens when it finally runs out of paint?",
+    "visual_prompt": "Marcus, 35, short dark hair, staring directly into the camera as the painting crumbles into dust.",
+    "camera": "Extreme close-up, slow pull-back",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The painting aged. He stayed young.",
+  "title": "The Portrait's Alibi",
+  "caption": "Thirty years behind bars, yet his reflection hasn't aged a single day. The oil on canvas is bearing the sentence instead.\n\nAre some prisons built inside our own frames?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfantasy",
+   "psychologicalthriller",
+   "plottwist",
+   "fiction",
+   "mystery",
+   "creativestory",
+   "reading",
+   "timetravel"
+  ]
+ }
+}

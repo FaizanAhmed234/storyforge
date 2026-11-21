@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Forgotten Mirror",
+  "logline": "A woman realizes her reflection has stopped following her movements, leading to a terrifying revelation about who is actually trapped.",
+  "theme": "Identity and perception",
+  "twist": "The reflection is the real person, and the one looking into the glass is just a memory.",
+  "ending": "Which side of the glass are you standing on right now?",
+  "scenes": [
+   {
+    "narration": "My reflection just blinked three seconds after I did, and I am entirely alone in this silent bathroom.",
+    "visual_prompt": "A 25-year-old woman with messy dark hair in a simple grey t-shirt stands inside a brightly lit tiled bathroom, staring wide-eyed at a vanity mirror.",
+    "camera": "Vertical medium close-up, sharp focus on the woman's face and the glass.",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "I lean closer to the cold glass, but the woman looking back at me keeps standing completely still.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt leans toward a bathroom vanity mirror, looking terrified.",
+    "camera": "Vertical tight over-the-shoulder shot.",
+    "transition": "match cut",
+    "mood": "unnerving"
+   },
+   {
+    "narration": "Panic tightens my chest as I tap my left hand against the surface, yet her hand stays down.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt presses her palm flat against the bathroom mirror in panic.",
+    "camera": "Vertical macro shot focusing on the glass interface.",
+    "transition": "fade in",
+    "mood": "creepy"
+   },
+   {
+    "narration": "She smiles a warm, sad smile, tilts her head, and slowly reaches out to touch my face.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt stares in horror as the glass ripples like water.",
+    "camera": "Vertical push-in on her terrified eyes.",
+    "transition": "smash cut",
+    "mood": "surreal"
+   },
+   {
+    "narration": "Cold air rushes through the glass as her fingertips press firmly against the outside of my cheek.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt feels a cold hand touch her face from the mirror side.",
+    "camera": "Vertical tracking shot orbiting her head.",
+    "transition": "hard cut",
+    "mood": "chilling"
+   },
+   {
+    "narration": "My voice catches in my throat because I realize I am the one trapped inside the frame.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt opens her mouth to scream, but no sound comes out.",
+    "camera": "Vertical extreme close-up on her trembling lips.",
+    "transition": "match cut",
+    "mood": "desperate"
+   },
+   {
+    "narration": "She steps out into the bright room, breathing in the fresh air, finally free from the endless loop.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt steps forward out of the mirror into the real bathroom.",
+    "camera": "Vertical wide shot revealing the bathroom layout.",
+    "transition": "slow dissolve",
+    "mood": "eerie"
+   },
+   {
+    "narration": "I am left behind in the cold, narrow void, watching my entire life continue without me.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt stands trapped inside the mirror, pressing her hands against the glass.",
+    "camera": "Vertical pull-back shot showing her confined space.",
+    "transition": "hard cut",
+    "mood": "isolated"
+   },
+   {
+    "narration": "She turns around one last time, looks directly into my eyes, and turns off the bathroom light.",
+    "visual_prompt": "The same 25-year-old woman with messy dark hair in a simple grey t-shirt watches the bathroom light switch off from the outside.",
+    "camera": "Vertical static shot facing the dark reflection.",
+    "transition": "fade to black",
+    "mood": "dark"
+   },
+   {
+    "narration": "Total darkness swallows me whole. Now ask yourself: which side of the glass are you standing on right now?",
+    "visual_prompt": "Pitch black screen with a faint outline of a cracked mirror frame.",
+    "camera": "Vertical static macro shot.",
+    "transition": "fade out",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Who is trapped on the other side?",
+  "title": "The Forgotten Mirror",
+  "caption": "She blinked, but her reflection stayed completely still. That was the moment she realized the glass wasn't holding a reflection anymore\u2014it was holding her.\n\nWhich side of the glass are you really on?",
+  "hashtags": [
+   "horror",
+   "cinematic",
+   "shortstory",
+   "thriller",
+   "twisted",
+   "scarystories",
+   "mindblown",
+   "psychological",
+   "creepy",
+   "suspense",
+   "darkart"
+  ]
+ }
+}
