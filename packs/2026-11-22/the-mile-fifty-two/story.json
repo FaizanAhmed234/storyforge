@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Mile Fifty-Two",
+  "logline": "A teenage hitchhiker riding with a silent stranger discovers an ID card that reveals the driver's impossible identity.",
+  "theme": "The choices we run from will follow us until we face them.",
+  "twist": "The silent driver isn't a kidnapper\u2014he is the hitchhiker forty years in the future, trapped in a loop of his own regret.",
+  "ending": "The protagonist faces a choice to step out into the rain or stay in the car, leaving the viewer questioning what they would choose.",
+  "scenes": [
+   {
+    "narration": "My driver's license has a stranger's face on it. And that stranger is currently driving the car I am sitting in.",
+    "visual_prompt": "Vertical format. Inside a battered black sedan on a rainy dark highway. Eli, an 18-year-old guy with messy dark hair wearing a wet blue oversized hoodie, holds an open wallet in disbelief.",
+    "camera": "Close-up shot of the wallet in Eli's hands, panning up to his shocked face.",
+    "transition": "Cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "My name is Eli. I hitched a ride twenty miles back to escape the storm, stepping into this silent, rusted sedan.",
+    "visual_prompt": "Vertical format. Inside the battered black sedan on the rain-soaked highway. Eli, 18, with messy dark hair in a wet blue hoodie, looks out the passenger window into pitch darkness.",
+    "camera": "Medium shot from the dashboard looking back at Eli in the passenger seat.",
+    "transition": "Fade",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "The driver hasn't spoken a word. His knuckles are white on the steering wheel, his eyes fixed relentlessly on the road.",
+    "visual_prompt": "Vertical format. Inside the battered black sedan. The driver, an older man with grey stubble wearing a worn leather jacket, grips the steering wheel tightly under dim dashboard lights.",
+    "camera": "Profile shot of the older driver's intense expression, rain pouring on the windshield behind him.",
+    "transition": "Cut",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "When he reached for his coffee, his wallet fell open. I picked it up to hand it back, but stopped cold.",
+    "visual_prompt": "Vertical format. Inside the battered black sedan. Eli, 18, dark hair, blue oversized hoodie, picking up a brown leather wallet from the rubber floor mat.",
+    "camera": "Low-angle shot looking up from the car floor as Eli reaches down.",
+    "transition": "Cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "The ID lists my name, my birthdate, and my home address. But the face staring back is his hollow, aging features.",
+    "visual_prompt": "Vertical format. Inside the battered black sedan. Extreme close-up of the driver's license held by Eli, showing Eli's exact name next to a photo of the grey-haired driver.",
+    "camera": "Macro close-up on the card details, illuminated by green dashboard glare.",
+    "transition": "Cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "Panic shatters my composure. I reach for the door handle, but the child locks click shut with a deafening thud.",
+    "visual_prompt": "Vertical format. Inside the battered black sedan. Eli, 18, dark hair, blue hoodie, frantically pulling the chrome interior door handle as rain flashes outside.",
+    "camera": "Rapid push-in on Eli's panicked eyes as he tugs the door handle.",
+    "transition": "Whip pan",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "He finally turns to look at me, his voice barely a whisper. \"You always try to jump out right at mile fifty-two.\"",
+    "visual_prompt": "Vertical format. Inside the battered black sedan. The older driver turns his head, staring at Eli (18, blue hoodie) with weary, compassionate eyes.",
+    "camera": "Over-the-shoulder shot from behind Eli, focusing on the older driver's face.",
+    "transition": "Cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "He pulls over. He hands me a silver pocket watch engraved with my mother's initials\u2014the one I lost three years ago.",
+    "visual_prompt": "Vertical format. Inside the parked sedan on the misty shoulder of the dark road. The older driver hands a shiny silver pocket watch to Eli, 18, dark hair, wet blue hoodie.",
+    "camera": "Tight focus on the silver watch changing hands between the young and old fingers.",
+    "transition": "Dissolve",
+    "mood": "Emotional"
+   },
+   {
+    "narration": "He isn't a kidnapper. He is me, forty years from now, driven to replay the night I ran away from home.",
+    "visual_prompt": "Vertical format. Inside the parked black sedan. Eli, 18, with dark hair and blue hoodie, stares into the eyes of his older self, both sharing identical facial structures.",
+    "camera": "Symmetrical split frame highlighting the resemblance between Eli and the older driver.",
+    "transition": "Cut",
+    "mood": "Mind-bending"
+   },
+   {
+    "narration": "He smiles sadly and unlocks the door. \"If you step out now, will your driver's license keep your face?\"",
+    "visual_prompt": "Vertical format. Inside the parked black sedan. The car door clicks open, revealing dark rain outside. Eli, 18, dark hair, blue hoodie, hesitates with one foot near the open door.",
+    "camera": "Slow pull-back shot from Eli's face to the open car door framing the foggy highway.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "His driver's license had his own face.",
+  "title": "The Mile Fifty-Two",
+  "caption": "Some secrets don't stay buried in the rearview mirror. What would you do if your worst regret was sitting right beside you?\n\nWould you run, or finally turn around?",
+  "hashtags": [
+   "cinematic",
+   "storytelling",
+   "thriller",
+   "shortfilm",
+   "timeloop",
+   "scifi",
+   "mystery",
+   "darkfiction",
+   "suspense",
+   "mindblown",
+   "originalstory"
+  ]
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Permanent Pause",
+  "logline": "A man discovers his new smart watch doesn't track steps or heart rate\u2014it counts the exact number of words he has left to speak in his life.",
+  "theme": "Mortality and the true value of human speech",
+  "twist": "The watch doesn't limit his words; it dictates them, meaning the moment he finishes his predetermined script, his heart stops.",
+  "ending": "Are you speaking your own thoughts right now, or just reading from your script?",
+  "scenes": [
+   {
+    "narration": "My new watch doesn't track steps. It counts down every single word I am ever allowed to speak.",
+    "visual_prompt": "A 25-year-old man with messy brown hair and a worn black hoodie standing in a dim, cluttered bedroom, staring at a glowing digital counter on his wrist.",
+    "camera": "Extreme close-up on the glowing red numbers ticking down on his wrist.",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Twelve thousand left. At first, I thought it was a sick tech joke, a clever marketing gimmick gone wrong.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie in the dim bedroom, tapping frantically at the glass screen.",
+    "camera": "Medium shot, shaky camera following his frantic hand movements.",
+    "transition": "Quick pan",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "Then I argued with my boss and watched three hundred words vanish instantly into thin air.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie in a sterile office, clutching his throat as the wrist counter drops rapidly.",
+    "camera": "Over-the-shoulder shot looking at his descending word count.",
+    "transition": "Smash cut",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "Now I whisper. Every breath feels like a tax I cannot afford to pay to a silent universe.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie sitting alone in a dark kitchen, lips barely moving.",
+    "camera": "Close-up on his mouth whispering silently, low lighting.",
+    "transition": "Slow fade",
+    "mood": "Dread"
+   },
+   {
+    "narration": "I stopped calling my mom. I stopped singing in the shower. I became a ghost in my own skin.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie staring blankly at a cold, unlit stove.",
+    "camera": "Wide shot emphasizing his isolation in the empty room.",
+    "transition": "Match cut",
+    "mood": "Melancholy"
+   },
+   {
+    "narration": "Until today, when the counter hit zero and the world did not end. It simply paused.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie standing frozen as dust motes hang completely still in the air.",
+    "camera": "Slow 360-degree orbit around the frozen man.",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "A robotic voice echoed inside my skull, whispering the final sentence I was destined to utter.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie with wide, terrified eyes, a single tear frozen on his cheek.",
+    "camera": "Extreme close-up on his eye reflecting the glowing zero.",
+    "transition": "Quick zoom",
+    "mood": "Surreal"
+   },
+   {
+    "narration": "I realized I never owned my voice. I was just reading lines from a script written before birth.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie opening his mouth as invisible text scrolls across the screen.",
+    "camera": "Low angle shot looking up at his strained expression.",
+    "transition": "Dissolve",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "My lips move now, forced by a relentless clock, finishing the exact paragraph assigned to my soul.",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie speaking mechanically against his own will.",
+    "camera": "Medium profile shot focusing on his rigid jawline.",
+    "transition": "Fast cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "Are you speaking your own thoughts right now, or just reading from your script?",
+    "visual_prompt": "The same 25-year-old man with messy brown hair and a black hoodie staring directly through the camera lens with dead eyes.",
+    "camera": "Direct-to-camera lock-off shot, uncomfortably close.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "What if your words had an expiration date?",
+  "title": "The Permanent Pause",
+  "caption": "Arthur thought his new smartwatch was tracking his health. Instead, it was counting down every syllable he had left. When the script runs out, silence takes over forever.\n\nWould you spend your remaining words wisely, or stay silent?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "scifi",
+   "thoughtprovoking",
+   "existential",
+   "mystery",
+   "storytelling",
+   "darkfiction",
+   "creativewriting",
+   "plottwist",
+   "mindblown"
+  ]
+ }
+}

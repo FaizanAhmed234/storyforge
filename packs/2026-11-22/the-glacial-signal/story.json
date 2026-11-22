@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Glacial Signal",
+  "logline": "A lonely alpine warden follows a mysterious heartbeat signal down into a frozen abyss, only to discover the horrifying truth about his own identity.",
+  "theme": "Identity, isolation, and artificial purpose.",
+  "twist": "The protagonist is not a human honoring his father's legacy, but the latest replacement clone in an endless cycle of disposable station wardens.",
+  "ending": "He realizes he is just a temporary asset whose eventual death will simply prompt the activation of the next clone.",
+  "scenes": [
+   {
+    "narration": "My father died on this icy mountain twenty years ago, but his heart is still beating inside my station radio.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, stares intensely at a glowing vintage radio inside a dimly lit, frost-covered weather station cabin on a foggy mountain peak.",
+    "camera": "Slow close-up zoom into Leo's pale face reflecting green radio light.",
+    "transition": "Cut",
+    "mood": "Eerie and mysterious"
+   },
+   {
+    "narration": "Every midnight, the static clears into a steady rhythmic thump that matches the exact pace of a terrified human pulse.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, leaning over a wooden desk inside the frost-covered alpine cabin, tweaking the dial of a retro radio audio equalizer.",
+    "camera": "Medium shot with tight focus on his trembling hands adjusting dial controls.",
+    "transition": "Fade to black",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "Company rules strictly forbid leaving the tower after dark, but I grab my climbing gear and trace the signal down.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, secures rope harnesses over his heavy coat inside the dark doorway of the weather station during a howling snowstorm.",
+    "camera": "Low angle tilt-up showcasing his determination against swirling snow.",
+    "transition": "Whip pan",
+    "mood": "Urgent and risky"
+   },
+   {
+    "narration": "I rappel into a hidden crevasse beneath the station, my flashlight beam slicing through relentless blinding sheets of frozen fog.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, rappelling down a dark blue glacial abyss with a heavy headlamp illuminating towering ice walls.",
+    "camera": "High angle tracking shot looking down as he descends into blue shadow.",
+    "transition": "Cut",
+    "mood": "Claustrophobic"
+   },
+   {
+    "narration": "At the bottom sits a massive reinforced steel bunker, its heavy hatch half-buried under decades of undisturbed blue glacial ice.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, standing at the floor of an icy cavern before a giant industrial vault door frozen in thick ice.",
+    "camera": "Wide vertical shot emphasizing the colossal scale of the frozen bunker door.",
+    "transition": "Dissolve",
+    "mood": "Desolate and monumental"
+   },
+   {
+    "narration": "I pry the frozen door open, breathing in stale, metallic air as the glowing radio signal pulses louder right ahead.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, using a crowbar to force open a heavy rusted bunker door, sparks flying in cold darkness.",
+    "camera": "Over-the-shoulder tracking shot following him as he steps into dark facility corridor.",
+    "transition": "Cut",
+    "mood": "Tense and ominous"
+   },
+   {
+    "narration": "Inside, rows of glass cryo-pods line the frost walls, each containing a frozen body wearing my exact brown shearling coat.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, walking down a long subterranean room lined with glowing cryogenic pods holding suspended human figures.",
+    "camera": "Slow forward tracking shot revealing endless rows of illuminated pods.",
+    "transition": "Cut",
+    "mood": "Shocking and strange"
+   },
+   {
+    "narration": "I wipe the ice off the nearest pod visor and stare directly at my own face, complete with my right eyebrow scar.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, wiping frost off a glass pod door, revealing a frozen clone identical to him inside.",
+    "camera": "Extreme close-up split between Leo's horrified eyes and the frozen clone's matching face.",
+    "transition": "Quick flash cut",
+    "mood": "Disturbing and revelatory"
+   },
+   {
+    "narration": "The radio signal isn't coming from my missing father; it's the failing heart monitor of the clone who served right before me.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, looking down at an emergency medical monitor flickering beside a cracked pod labeled 'Subject 33'.",
+    "camera": "Medium close-up tilting down from Leo to the red pulsing digital heart rate graphic.",
+    "transition": "Dissolve",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "I was never guarding this mountain peak; I am just another biological battery waiting for my own heart to vanish into static.",
+    "visual_prompt": "Vertical 9:16 shot. Leo, a 19-year-old guy with messy red hair, a scar over his right eyebrow, wearing a thick brown shearling coat, standing hollow and paralyzed amidst cold blue light, looking directly into camera with realization.",
+    "camera": "Slow push-in to a dramatic centered vertical close-up of Leo's vacant, hopeless gaze.",
+    "transition": "Fade to black",
+    "mood": "Haunting and gut-punching"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The heartbeat wasn't coming from outside.",
+  "title": "The Glacial Signal",
+  "caption": "Thirty years guarding the ice, or so I was told. But when the signal led me to the bottom of the crevasse, I didn't find a survivor\u2014I found the mold. How long have I been walking this frozen shift?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "cinematic",
+   "clone",
+   "isolation",
+   "twist",
+   "dystopian",
+   "thriller",
+   "existential",
+   "myspace"
+  ]
+ }
+}
