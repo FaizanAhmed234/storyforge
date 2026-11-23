@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Birthday Loop",
+  "logline": "A teenager realizes she has lived her eighteenth birthday three hundred times, and today is the day someone finally tries to stop it.",
+  "theme": "The cost of endless time.",
+  "twist": "She is not trapped in a time loop; she is the artificial memory of a girl who died a year ago.",
+  "ending": "Are you ready to wake up now?",
+  "scenes": [
+   {
+    "narration": "Today is my eighteenth birthday, again. Exactly three hundred times, I've blown out these exact same candles.",
+    "visual_prompt": "18-year-old Mia with messy brown hair and a yellow hoodie in a cozy cluttered bedroom blowing out candles on a small cake.",
+    "camera": "Vertical medium close-up, static",
+    "transition": "hard cut",
+    "mood": "surreal"
+   },
+   {
+    "narration": "My little brother walks in at 8:00 AM, drops his coffee mug, and screams the exact same curse word.",
+    "visual_prompt": "18-year-old Mia in yellow hoodie in a cozy bedroom as a teenage boy drops a white mug, coffee spilling on wooden floor.",
+    "camera": "Vertical medium shot, tracking pan",
+    "transition": "quick zoom",
+    "mood": "tense"
+   },
+   {
+    "narration": "I catch the mug before it hits the floor. He stares at me, terrified, because I never catch it.",
+    "visual_prompt": "18-year-old Mia with messy brown hair catching a falling white mug mid-air, her brother staring in shock.",
+    "camera": "Vertical close-up on hands",
+    "transition": "smash cut",
+    "mood": "shocked"
+   },
+   {
+    "narration": "For three hundred days, I was a ghost in my own script. Today, the script just shattered.",
+    "visual_prompt": "18-year-old Mia standing in the kitchen, looking down at her hands shaking, background blurred.",
+    "camera": "Vertical low angle, slow push-in",
+    "transition": "match cut",
+    "mood": "eerie"
+   },
+   {
+    "narration": "I run outside into the relentless rain. The neighbor's dog is frozen mid-bark by the fence.",
+    "visual_prompt": "18-year-old Mia in yellow hoodie running down a suburban street in heavy rain, a brown dog frozen barking.",
+    "camera": "Vertical wide tracking shot",
+    "transition": "fast pan",
+    "mood": "dread"
+   },
+   {
+    "narration": "A stranger stands by my mailbox. He holds a heavy iron key and smiles like he's been waiting.",
+    "visual_prompt": "18-year-old Mia facing an older man in a black coat holding a large iron key by a suburban mailbox in rain.",
+    "camera": "Vertical over-the-shoulder shot",
+    "transition": "jump cut",
+    "mood": "mysterious"
+   },
+   {
+    "narration": "You are not trapped in time, Mia. You are the backup file she left behind.",
+    "visual_prompt": "Close-up of the older man speaking directly to the camera, 18-year-old Mia reflected in his wet glasses.",
+    "camera": "Vertical extreme close-up",
+    "transition": "slow dissolve",
+    "mood": "chilling"
+   },
+   {
+    "narration": "He jams the key into the empty air beside me. A jagged tear opens up in the sky.",
+    "visual_prompt": "18-year-old Mia watching a man twist an invisible key in the air, revealing glowing blue code behind the clouds.",
+    "camera": "Vertical tilt up",
+    "transition": "flash cut",
+    "mood": "sci-fi"
+   },
+   {
+    "narration": "The neighborhood begins to dissolve into gray pixels. My brother, the cake, the rain, all vanish.",
+    "visual_prompt": "18-year-old Mia in yellow hoodie dissolving into digital squares and falling apart against a gray void.",
+    "camera": "Vertical wide static shot",
+    "transition": "glitch cut",
+    "mood": "heartbreaking"
+   },
+   {
+    "narration": "The real Mia died a year ago today. Are you ready to wake up now?",
+    "visual_prompt": "Extreme close-up of 18-year-old Mia's eye opening in a dark, sterile laboratory pod, glowing blue light reflecting.",
+    "camera": "Vertical macro shot",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Living the same day 300 times.",
+  "title": "The Birthday Loop",
+  "caption": "She thought she was trapped in an endless birthday, destined to repeat sweet eighteen forever. But today, someone showed up to pull the plug\u2014because she isn't alive at all. What is the weight of a memory that refuses to fade?",
+  "hashtags": [
+   "scifi",
+   "shortstory",
+   "timeloop",
+   "ai",
+   "existential",
+   "cinematic",
+   "plottwist",
+   "emotional",
+   "writing",
+   "darkscifi"
+  ]
+ }
+}

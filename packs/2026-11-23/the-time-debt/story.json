@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Time Debt",
+  "logline": "A man discovers every second he spends scrolling on his phone is physically stolen from his living grandmother.",
+  "theme": "The true cost of digital distraction.",
+  "twist": "The person aging rapidly in the hospital bed is not his grandmother, but his future self.",
+  "ending": "Why are you still staring at the screen?",
+  "scenes": [
+   {
+    "narration": "Every minute you waste online steals breath straight from someone you love. You just refuse to believe it.",
+    "visual_prompt": "Close up of Leo, 22 years old with messy dark hair wearing a black hoodie, staring wide-eyed at a glowing smartphone in a dark bedroom.",
+    "camera": "Extreme close up, slight handheld shake",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Leo ignored the strange warning app on his phone until his grandmother suddenly collapsed into deep, silent sleep.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, sitting on a messy bed, frantically looking down at his glowing phone screen with a warning alert.",
+    "camera": "Medium shot, push in",
+    "transition": "Quick fade",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "The hospital room smelled like cold antiseptic. Machines beeped a steady, terrifying rhythm that mocked his deep panic.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, standing in a sterile white hospital room beside a quiet bed.",
+    "camera": "Wide tracking shot",
+    "transition": "Match cut",
+    "mood": "Dismal"
+   },
+   {
+    "narration": "He pulled out his phone out of pure habit, opening his favorite social app to numb the sharp pain.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, nervously pulling out his smartphone in the hospital room, screen casting a blue light.",
+    "camera": "Over the shoulder",
+    "transition": "Fast pan",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "Instantly, the heart monitor beside the bed spiked. The flat line threatened to become a permanent, devastating reality.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, watching a hospital monitor spike wildly while holding his phone.",
+    "camera": "Close up on monitor, rack focus to Leo",
+    "transition": "Jump cut",
+    "mood": "Frenetic"
+   },
+   {
+    "narration": "He locked the phone screen. The frantic beeping slowed back down to a steady, cautious, fragile rhythm.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, pressing the side button of his phone with trembling fingers in the hospital room.",
+    "camera": "Medium close up",
+    "transition": "Slow dissolve",
+    "mood": "Relieved"
+   },
+   {
+    "narration": "Curiosity poisoned his mind. He opened a video, watching the monitor drop flat the exact second playback started.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, watching a vertical video on his phone while looking sideways at the bed.",
+    "camera": "Split screen effect",
+    "transition": "Hard cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "He wasn't consuming content. He was consuming her remaining time on Earth, one mindless scroll at a time.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, dropping his phone in absolute horror inside the sterile hospital room.",
+    "camera": "Low angle, dramatic push",
+    "transition": "Fast zoom",
+    "mood": "Horrified"
+   },
+   {
+    "narration": "Leo dropped the glowing device on the tile floor, rushing forward to finally look at the fragile face.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, leaning desperately over the hospital bed to look at the person lying there.",
+    "camera": "Close up on his face",
+    "transition": "Slow push in",
+    "mood": "Heartbroken"
+   },
+   {
+    "narration": "The wrinkled face on the pillow wasn't his grandmother at all. It was his own face, decades older.",
+    "visual_prompt": "Leo, 22, messy dark hair, black hoodie, staring in terror at an older version of himself lying unresponsive in the hospital bed.",
+    "camera": "Extreme close up, slow zoom",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every scroll steals time from someone you love.",
+  "title": "The Time Debt",
+  "caption": "He thought the screen time was harmless entertainment, bleeding away minutes of his grandmother's final days in the hospital. But as the monitor flatlined, he caught his own reflection in the black glass\u2014and saw the wrinkles multiplying across his own face. What are you trading your life away for?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "scifi",
+   "timetravel",
+   "screentime",
+   "distraction",
+   "mindfulness",
+   "darkfables",
+   "twistending",
+   "thriller",
+   "existential"
+  ]
+ }
+}
