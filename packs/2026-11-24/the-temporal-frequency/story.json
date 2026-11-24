@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Temporal Frequency",
+  "logline": "An audio forensic analyst restoring a 25-year-old cold case tape hears a victim whisper his name and warn him about the killer standing behind him in the present.",
+  "theme": "The terrifying weight of acoustic footprints trapped in time.",
+  "twist": "The cold case tape isn't from the past; the studio's experimental acoustic foam is recording audio seconds in the future.",
+  "ending": "Marcus realizes too late that the crime scene on the tape is his own studio room.",
+  "scenes": [
+   {
+    "narration": "I scrub audio from cold cases. Today, a dead girl\u2019s voice whispered my exact full name directly through my headphones.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, sits frozen in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Vertical 9:16 extreme close-up of Marcus's eye dilating in sudden shock.",
+    "transition": "Fast cut",
+    "mood": "Tense and eerie"
+   },
+   {
+    "narration": "The cassette tape was recovered from a burnt cabin in 1999. It had been sitting sealed inside police evidence for decades.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, holds an old dusty cassette tape in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Medium close-up focusing on the dusty yellow evidence label on the cassette.",
+    "transition": "Fade to glow",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "I ran the audio file through my modern restoration software, stripping away twenty-five years of hiss, rain, and digital rot.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, adjusts digital sliders on a mixing console in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Over-the-shoulder shot tracking glowing blue soundwaves across the monitor screen.",
+    "transition": "Whip pan right",
+    "mood": "Focused"
+   },
+   {
+    "narration": "The muffled voice grew crystal clear: 'Marcus, he is already right behind you. Do not turn your head around.'",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, grips his desk tightly in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Low-angle close-up of Marcus swallowing hard in terror.",
+    "transition": "Slow zoom out",
+    "mood": "Dread"
+   },
+   {
+    "narration": "My blood turned to pure ice. I tried telling myself it was just a cruel prank by another audio engineer.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, anxiously rubs his temple in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Tight shot on Marcus's trembling hands resting near the audio control desk.",
+    "transition": "Cut on action",
+    "mood": "Suspicious and uneasy"
+   },
+   {
+    "narration": "I isolated the background frequencies, listening past the girl's trembling breaths to clearly identify the perpetrator's movement.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, leans close to the illuminated screen in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Close-up of the computer interface isolating secondary audio layer tracks.",
+    "transition": "Glitch dissolve",
+    "mood": "Intense focus"
+   },
+   {
+    "narration": "Underneath the harsh static, I heard a silver ring rhythmically tapping on desk wood\u2014the exact pattern I tap while working.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, freezes with his tapping hand hovering over the desk in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Extreme close-up of the silver ring on his index finger touching the wooden desk edge.",
+    "transition": "Match cut",
+    "mood": "Paranoid"
+   },
+   {
+    "narration": "Terrified, I leaned into my studio microphone and asked, 'Who recorded this tape?' My own voice answered instantly from speakers.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, speaks into a vintage microphone in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Profile shot of Marcus speaking into the mic as audio spikes live on monitor screens.",
+    "transition": "Flash cut",
+    "mood": "Shocking revelation"
+   },
+   {
+    "narration": "This was never an old tape from 1999. The experimental foam in this studio traps acoustic energy forward and backward through time.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, slowly backs away from his desk in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "Wide vertical shot showing shadowy wall corners closing in around him.",
+    "transition": "Rack focus",
+    "mood": "Claustrophobic horror"
+   },
+   {
+    "narration": "A shadow stretched across my desk. I scrubbed crime audio for years, never realizing I was editing my own final moments.",
+    "visual_prompt": "Marcus, a 32-year-old man with short buzzed dark hair, wearing a charcoal grey wool sweater and a silver band ring on his index finger, looks up in terror as a dark silhouette looms over him in a cramped basement sound studio lined with dark acoustic foam, illuminated by blue digital soundwave monitors.",
+    "camera": "High-angle tilt down showing a tall dark shadow engulfing Marcus's desk.",
+    "transition": "Fade to black",
+    "mood": "Chilling finale"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The cold case tape spoke his name.",
+  "title": "The Temporal Frequency",
+  "caption": "Cleaning up a 25-year-old audio file gets terrifying when the victim whispers a warning meant for right now. But the ultimate shock isn't who's on the tape\u2014it's what the studio walls are actually recording. Would you dare hit play again?",
+  "hashtags": [
+   "horror",
+   "shortstory",
+   "thriller",
+   "audiophile",
+   "creepypasta",
+   "timetravel",
+   "coldcase",
+   "scarystories",
+   "sounddesign",
+   "suspense",
+   "cinematic"
+  ]
+ }
+}

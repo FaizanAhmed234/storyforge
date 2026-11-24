@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Shadow Weight",
+  "logline": "A young woman realizes her shadow refuses to follow her movements, revealing it has a life and agenda of its own.",
+  "theme": "Identity and autonomy",
+  "twist": "The shadow isn't copying her; she is the one trapped copying the shadow's movements.",
+  "ending": "Who is actually standing in the light right now?",
+  "scenes": [
+   {
+    "narration": "My shadow just took a step while my feet were completely glued to the cold kitchen floor.",
+    "visual_prompt": "Maya, 22, short dark hair, wearing a grey oversized hoodie, standing in a brightly lit modern kitchen.",
+    "camera": "Vertical medium shot, locked off on the floor and her boots.",
+    "transition": "Hard cut",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "I watched in absolute terror as my dark silhouette raised an arm I had not lifted.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, staring down in horror at the kitchen tile.",
+    "camera": "Vertical low angle looking up at her terrified face.",
+    "transition": "Quick zoom",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Panic seized my chest. I backed away from the overhead light, needing distance from the floor.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, stumbling backward against a white apartment wall.",
+    "camera": "Vertical tracking shot moving with her retreat.",
+    "transition": "Smash cut",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "The shadow detached itself from the baseboard, sliding smoothly across the room toward the dark hallway.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, watching a dark floor-bound shape detach and move.",
+    "camera": "Vertical wide shot of the hallway entrance.",
+    "transition": "Pan right",
+    "mood": "Sinister"
+   },
+   {
+    "narration": "I followed it because stopping felt even more dangerous than walking into the unknown darkness.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, stepping hesitantly into a dimly lit corridor.",
+    "camera": "Vertical over-the-shoulder shot.",
+    "transition": "Match cut",
+    "mood": "Dread"
+   },
+   {
+    "narration": "It stopped by the front door, waiting patiently with its hand curled around the brass handle.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, standing in a dark hallway facing a front door.",
+    "camera": "Vertical medium shot framing her and the door.",
+    "transition": "Slow push in",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "When the shadow twisted the lock, my own fingers suddenly snapped to imitate the exact motion.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, her hand violently twitching to match the shadow's action.",
+    "camera": "Vertical close-up on her hands at the lock.",
+    "transition": "Quick snap zoom",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "The heavy front door swung open wide, letting blinding daylight flood into the gloomy apartment.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, blinking hard as bright sunlight pours through the open door.",
+    "camera": "Vertical wide shot facing the bright doorway.",
+    "transition": "Dissolve",
+    "mood": "Overwhelming"
+   },
+   {
+    "narration": "I stepped outside into the street, only to realize the sun was behind me the whole time.",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, standing on a bright city sidewalk, looking down.",
+    "camera": "Vertical tracking shot from behind her.",
+    "transition": "Hard cut",
+    "mood": "Mind-bending"
+   },
+   {
+    "narration": "If the sun is at my back, why is my shadow standing right in front of me?",
+    "visual_prompt": "Maya, 22, short dark hair, grey hoodie, staring straight ahead at a dark figure standing opposite her.",
+    "camera": "Vertical extreme close-up on her wide, terrified eyes.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Who is copying who?",
+  "title": "The Shadow Weight",
+  "caption": "She thought her silhouette had finally broken free from her control. But a terrifying realization hit in the dark: she was the one trapped in the echo.\n\nAre you sure you are the one in control?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfantasy",
+   "psychologicalthriller",
+   "identity",
+   "creepy",
+   "storytelling",
+   "plottwist",
+   "autonomy",
+   "fiction"
+  ]
+ }
+}

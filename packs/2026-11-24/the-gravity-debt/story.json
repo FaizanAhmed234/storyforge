@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Gravity Debt",
+  "logline": "A teenage girl living in a town where people literally weigh less when they lie must decide whether to float away or stay anchored by the truth.",
+  "theme": "The hidden cost of deceit.",
+  "twist": "Her feet never touch the ground because her entire life has been built on a monumental lie told to protect her.",
+  "ending": "If truth is what anchors us, how long can we survive when the ground beneath us is fiction?",
+  "scenes": [
+   {
+    "narration": "Every lie you tell makes you lighter. Tell enough, and you simply float away into the gray sky.",
+    "visual_prompt": "Maya, 17, with messy shoulder-length dark hair and an oversized green hoodie, is tethered by a thick rope to a heavy radiator in her drab bedroom. Vertical 9:16 aspect ratio.",
+    "camera": "Extreme close-up on Maya's face, drifting upward slightly, then pulling back to reveal the rope.",
+    "transition": "Hard cut",
+    "mood": "Tense and atmospheric"
+   },
+   {
+    "narration": "I lied about brushing my teeth this morning, and my left sneaker barely touches the floorboards now.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, inside her messy bedroom. Her left foot hovers three inches off the dusty floor.",
+    "camera": "Medium shot tracking down to her floating shoe, emphasizing the unnatural weightlessness.",
+    "transition": "Smooth pan",
+    "mood": "Uneasy"
+   },
+   {
+    "narration": "My mother stays firmly planted downstairs. She claims she never lies. Not even a tiny white one.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, cautiously opens her bedroom door and looks down the dimly lit hallway.",
+    "camera": "Over-the-shoulder shot looking down the staircase at the solid floor below.",
+    "transition": "Quick zoom",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "I walk down the stairs, gripping the wooden banister tightly so I don't drift into the ceiling.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, descending the stairs with visible effort, knuckles white as she holds the banister.",
+    "camera": "Low angle tracking shot moving backward ahead of her.",
+    "transition": "Cut on action",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "Mom stands by the kitchen counter, feet flat and heavy, chopping vegetables with steady, solid motions.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, entering the rustic kitchen where her mother stands firmly grounded.",
+    "camera": "Two-shot focusing on the stark contrast between Maya's hovering posture and her mother's grounded stance.",
+    "transition": "Match cut",
+    "mood": "Grim"
+   },
+   {
+    "narration": "I ate the last slice of pie, but I told her the neighbor's dog broke in and stole it.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, standing in the kitchen, her body lifting off the tiles until her shoulders press against the ceiling.",
+    "camera": "Wide shot tilting up as Maya floats helplessly to the ceiling.",
+    "transition": "Fast pan up",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "Mom looks up, sighs, and hands me the heavy iron anchor she keeps ready for my constant dishonesty.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, pinned to the ceiling, reaching down to grab a rusted iron dumbbell handed up by her mother.",
+    "camera": "High angle looking straight down from the ceiling.",
+    "transition": "Dissolve",
+    "mood": "Melancholy"
+   },
+   {
+    "narration": "I clutch the iron to my chest, dropping back down to the floor with a dull, heavy thud.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, dropping back onto the kitchen floor, clutching the heavy iron weight against her chest.",
+    "camera": "Medium close-up on Maya's face exhaling in relief.",
+    "transition": "Quick cut",
+    "mood": "Relieved"
+   },
+   {
+    "narration": "Then she looks me in the eye and drops the heaviest truth of all, shattering everything instantly.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, standing in the kitchen while her mother steps back and her mother's feet begin to rise off the floor.",
+    "camera": "Wide shot showing the mother detaching from the ground and floating upward.",
+    "transition": "Slow push-in",
+    "mood": "Mind-bending"
+   },
+   {
+    "narration": "She says she never lied to protect me... except for the biggest one about who I really am.",
+    "visual_prompt": "Maya, 17, dark hair, green hoodie, standing alone on the kitchen floor as her mother drifts endlessly into the high ceiling, smiling sadly.",
+    "camera": "Extreme wide shot emphasizing Maya alone on the heavy floor while her mother floats away.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Lies make you lighter. Truth anchors you.",
+  "title": "The Gravity Debt",
+  "caption": "In a town where every deception steals your gravity, floating is the ultimate warning. But what happens when the lie keeping you grounded isn't yours?\n\nWould you risk floating away to finally touch the earth?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "scifi",
+   "magicalrealism",
+   "writing",
+   "fiction",
+   "storytelling",
+   "booktok",
+   "imagination",
+   "thriller",
+   "drama"
+  ]
+ }
+}
