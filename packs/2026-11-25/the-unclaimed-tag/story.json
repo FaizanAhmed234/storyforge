@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Unclaimed Tag",
+  "logline": "A lost-and-found clerk discovers that the abandoned items in her warehouse possess lingering warmth, only to realize her own jacket is sitting in the unclaimed bin.",
+  "theme": "Grief, memory, and the terror of being forgotten.",
+  "twist": "The clerk isn't an employee helping lost souls; she died three years ago and is herself an unclaimed item waiting in limbo.",
+  "ending": "A haunting realization that prompts the viewer to ponder if anyone is keeping their memory alive.",
+  "scenes": [
+   {
+    "narration": "I found my own apartment key sitting on the lost-and-found counter, glowing scorching hot under the flickering fluorescent lighting.",
+    "visual_prompt": "Vertical 9:16 frame. Close-up shot of a brass house key resting on a wooden counter, emitting a faint red thermal glow. 26-year-old Maya, dark hair in a messy ponytail with a neon pink streak, wearing a faded blue denim jacket over a grey hoodie, stares down in shock inside a dimly lit subterranean lost-and-found archive with towering metal shelves.",
+    "camera": "Slow close-up zoom into the glowing key",
+    "transition": "Cut to",
+    "mood": "Mysterious"
+   },
+   {
+    "narration": "For three exhausting years, I\u2019ve cataloged forgotten objects inside this basement archive, but nobody ever comes back to claim them.",
+    "visual_prompt": "Vertical 9:16 frame. Medium shot of 26-year-old Maya with dark ponytail and neon pink streak, wearing her faded blue denim jacket over a grey hoodie, walking through narrow aisles of a subterranean warehouse packed with shelves of old suitcases, umbrella stands, and boxed items.",
+    "camera": "Tracking backward shot ahead of Maya",
+    "transition": "Dissolve",
+    "mood": "Atmospheric"
+   },
+   {
+    "narration": "Every lost item carries a physical pulse, a lingering hum of heat left behind by the person who held it last.",
+    "visual_prompt": "Vertical 9:16 frame. Close-up of Maya's hands in fingerless gloves touching a vintage leather handbag on a shelf; orange light ripples across the leather texture. Maya (26, pink-streaked ponytail, denim jacket over grey hoodie) is visible in profile.",
+    "camera": "Macro lens slow tilt upward",
+    "transition": "Cut to",
+    "mood": "Wonder"
+   },
+   {
+    "narration": "This morning, a silver pocket watch hummed so violently that its glass face shattered, pointing straight toward my timecard.",
+    "visual_prompt": "Vertical 9:16 frame. A silver pocket watch exploding its glass crystal on a metal table. In the background, Maya (26, pink streak in ponytail, denim jacket) flinches back inside the dark basement archive.",
+    "camera": "High-speed freeze frame effect",
+    "transition": "Wipe",
+    "mood": "Tense"
+   },
+   {
+    "narration": "I flipped through the thick leather logbook to report the accident, only to find my own handwriting logging tomorrow\u2019s inventory.",
+    "visual_prompt": "Vertical 9:16 frame. Over-the-shoulder shot looking down at an ancient leather-bound ledger. Maya's hands turn pages covered in neat handwriting dated tomorrow. Maya (26, dark ponytail with pink streak) stands in the dimly lit basement archive.",
+    "camera": "Over-the-shoulder static shot",
+    "transition": "Cut to",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "Driven by sudden panic, I sprinted down aisle nine, where rows of towering shelves held glowing coats, rings, and abandoned keys.",
+    "visual_prompt": "Vertical 9:16 frame. Wide low-angle shot looking down a dark aisle of metal shelves glowing with faint thermal lights. Maya (26, ponytail with pink streak, blue denim jacket) runs down the center corridor away from camera.",
+    "camera": "Fast whip-pan tracking run",
+    "transition": "Match cut",
+    "mood": "Urgent"
+   },
+   {
+    "narration": "At the end of the aisle sat a solitary wooden crate labeled with my full name and today\u2019s precise date.",
+    "visual_prompt": "Vertical 9:16 frame. Medium shot of a heavy oak box on a low shelf, stencil-printed with bold black text reading MAYA L. - OCT 24. Maya (26, pink streak, blue denim jacket over grey hoodie) kneels slowly in front of it in the subterranean archive.",
+    "camera": "Slow tilt down to the crate",
+    "transition": "Cut to",
+    "mood": "Dread"
+   },
+   {
+    "narration": "Inside lay my favourite denim jacket, now ice-cold, tagged with a metal label that marked me as completely unclaimed.",
+    "visual_prompt": "Vertical 9:16 frame. High angle shot looking into the wooden crate. Inside is an identical faded blue denim jacket, covered in frost, with a shiny steel toe-tag reading UNCLAIMED. Maya (26, pink streak ponytail) reaches out with trembling hands.",
+    "camera": "Top-down bird's eye slow descend",
+    "transition": "Dissolve",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I was never the clerk saving forgotten lives; I was the lost item, waiting three empty years for someone to remember.",
+    "visual_prompt": "Vertical 9:16 frame. Medium shot of Maya (26, ponytail with neon pink streak, denim jacket) looking directly into camera as her body begins to turn translucent, revealing dusty warehouse shelves behind her.",
+    "camera": "Push-in medium close-up",
+    "transition": "Fade to black",
+    "mood": "Heartbreaking"
+   },
+   {
+    "narration": "When you touch your warm apartment key tonight, remember that someone might still be waiting in the dark for you.",
+    "visual_prompt": "Vertical 9:16 frame. Cinematic final shot of an empty warehouse aisle where Maya stood, her brass key sitting alone on the cold floor, still pulsing with a soft crimson glow.",
+    "camera": "Slow backward pull-out into darkness",
+    "transition": "Fade out",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Her own jacket was in the bin.",
+  "title": "The Unclaimed Tag",
+  "caption": "She spent years cataloging the warmth of other people's memories, never realizing her own time had already run out. How do you let go when you are the forgotten one?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "grief",
+   "limbo",
+   "memory",
+   "ghoststory",
+   "existential",
+   "storytelling",
+   "plottwist",
+   "writingcommunity"
+  ]
+ }
+}

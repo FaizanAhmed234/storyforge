@@ -1218,5 +1218,20 @@
   "title": "The Tenant's Lease",
   "status": "skipped (no YouTube credentials; download the video artifact)",
   "time": "2026-11-25T03:01:35.638542"
+ },
+ {
+  "title": "The Echo Lease",
+  "status": "pack",
+  "time": "2026-11-25T10:54:37.021537"
+ },
+ {
+  "title": "The Unclaimed Tag",
+  "status": "pack",
+  "time": "2026-11-25T10:56:28.451513"
+ },
+ {
+  "title": "The Exit Weight",
+  "status": "pack",
+  "time": "2026-11-25T10:58:00.640503"
  }
 ]

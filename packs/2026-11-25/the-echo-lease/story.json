@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Echo Lease",
+  "logline": "A tenant discovers his apartment's walls are recording his future conversations, warning him of a deadly choice he hasn't made yet.",
+  "theme": "predestination and free will",
+  "twist": "The voice warning him about the murder is actually his own future self, trying to stop him from committing it.",
+  "ending": "If the wall just spoke my dying breath, whose hand is holding the knife right now?",
+  "scenes": [
+   {
+    "narration": "My living room wall just whispered tonight's exact grocery list before I even thought of it.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt stands frozen in a cramped, dimly lit urban apartment.",
+    "camera": "Extreme close-up on his wide, terrified eyes",
+    "transition": "hard cut",
+    "mood": "tense"
+   },
+   {
+    "narration": "I pressed my ear against the cold plaster, hearing the faint murmur of my own voice talking back.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt presses his ear to the peeling wallpaper of a cramped apartment.",
+    "camera": "Medium tracking shot slowly circling him",
+    "transition": "smooth dissolve",
+    "mood": "uncanny"
+   },
+   {
+    "narration": "It recited every broken promise I made today, spoken by a mouth I cannot see hiding behind the drywall.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt stares at the wall in disbelief, holding a coffee mug.",
+    "camera": "Over-the-shoulder shot looking at the blank wall",
+    "transition": "quick cut",
+    "mood": "paranoid"
+   },
+   {
+    "narration": "The rent is cheap because the previous tenant never left. They are just buried deep inside the mortar.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt drops his mug, shattering it on the wooden floor.",
+    "camera": "Low angle tracking the falling mug to the floor",
+    "transition": "smash cut",
+    "mood": "dread"
+   },
+   {
+    "narration": "Then the wall stopped echoing the past. It started narrating a horrifying argument I am about to have.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt backs away from the wall, gripping his head in panic.",
+    "camera": "Handheld push-in on his panicked face",
+    "transition": "fast zoom",
+    "mood": "frenzied"
+   },
+   {
+    "narration": "A stranger steps through my front door in the audio, shouting demands I refuse to ever accept.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt turns sharply toward the apartment entrance door.",
+    "camera": "Wide shot framing the shadowy hallway entrance",
+    "transition": "hard cut",
+    "mood": "ominous"
+   },
+   {
+    "narration": "The plaster crackles loudly, spitting out the sound of shattering glass and a desperate plea for mercy.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt watches dust fall from the cracking wall surface.",
+    "camera": "Macro shot of plaster spider-webbing and splitting",
+    "transition": "slow push",
+    "mood": "chilling"
+   },
+   {
+    "narration": "I grabbed a heavy iron poker to defend myself against the unseen ghost trapped inside my home.",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt grips a heavy iron fireplace poker with trembling hands.",
+    "camera": "Tight profile shot focusing on his white-knuckled grip",
+    "transition": "quick cut",
+    "mood": "aggressive"
+   },
+   {
+    "narration": "The wall gasped its final warning: 'Stop swinging the iron, you idiot, you are killing me!'",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt freezes mid-swing, staring in horror at a bloody handprint on the wall.",
+    "camera": "Whip pan from his face to the sudden bloody mark",
+    "transition": "hard cut",
+    "mood": "shocking"
+   },
+   {
+    "narration": "If the wall just spoke my dying breath, whose hand is holding the knife right now?",
+    "visual_prompt": "A 25-year-old man with messy brown hair wearing a faded gray t-shirt looks down in utter shock at his own reflection in a dark window.",
+    "camera": "Static medium shot with deep shadows framing him",
+    "transition": "fade to black",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "The walls whispered my future murder.",
+  "title": "The Echo Lease",
+  "caption": "My apartment plays yesterday's sounds, but tonight it played tomorrow's crime. The voice begging me not to pull the trigger sounded sickeningly familiar\u2014it was mine. If my future is already recorded, do I even have a choice?",
+  "hashtags": [
+   "thriller",
+   "scifi",
+   "shortstory",
+   "cinematic",
+   "predestination",
+   "darkfiction",
+   "mystery",
+   "psychological",
+   "storytime",
+   "suspense"
+  ]
+ }
+}
