@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Last Bookmark",
+  "logline": "A woman discovers her library books are returning themselves with margin notes written in her own future handwriting.",
+  "theme": "predestination and choice",
+  "twist": "The notes are not warnings from her future self, but suicide countdowns she is subconsciously writing.",
+  "ending": "If every page is already written, who is holding the pen?",
+  "scenes": [
+   {
+    "narration": "My library book returned itself yesterday. Inside the back cover, a margin note written in my exact handwriting said: page twelve.",
+    "visual_prompt": "A 25-year-old woman with messy dark hair and a gray oversized hoodie holding an open hardcover book in a dimly lit apartment.",
+    "camera": "Vertical medium shot focusing on the book margins.",
+    "transition": "hard cut",
+    "mood": "eerie"
+   },
+   {
+    "narration": "I opened page twelve with shaking fingers. A single sentence stared back at me, predicting every word I would speak today.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie staring wide-eyed at the book pages in the dim apartment.",
+    "camera": "Extreme close-up on her terrified eyes, then dropping to the page.",
+    "transition": "quick zoom",
+    "mood": "suspenseful"
+   },
+   {
+    "narration": "I tried to defy the book. I stayed silent all afternoon. But the margin note had already predicted my silence.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie sitting rigidly on a worn couch, refusing to speak.",
+    "camera": "Vertical wide shot tracking her tense posture.",
+    "transition": "smooth pan",
+    "mood": "paranoid"
+   },
+   {
+    "narration": "Panic pulled me back to the library. The old librarian smiled, sliding three more stacks across the wooden desk.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie standing at a towering wooden library desk facing an elderly clerk.",
+    "camera": "Over-the-shoulder shot framing the tall stacks of books.",
+    "transition": "jump cut",
+    "mood": "ominous"
+   },
+   {
+    "narration": "Every single book bore my handwriting. Each volume chronicled the final hours of my life, chapter by terrifying chapter.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie frantically flipping through dozens of books on a library table.",
+    "camera": "Vertical fast-paced tracking shot around the table.",
+    "transition": "spin blur",
+    "mood": "frantic"
+   },
+   {
+    "narration": "Chapter seven described this exact room, the flickering fluorescent light, and the cold metal of the emergency exit.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie under a buzzing fluorescent light in a narrow hallway.",
+    "camera": "Low angle looking up at her face bathed in harsh light.",
+    "transition": "hard cut",
+    "mood": "claustrophobic"
+   },
+   {
+    "narration": "I grabbed a pen, determined to rewrite the ending. If I crossed out the final chapter, I could break the cycle.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie gripping a black pen, aggressively scribbling across book pages.",
+    "camera": "Close-up on the frantic hand movements and shredded paper.",
+    "transition": "fast push-in",
+    "mood": "desperate"
+   },
+   {
+    "narration": "The ink bled through the paper, revealing text underneath that I hadn't written yet, but my hand was moving.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie watching her own hand write words against her conscious will.",
+    "camera": "High angle looking directly down at the moving hand.",
+    "transition": "slow zoom",
+    "mood": "terrifying"
+   },
+   {
+    "narration": "My eyes widened as I realized the cruel truth. I wasn't reading my future. I was authoring my own demise.",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie freezing mid-stroke, realization dawning on her pale face.",
+    "camera": "Vertical extreme close-up on her tearful eyes.",
+    "transition": "fade to black",
+    "mood": "devastating"
+   },
+   {
+    "narration": "The final page was blank, waiting for my final stroke. If every page is already written, who is holding the pen?",
+    "visual_prompt": "The same 25-year-old woman with dark hair and a gray hoodie holding the pen over a completely blank final page in darkness.",
+    "camera": "Static wide shot holding on the solitary figure in shadow.",
+    "transition": "slow fade",
+    "mood": "haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "My future handwriting. My final countdown.",
+  "title": "The Last Bookmark",
+  "caption": "For weeks, my library returns came back with mysterious notes in my own handwriting. I thought my future self was sending warnings. Until I realized I was counting down my final days.",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "thriller",
+   "psychological",
+   "predestination",
+   "darkfiction",
+   "plottwist",
+   "mystery",
+   "writing",
+   "suspense"
+  ]
+ }
+}

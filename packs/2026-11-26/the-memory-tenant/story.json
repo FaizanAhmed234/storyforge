@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Memory Tenant",
+  "logline": "A woman discovers her landlord is charging her rent not in cash, but in her happiest childhood memories.",
+  "theme": "The true cost of holding onto the past",
+  "twist": "The landlord is actually her future self, trying to survive a desolate future by stealing joy.",
+  "ending": "If I pay this month, who will I be tomorrow?",
+  "scenes": [
+   {
+    "narration": "My landlord doesn't want my money. He wants my very first birthday party, paid in full today.",
+    "visual_prompt": "Maya, a 25-year-old woman with messy dark hair and a faded yellow sweater, inside a dim wooden hallway.",
+    "camera": "Extreme close-up on Maya's terrified eyes, pushing in rapidly.",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "Maya, a 25-year-old woman with messy dark hair and a faded yellow sweater, hands over the glowing orb of cake and laughter.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, standing in the dim wooden hallway, holding a glowing blue memory sphere.",
+    "camera": "Medium shot tracking backward as she extends her trembling hands.",
+    "transition": "Smooth pan",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "The old man swallows the light. Instantly, my mind goes blank. The chocolate cake? Never existed.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, in the dim hallway, watching an elderly man swallow a glowing light.",
+    "camera": "Over-the-shoulder shot focusing on the old man's greedy face.",
+    "transition": "Quick zoom",
+    "mood": "Unsettling"
+   },
+   {
+    "narration": "Rent is due every week. If the account is empty, you vanish from this world completely. No exceptions.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, staring at a massive ledger on a dark wooden desk.",
+    "camera": "Low angle looking up at Maya as fear crosses her features.",
+    "transition": "Jump cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "I search my brain for anything left. Summer rain, first kisses, my mother's warm embrace on cold nights.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, sitting on a bare mattress in a sterile room, clutching her head.",
+    "camera": "Close-up on her face, shallow depth of field.",
+    "transition": "Dissolve",
+    "mood": "Melancholic"
+   },
+   {
+    "narration": "He knocks again. Next month's price is steep. He demands the day I learned how to ride a bike.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, looking toward a heavy oak apartment door as fist knocks.",
+    "camera": "Static medium shot, watching the door rattle violently.",
+    "transition": "Hard cut",
+    "mood": "Ominous"
+   },
+   {
+    "narration": "I refuse to give it up. I pull back his sleeve to see why he needs my joy so badly.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, grabbing the old man's wrinkled wrist in the dim hallway.",
+    "camera": "Close-up on the gripping hands, dramatic side lighting.",
+    "transition": "Fast push-in",
+    "mood": "Confrontational"
+   },
+   {
+    "narration": "There is a scar on his arm. The exact same jagged scar I received when I fell at age ten.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, staring in horror at a jagged scar on the old man's bare forearm.",
+    "camera": "Extreme close-up on the matching scar.",
+    "transition": "Flash cut",
+    "mood": "Shocking"
+   },
+   {
+    "narration": "He looks at me with hollow, weeping eyes. He whispers that this is the only way we survive.",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, facing an older version of herself in the mirror-like hallway light.",
+    "camera": "Two-shot reflecting both faces in a cracked mirror.",
+    "transition": "Slow pan",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "If I pay this month's rent with my past, who will I be tomorrow?",
+    "visual_prompt": "Maya, 25, dark messy hair, faded yellow sweater, standing alone in a completely white, empty void.",
+    "camera": "Wide cinematic shot, slowly zooming out into total darkness.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Rent is due. Pay with a memory.",
+  "title": "The Memory Tenant",
+  "caption": "She thought her landlord was just eccentric. Until she realized the apartment was eating her childhood, one happy moment at a time. What would you pay to keep a roof over your head?",
+  "hashtags": [
+   "shortfilm",
+   "cinematic",
+   "scifi",
+   "darkfantasy",
+   "nostalgia",
+   "storytelling",
+   "mindblown",
+   "indiefilm",
+   "timeparadox",
+   "thriller",
+   "creativesuspense"
+  ]
+ }
+}
