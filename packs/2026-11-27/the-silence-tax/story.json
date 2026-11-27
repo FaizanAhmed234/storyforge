@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Silence Tax",
+  "logline": "A woman discovers her city charges inhabitants by the decibel for every word they speak, forcing her to decide if her voice is worth going broke.",
+  "theme": "The cost of self-expression in an over-regulated society.",
+  "twist": "The debt collectors aren't charging for sounds made, but are actually harvesting the spoken words to sell back as prerecorded memories.",
+  "ending": "If every word you utter builds a cage, how long until you choose to stay locked inside forever?",
+  "scenes": [
+   {
+    "narration": "They charged my mother three hundred dollars yesterday just for crying too loudly at her own brother's funeral.",
+    "visual_prompt": "Maya, a 25-year-old woman with messy dark curls wearing a worn gray hoodie, stands in a cramped neon-lit apartment looking at a glowing meter on the wall.",
+    "camera": "Close-up on Maya's face, shifting focus to the glowing red numbers on the wall meter.",
+    "transition": "Hard cut",
+    "mood": "Oppressive and tense"
+   },
+   {
+    "narration": "Every single sound in this city has a price tag attached by the relentless, invisible hands of the municipal board.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, walks down a gray concrete city street past giant digital billboards displaying fluctuating sound tariffs.",
+    "camera": "Tracking shot moving backward in front of Maya, keeping her centered against the blurred towering buildings.",
+    "transition": "Smash cut",
+    "mood": "Cold and dystopian"
+   },
+   {
+    "narration": "I whispered a secret to my best friend, and my bank account drained before the final syllable left my lips.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, sits inside a sterile cafe, covering her mouth with one trembling hand while staring at her phone screen.",
+    "camera": "Over-the-shoulder shot focusing on the frantic red warning notification blinking on the mobile display.",
+    "transition": "Quick dissolve",
+    "mood": "Panicked"
+   },
+   {
+    "narration": "We live in a world where holding your breath is cheaper than daring to speak your mind out loud.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, stands in a crowded subway car where all passengers wear thick digital muzzles, staring blankly ahead.",
+    "camera": "Wide static shot capturing the silent, frozen crowd surrounding a trapped-looking Maya.",
+    "transition": "Hard cut",
+    "mood": "Eerie and suffocating"
+   },
+   {
+    "narration": "Today my balance hit zero, meaning I officially lost the legal right to utter another single word in public.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, stands before an ominous black kiosk displaying a bold zero-balance warning in crimson text.",
+    "camera": "Low-angle shot making the black kiosk look towering and menacing over Maya.",
+    "transition": "Fast zoom",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "That is when I noticed the sleek fiber-optic cables running directly from the city's audio sensors into corporate vaults.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, peers into an open maintenance hatch in a dark alleyway, revealing thick glowing cables.",
+    "camera": "Extreme close-up on Maya's wide, horrified eyes reflecting the pulsing blue light of the hidden cables.",
+    "transition": "Match cut",
+    "mood": "Suspenseful"
+   },
+   {
+    "narration": "They are not just taxing our conversations. They are recording, packaging, and selling our deepest memories back to tourists.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, watches a high-end storefront where shoppers buy canned audio jars labeled with human grief and joy.",
+    "camera": "Pan right from Maya's furious face to the glowing shelves filled with glass jars of captured sound.",
+    "transition": "Whip pan",
+    "mood": "Revolting"
+   },
+   {
+    "narration": "My stolen words are sitting on a luxury shelf right now, waiting for a stranger to buy my laughter.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, reaches out a trembling hand toward a glass jar on the shelf inside the brightly lit store.",
+    "camera": "Rack focus from the foreground glass jar to Maya's determined, angry expression.",
+    "transition": "Slow push in",
+    "mood": "Fierce"
+   },
+   {
+    "narration": "I take a deep breath, open my mouth wide, and scream the loudest, most expensive rebellion this city has ever heard.",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, throws her head back in the middle of the crowded store, screaming as the store alarms blare.",
+    "camera": "Dynamic swirling shot rotating 360 degrees around Maya as she unleashes her scream.",
+    "transition": "Flash cut",
+    "mood": "Exhilarating"
+   },
+   {
+    "narration": "If every word you utter builds a cage, how long until you choose to stay locked inside forever?",
+    "visual_prompt": "Maya, 25, dark curls, worn gray hoodie, stands completely still in absolute darkness, a single red security light flashing across her unblinking face.",
+    "camera": "Static extreme close-up on Maya's eyes as the screen slowly fades to total blackness.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every word you speak has a price.",
+  "title": "The Silence Tax",
+  "caption": "In a city where conversation drains your bank account, staying quiet feels like survival. But when she discovers where her stolen words actually go, the silence becomes deafening. What price would you pay to be heard?",
+  "hashtags": [
+   "dystopian",
+   "shortstory",
+   "scifi",
+   "writing",
+   "fiction",
+   "booktok",
+   "thriller",
+   "cyberpunk",
+   "storytime",
+   "creativewriting"
+  ]
+ }
+}

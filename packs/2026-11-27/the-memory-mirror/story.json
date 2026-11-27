@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Memory Mirror",
+  "logline": "A woman discovers her mirror reflection acts three seconds ahead of her, trying to warn her of a fatal mistake.",
+  "theme": "The illusion of control over our own final moments.",
+  "twist": "She realizes she is not the living person, but the reflection trying to break through the glass.",
+  "ending": "Who is trapped on the other side of your glass right now?",
+  "scenes": [
+   {
+    "narration": "My reflection just blinked three full seconds before I did, shattering every law of nature in my quiet bathroom.",
+    "visual_prompt": "Vertical 9:16. Clara, a 28-year-old woman with messy dark hair and a faded gray hoodie, stares wide-eyed at a vintage bathroom mirror.",
+    "camera": "Extreme close-up on Clara's startled eyes, rack focus to the mirror.",
+    "transition": "Hard cut",
+    "mood": "Eerie and shocking"
+   },
+   {
+    "narration": "I froze, watching her raise a trembling hand to press flat against the cold glass surface ahead of me.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, inside a dimly lit tiled bathroom, staring in horror at the mirror.",
+    "camera": "Medium shot from behind Clara, showing her back and her reflection already moving.",
+    "transition": "Smooth match cut",
+    "mood": "Tense and unnerving"
+   },
+   {
+    "narration": "My own hand lifted a second later to match hers, but her fingers were already tracing desperate words backward.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, in the bathroom, pressing her palm against the misty glass.",
+    "camera": "Close-up on the glass interface where breath fog reveals frantic backward writing.",
+    "transition": "Quick pan",
+    "mood": "Frenetic and rising"
+   },
+   {
+    "narration": "The letters spelled out a warning I refused to read: 'Step back, she is coming behind you.'",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, in the bathroom, reading the backward text on the mirror.",
+    "camera": "Over-the-shoulder shot focusing on the backward words forming on the glass.",
+    "transition": "Jolting zoom-in",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "A sudden shadow fell across the bathroom doorway, blocking the harsh hallway light and freezing my breath.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, turning her head rapidly toward the dark doorway of the bathroom.",
+    "camera": "Wide angle from inside the bathroom, framing the dark hallway threshold.",
+    "transition": "Rapid push-in",
+    "mood": "Menacing"
+   },
+   {
+    "narration": "I spun around to face the intruder, but the hallway was completely empty, silent, and bitterly cold.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, spinning around in the narrow, empty apartment hallway.",
+    "camera": "Tracking shot following her frantic spin into the empty corridor.",
+    "transition": "Whip pan",
+    "mood": "Desolate"
+   },
+   {
+    "narration": "When I looked back at the mirror, my reflection was smiling with a terrifying, absolute sense of relief.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, looking back into the bathroom mirror with sudden dread.",
+    "camera": "Medium shot facing Clara as she looks into the glass.",
+    "transition": "Quick cut",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "She slammed her fist through the glass, and jagged shards exploded outward into my empty hallway.",
+    "visual_prompt": "Clara's reflection, 28, dark hair, gray hoodie, violently punching outward from inside the mirror.",
+    "camera": "Dynamic low angle capturing the glass shattering directly toward the lens.",
+    "transition": "Shatter effect cut",
+    "mood": "Violent and explosive"
+   },
+   {
+    "narration": "Suddenly, I was the one standing inside the cold frame, watching her bleed on the real floor.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, now trapped inside the vintage mirror frame, looking out.",
+    "camera": "POV shot looking through the broken mirror frame at the bathroom floor.",
+    "transition": "Slow fade",
+    "mood": "Tragic and surreal"
+   },
+   {
+    "narration": "She touched the glass from the outside, crying as she realized too late who was trapped inside.",
+    "visual_prompt": "Clara, 28, dark hair, gray hoodie, touching the glass surface from the outside world.",
+    "camera": "Close-up on the two hands pressing against the glass divider from opposite sides.",
+    "transition": "Final fade to black",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Three seconds ahead of life and death.",
+  "title": "The Memory Mirror",
+  "caption": "She thought the glass was warning her about a fatal mistake. But as the shattering truth sets in, she realizes she isn't the one holding the breath.\n\nWho is trapped on the wrong side of reality?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "thriller",
+   "plottwist",
+   "scifi",
+   "mindblown",
+   "storytelling",
+   "suspense",
+   "darkfiction",
+   "creepy"
+  ]
+ }
+}
