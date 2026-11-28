@@ -1,0 +1,99 @@
+{
+ "story": {
+  "title": "The Ghost Note",
+  "logline": "A pianist discovers the melody she plays every night is actually a warning from her future self.",
+  "theme": "Time and regret",
+  "twist": "She is not playing to remember the past, but trying to prevent the fire that traps her tonight.",
+  "ending": "Will you listen when the song plays again?",
+  "scenes": [
+   {
+    "narration": "My fingers never bleed, yet every single night this piano demands the exact same price in pure terror.",
+    "visual_prompt": "Maya, 20-year-old woman with messy dark hair and a faded oversized hoodie, playing an old upright piano in a dimly lit wooden room.",
+    "camera": "Extreme close-up on her trembling fingers pressing the ivory keys.",
+    "transition": "Hard cut",
+    "mood": "Tense"
+   },
+   {
+    "narration": "The score on the music stand is entirely blank, but I hear every haunting note echo through the dark.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, staring at completely blank sheet music on the wooden piano.",
+    "camera": "Medium shot over her shoulder facing the blank paper.",
+    "transition": "Smooth pan",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Smoke curls lazily from the floorboards beneath the bench, smelling faintly of old ash and burning copper.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, looking down in panic as gray smoke seeps from the floorboards.",
+    "camera": "Low angle tracking shot looking up at her terrified face.",
+    "transition": "Fast zoom",
+    "mood": "Alarming"
+   },
+   {
+    "narration": "I tried to stop playing once, but the room instantly grew so cold my breath turned to frost.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, shivering violently as a visible cloud of frost leaves her mouth.",
+    "camera": "Close-up on her face, shallow depth of field.",
+    "transition": "Match cut",
+    "mood": "Freezing"
+   },
+   {
+    "narration": "The melody is a countdown, forcing my hands to move faster as the heat rises around the room.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, playing frantically as orange light flickers on the walls.",
+    "camera": "Rapid whip pan from her hands to the glowing walls.",
+    "transition": "Quick fade",
+    "mood": "Frantic"
+   },
+   {
+    "narration": "Every key I strike hammers a nail into a door that has already been locked from the outside.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, slamming her hands down on the keys with tears in her eyes.",
+    "camera": "Dutch angle medium shot showing flames in the background.",
+    "transition": "Hard cut",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "I finally recognize the haunting rhythm. It is not music at all. It is my own dying heartbeat.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, clutching her chest with one hand while the other hits a final chord.",
+    "camera": "Extreme close-up on her tear-filled, wide eye reflecting fire.",
+    "transition": "Slow push in",
+    "mood": "Tragic"
+   },
+   {
+    "narration": "The front door bursts into flames outside, proving the warning I refused to believe until it was too late.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, turning her head toward a doorway consumed by roaring yellow fire.",
+    "camera": "Wide shot framing her small figure against the giant wall of fire.",
+    "transition": "Fast cut",
+    "mood": "Terrifying"
+   },
+   {
+    "narration": "As the roof collapses, my fingers hit the final note, sealing the loop for tomorrow night's performance.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, disappearing into thick black smoke as the piano burns.",
+    "camera": "Overhead bird's eye view pulling slowly upward.",
+    "transition": "Fade to black",
+    "mood": "Haunting"
+   },
+   {
+    "narration": "Now the room is silent again. My fingers hover over the ivory keys, waiting for the very first note.",
+    "visual_prompt": "Maya, 20-year-old with messy dark hair and oversized hoodie, sitting unharmed at the pristine piano in the quiet, unburned room.",
+    "camera": "Static medium shot identical to the very first frame.",
+    "transition": "Loop cut",
+    "mood": "Unsettling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every night, she plays the same fire.",
+  "title": "The Ghost Note",
+  "caption": "She thought the phantom melody was just muscle memory, a haunting reminder of what she used to be. But as the smoke begins to curl beneath the door, she realizes every misplaced note was a desperate countdown. How do you stop a tragedy when you're already caught in the flame?",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "timeloop",
+   "mystery",
+   "suspense",
+   "piano",
+   "thriller",
+   "regret",
+   "storytime",
+   "darkacademia",
+   "plottwist"
+  ]
+ }
+}

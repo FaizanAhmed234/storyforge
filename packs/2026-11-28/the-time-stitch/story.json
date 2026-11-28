@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Time Stitch",
+  "logline": "A tailor alters a vintage coat and discovers every stitch removes a year from his own life.",
+  "theme": "The hidden cost of mending the past.",
+  "twist": "The coat belongs to his future self, who already altered it out of existence.",
+  "ending": "Would you rewrite your history if it meant vanishing before you finished the final seam?",
+  "scenes": [
+   {
+    "narration": "My hands stopped shaking the exact moment the heavy wool coat whispered my true name out loud.",
+    "visual_prompt": "Close-up of Leo, a 25-year-old tailor with messy brown hair and a worn denim apron, in a dimly lit, cluttered sewing shop.",
+    "camera": "Extreme close-up tracking shot on the moving fabric",
+    "transition": "hard cut",
+    "mood": "eerie and mysterious"
+   },
+   {
+    "narration": "I never asked to inherit this cursed sewing machine or the dusty tailor shop left behind by my uncle.",
+    "visual_prompt": "Medium shot of Leo, 25, messy brown hair, wearing a worn denim apron, staring at an antique brass sewing machine in his cluttered shop.",
+    "camera": "Slow push-in",
+    "transition": "smooth dissolve",
+    "mood": "tense and melancholic"
+   },
+   {
+    "narration": "Each time I fix a torn seam on this heavy coat, a piece of my own memory vanishes forever.",
+    "visual_prompt": "Close-up of Leo, 25, messy brown hair, in his workshop, holding a golden needle near dark wool as his eyes glaze over slightly.",
+    "camera": "Rack focus from needle to his face",
+    "transition": "quick cut",
+    "mood": "unsettling"
+   },
+   {
+    "narration": "I lost my first heartbreak while repairing the left sleeve. I couldn't even remember her face anymore.",
+    "visual_prompt": "Medium shot of Leo, 25, messy brown hair, wearing a worn denim apron, touching his head with a pained expression in the dim shop.",
+    "camera": "Handheld slight shake",
+    "transition": "match cut",
+    "mood": "heartbroken"
+   },
+   {
+    "narration": "Greed whispered in my ear. I pulled tighter threads to fix the frayed collar and win back my lost youth.",
+    "visual_prompt": "Close-up of Leo, 25, messy brown hair, wearing a worn denim apron, aggressively pulling a thick red thread through the dark wool coat.",
+    "camera": "Fast pan following the thread",
+    "transition": "rapid smash cut",
+    "mood": "desperate"
+   },
+   {
+    "narration": "Suddenly, a silver pocket watch fell from the heavy lining, ticking backward with a deafening, metallic rhythm.",
+    "visual_prompt": "Close-up of Leo, 25, messy brown hair, in his workshop, catching an antique silver watch as it drops from the coat.",
+    "camera": "Low angle looking up at Leo",
+    "transition": "hard cut",
+    "mood": "shocking"
+   },
+   {
+    "narration": "Engraved on the back was my own handwriting, warning me to stop sewing before it was too late.",
+    "visual_prompt": "Macro shot of the watch back held by Leo, 25, messy brown hair, wearing a worn denim apron, illuminated by a single desk lamp.",
+    "camera": "Extreme close-up rotating shot",
+    "transition": "slow fade",
+    "mood": "ominous"
+   },
+   {
+    "narration": "I looked in the cracked mirror and saw a stranger staring back: younger, paler, and fading into dust.",
+    "visual_prompt": "Medium shot of Leo, 25, messy brown hair, wearing a worn denim apron, looking into a dusty mirror where his reflection is translucent.",
+    "camera": "Over-the-shoulder tracking shot",
+    "transition": "glitch cut",
+    "mood": "terrifying"
+   },
+   {
+    "narration": "The coat was never an inheritance. It was a trap laid by the man I am slowly becoming.",
+    "visual_prompt": "Wide shot of Leo, 25, messy brown hair, wearing a worn denim apron, standing alone as the dark wool coat drapes over an empty chair.",
+    "camera": "Pull back wide angle",
+    "transition": "slow dissolve",
+    "mood": "haunting"
+   },
+   {
+    "narration": "My fingers touched the final button, and the thread snapped, taking my entire existence into the silent dark.",
+    "visual_prompt": "Extreme close-up of Leo, 25, messy brown hair, wearing a worn denim apron, as his hand turns into glowing dust particles.",
+    "camera": "Static locked-off shot",
+    "transition": "fade to black",
+    "mood": "cinematic and chilling"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every stitch steals a year.",
+  "title": "The Time Stitch",
+  "caption": "Arthur thought he was merely fixing a flaw in an old coat. But as the threads pulled tight, so did the countdown on his own existence, leading him to a terrifying final alter.",
+  "hashtags": [
+   "cinematic",
+   "shortstory",
+   "timetravel",
+   "darkfantasy",
+   "storytelling",
+   "mystery",
+   "fiction",
+   "mindblown",
+   "writing",
+   "plottwist"
+  ]
+ }
+}

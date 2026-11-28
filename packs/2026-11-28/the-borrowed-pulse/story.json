@@ -1,0 +1,98 @@
+{
+ "story": {
+  "title": "The Borrowed Pulse",
+  "logline": "A young man realizes every heartbeat he takes belongs to someone else, until his own chest falls silent.",
+  "theme": "Mortality is not a debt you can repay on an installment plan.",
+  "twist": "He isn't paying off a heart loan; he is the backup battery for the hospital's artificial coma ward.",
+  "ending": "Whose chest keeps beating right now while you scroll?",
+  "scenes": [
+   {
+    "narration": "My watch doesn't tick time. It ticks heartbeats, and I am currently forty thousand beats in the red.",
+    "visual_prompt": "A 20-year-old man with messy dark hair and a gray hoodie stands in a neon-lit alleyway, checking a glowing red wrist device.",
+    "camera": "Extreme close-up on the glowing red counter, pulling back to a medium shot.",
+    "transition": "Hard cut",
+    "mood": "Tense and urgent"
+   },
+   {
+    "narration": "Every morning, the collection agency sends my daily quota straight to my veins, keeping my chest painfully alive.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie in a gritty alley, pressing a needle to his forearm.",
+    "camera": "Close-up on the arm injection, shaky-cam effect.",
+    "transition": "Quick whip pan",
+    "mood": "Anxious"
+   },
+   {
+    "narration": "I stole these beats from the black market clinic three years ago just to survive a sudden terminal cardiac collapse.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie looking up at a towering, ominous hospital skyscraper.",
+    "camera": "Low angle tracking shot moving upward.",
+    "transition": "Match cut",
+    "mood": "Regretful"
+   },
+   {
+    "narration": "Interest rates are brutal. I have to sprint every afternoon just to generate enough natural friction to pay back the capital.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie sprinting desperately down a crowded city sidewalk.",
+    "camera": "Side profile tracking shot running alongside him.",
+    "transition": "Fast blur",
+    "mood": "Exhausted"
+   },
+   {
+    "narration": "Today the red counter hit zero early. My chest started to flutter, skipping rhythms like a dying engine.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie clutching his chest in an empty stairwell, sweating profusely.",
+    "camera": "Push-in medium close-up, disorienting focus pull.",
+    "transition": "Smash cut",
+    "mood": "Terrified"
+   },
+   {
+    "narration": "I slammed open the underground clinic doors, begging the receptionist for just one more emergency loan extension.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie bursting through heavy glass doors into a sterile white lobby.",
+    "camera": "Wide dynamic angle from behind the counter.",
+    "transition": "Quick zoom",
+    "mood": "Desperate"
+   },
+   {
+    "narration": "She didn't hand me a needle. She simply pointed past the desk toward row upon row of sleeping glass pods.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie standing frozen in a vast, dark room filled with glowing medical pods.",
+    "camera": "Slow pan across rows of blue-lit glass tanks.",
+    "transition": "Slow fade",
+    "mood": "Eerie"
+   },
+   {
+    "narration": "Inside those pods lay hundreds of real people, hooked to cables that routed every single heartbeat straight into my body.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie staring in horror at a sleeping patient inside a glowing glass pod.",
+    "camera": "Over-the-shoulder shot looking into the illuminated pod glass.",
+    "transition": "Slow push-in",
+    "mood": "Chilling"
+   },
+   {
+    "narration": "I never borrowed from the dead. I was draining a ward of comatose teenagers all along without knowing it.",
+    "visual_prompt": "The same 20-year-old man with messy dark hair and a gray hoodie looking down at his own glowing wrist device turning completely dark.",
+    "camera": "Extreme close-up on the dead red display.",
+    "transition": "Fade to black",
+    "mood": "Devastating"
+   },
+   {
+    "narration": "My chest went completely still. Yet the machine beside me kept counting. Whose heart are you borrowing right now?",
+    "visual_prompt": "Total darkness on screen with only a faint, pulsing red digital glow fading into absolute nothingness.",
+    "camera": "Static wide shot of absolute darkness.",
+    "transition": "Final fade",
+    "mood": "Haunting"
+   }
+  ]
+ },
+ "caption": {
+  "hook": "Every heartbeat you take isn't yours.",
+  "title": "The Borrowed Pulse",
+  "caption": "For years, he thought he was paying back a debt of life, beating on borrowed time. But when the silence finally came, he learned the horrifying truth about who he was really keeping alive.\n\nWould you trade your life to keep strangers dreaming?",
+  "hashtags": [
+   "shortstory",
+   "cinematic",
+   "darkfantasy",
+   "twistending",
+   "scifi",
+   "existential",
+   "mystery",
+   "writing",
+   "fiction",
+   "mindblown"
+  ]
+ }
+}
